@@ -18,9 +18,9 @@ class Scraper:
     """Scraper class for web scraping from different urls.
     
     Methods:
-        __init__ -- Initialize scraper.
-        set_crawl_delay -- Set crawl delay to a positive int.
-        write_html -- Write given url to disc at specified path. 
+        __init__ (None) -- Initialize scraper.
+        set_crawl_delay (None) -- Set crawl delay to a positive int.
+        write_html (None) -- Write given url to disc at specified path. 
         
     Todo:
         Give option for randomized crawl delay. Adds protection against bot detectors.
@@ -119,6 +119,7 @@ class Scraper:
         except requests.exceptions.ConnectionError as e:
             print('Your internet may be disconnected.', end='\r')
             raise e
+        
         if self._encoding.lower() == 'utf-8':
             soup = BeautifulSoup(r.content, 'html.parser')
             pretty_html = soup.prettify()

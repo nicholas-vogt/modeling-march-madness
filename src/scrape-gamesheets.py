@@ -8,12 +8,16 @@
 
 from copy import deepcopy
 import datetime
+import os.path as ospath
+import requests
+
+from bs4 import BeautifulSoup
 
 from Scraper import Scraper
 
 ROOT_URL = "http://www.sports-reference.com/"
 
-def make_dated_url(year, month, day):
+def make_dated_gamesheet_url(year, month, day):
     """Make absolute path to gamesheet for a given date. 
     
     Arguments:
@@ -48,6 +52,21 @@ def make_dated_filepath(year, month, day):
     """
     return "./../html/gamesheets/{}-{}-{}.txt".format(year, month, day)
 
+def get_boxscore_urls(gamesheet_url):
+    """Collect boxscore urls from given gamesheet.
+    
+    Arguments:
+        gamesheet_url (str) -- Full url to gamesheet where boxscore url are found.
+       
+    Returns: List of boxscore urls.
+    """
+    # gamesheet_url = "http://www.sports-reference.com/cbb/boxscores/index.cgi?month=02&day=03&year=2017"
+    r = requests.get(gamesheet_url)
+    soup = BeautifulSoup(r.content, 'html.parser')
+
+    # I used the SelectorGadget to learn the class "teams" corresponds to boxscores
+    boxscore_tags = soup.find_all(class_='right gamelink')
+    return [ROOT_URL + tag.a.get('href') for tag in boxscore_tags if tag.a]
 
 def main():
     """Scrape gamesheets and boxscores from sports-reference.
@@ -56,18 +75,30 @@ def main():
     Todo:
         Allow for command line interface using argparse library.
     """
-    scraper = Scraper(crawl_delay=3)
+    scraper = Scraper(use_VPN=False, encoding='UTF-8', crawl_delay=3)
+    
     # Specify date range with start_date and end_date variables.
-    start_date = datetime.datetime(year=2017, month=2, day=1)
+    start_date = datetime.datetime(year=2017, month=2, day=4)
     end_date = datetime.datetime.now()
     
     date = deepcopy(start_date)
     one_day = datetime.timedelta(days=1)
     while start_date <= date <= end_date:
         year, month, day = date.year, date.month, date.day
-        gamesheet_url = make_dated_url(year, month, day)
-        filepath = make_dated_filepath(year, month, day)
-        scraper.write_html(gamesheet_url, filepath)
+        
+        gamesheet_url = make_dated_gamesheet_url(year, month, day)
+        gamesheet_filepath = make_dated_filepath(year, month, day)
+        
+        scraper.write_html(gamesheet_url, gamesheet_filepath)
+        
+        for boxscore_url in get_boxscore_urls(gamesheet_url):
+            # Make a unique boxscore filepath for each url            
+            parent, child = ospath.split(boxscore_url)
+            child = child.replace('.html', '')
+            boxscore_filepath = "./../html/boxscores/" + child.strip(' ') + '.txt'
+            
+            scraper.write_html(boxscore_url, boxscore_filepath)
+        
         date += one_day
 
     return None
