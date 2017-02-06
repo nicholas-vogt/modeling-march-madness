@@ -6,16 +6,16 @@
 
 # Gamesheet scraper for college basketball data on sports-reference.com
 
-from copy import deepcopy
+from copy import deepcopy  
 import datetime
 import os.path as ospath
 import requests
 
 from bs4 import BeautifulSoup
 
+from definitions import ROOT_URL
 from Scraper import Scraper
 
-ROOT_URL = "http://www.sports-reference.com/"
 
 def make_dated_gamesheet_url(year, month, day):
     """Make absolute path to gamesheet for a given date. 
@@ -68,27 +68,33 @@ def get_boxscore_urls(gamesheet_url):
     boxscore_tags = soup.find_all(class_='right gamelink')
     return [ROOT_URL + tag.a.get('href') for tag in boxscore_tags if tag.a]
 
-def main():
+def scrape_sports_reference():
     """Scrape gamesheets and boxscores from sports-reference.
     Specify date range with while loop. 
+    
+    Sample gamesheet: 
+        http://www.sports-reference.com/cbb/boxscores/index.cgi?month=02&day=03&year=2017
+    Sample boxscore:
+        http://www.sports-reference.com/cbb/boxscores/2017-02-03-ball-state.html
+    
+    Box scores are linked via the "Total" text beside each game score on the gamesheets page.
     
     Todo:
         Allow for command line interface using argparse library.
     """
-    scraper = Scraper(use_VPN=False, encoding='UTF-8', crawl_delay=3)
+    scraper = Scraper(use_VPN=False, encoding='utf-8', crawl_delay=3)
     
     # Specify date range with start_date and end_date variables.
     start_date = datetime.datetime(year=2017, month=2, day=4)
     end_date = datetime.datetime.now()
     
-    date = deepcopy(start_date)
+    date = deepcopy(start_date)  # Always deepcopy containers
     one_day = datetime.timedelta(days=1)
     while start_date <= date <= end_date:
         year, month, day = date.year, date.month, date.day
         
         gamesheet_url = make_dated_gamesheet_url(year, month, day)
         gamesheet_filepath = make_dated_filepath(year, month, day)
-        
         scraper.write_html(gamesheet_url, gamesheet_filepath)
         
         for boxscore_url in get_boxscore_urls(gamesheet_url):
@@ -104,4 +110,4 @@ def main():
     return None
 
 if __name__ == '__main__':
-    main()
+    scrape_sports_reference()

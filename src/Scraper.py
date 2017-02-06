@@ -20,6 +20,7 @@ class Scraper:
     Methods:
         __init__ (None) -- Initialize scraper.
         set_crawl_delay (None) -- Set crawl delay to a positive int.
+        make_soup (BeautifulSoup object) -- Make soup out of given url.
         write_html (None) -- Write given url to disc at specified path. 
         
     Todo:
@@ -38,12 +39,12 @@ class Scraper:
     _VPN_headers = deepcopy(_default_headers)
     
     
-    def __init__(self, *, use_VPN=False, encoding='UTF-8', crawl_delay=5):
+    def __init__(self, *, use_VPN=False, encoding='utf-8', crawl_delay=5):
         """Initialize Scraper class.
         
         Keyword arguments:
             use_VPN (bool) -- Whether to use VPN headers in request. Requests are slower if True. (default False)
-            encoding (str) -- Which encoding to use when writing html to disk. (default 'UTF-8')
+            encoding (str) -- Which encoding to use when writing html to disk. (default 'utf-8')
             crawl_delay (int, float) -- Number of seconds to delay the scraper.
         
         Returns: None
@@ -81,6 +82,26 @@ class Scraper:
         return None
 
     
+    def make_soup(self, url):
+        """Make a BeautifulSoup object out of html from a given url.
+        
+        Arguments:
+            url (str) -- Full url to site.
+        
+        Returns: BeautifulSoup object with encoded bytestring.
+        """
+        assert isinstance(url, str), TypeError('`url` must be a string')
+        try:
+            r = self._session.get(url)
+        except requests.exceptions.ConnectionError as e:
+            print('Your internet may be disconnected.', end='\r')
+            raise e
+        soup = BeautifulSoup(r.content, 'html.parser')
+        sleep(self._crawl_delay)
+        
+        return soup
+    
+    
     def write_html(self, url, path, *, overwrite=False):
         """Write html source code from url to user-defined path as encoded byte string.
         Creates directories as necessary. Will not overwrite a file unless told to do so.
@@ -111,29 +132,23 @@ class Scraper:
             return None
         elif not os.path.exists(parent):
             os.makedirs(parent)
-
-        sleep(self._crawl_delay)
         
-        try:
-            r = self._session.get(url)
-        except requests.exceptions.ConnectionError as e:
-            print('Your internet may be disconnected.', end='\r')
-            raise e
+        soup = self.make_soup(url)
         
-        if self._encoding.lower() == 'utf-8':
-            soup = BeautifulSoup(r.content, 'html.parser')
-            pretty_html = soup.prettify()
-        else:
-            soup = BeautifulSoup(r.text, 'html.parser')
-            pretty_html = soup.prettify().encode(self._encoding)
+        # This may throw errors if you can't encode certain characters. 
+        # If this happens, ignore bad encodings in the `encode` function or
+        # remove the bad characters from the bytestring.
+        encoded_html = soup.prettify().encode(self._encoding)
 
         # We may want to uniquely identify the subjects of these htmls later.
         ID = hex(randrange(16**30))
+        
+        # This line makes it easier to read what's happening when you 
+        # run the program from the command line.
         print('\tsaving', path, end='         \r')
         with open(path, 'wb') as html_txt:
-            ID_line = '''<!--ID: %s-->\n''' % ID
-            ID_line = ID_line.encode(self._encoding)
+            ID_line = '''<!--ID: {}-->\n'''.format(ID).encode(self._encoding)
             html_txt.write(ID_line)
-            html_txt.write(pretty_html.encode(self._encoding))
+            html_txt.write(encoded_html)
         
         return None
