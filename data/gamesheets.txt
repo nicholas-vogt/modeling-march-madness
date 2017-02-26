@@ -1,0 +1,10 @@
+Date	WinningTeam	WinningScore	LosingTeam	LosingScore
+2017-2-3	Buffalo	96	Ball State	69
+2017-2-3	Central Michigan	86	Western Michigan	82
+2017-2-3	Yale	87	Columbia	78
+2017-2-3	Brown	81	Cornell	70
+2017-2-3	Princeton	69	Dartmouth	64
+2017-2-3	Rhode Island	70	Davidson	59
+2017-2-3	Harvard	69	Penn	59
+2017-2-3	Monmouth	71	St. Peter's	70
+2017-2-3	Iona	95	Rider	76

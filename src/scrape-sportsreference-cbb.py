@@ -92,6 +92,7 @@ def scrape_sports_reference():
     one_day = datetime.timedelta(days=1)
     while start_date <= date <= end_date:
         year, month, day = date.year, date.month, date.day
+        print(year, month, day)
         
         gamesheet_url = make_dated_gamesheet_url(year, month, day)
         gamesheet_filepath = make_dated_filepath(year, month, day)

@@ -38,7 +38,6 @@ class Scraper:
     # Insert your own VPN headers here
     _VPN_headers = deepcopy(_default_headers)
     
-    
     def __init__(self, *, use_VPN=False, encoding='utf-8', crawl_delay=5):
         """Initialize Scraper class.
         
