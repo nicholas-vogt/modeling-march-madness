@@ -13,6 +13,14 @@ Learn how to scrape web pages to build your dataset and model the tournament in 
 
 At the end of this project, you will have a fully function model of the NCAA Basketball Tournament. Tweak it to your own needs and desires to beat up on your friends and co-workers in a tourney pool. 
 
+## Quick Start
+
+To scrape all web pages, run the `scrape-sportsreference-cbb.py` file in the command line. This will take a few hours to run depending on the dates you choose to scrape.
+
+To mine all htmls, run the `GamesheetMiner.py` and `BoxscoreMiner.py` files in the command line. These don't take as long to run, but will still take about an hour depending on how many seasons you're scraping. 
+
+Selection Sunday is almost here! The model selection and model evaluation files will be posted next. 
+
 ## Python Version and Libraries
 
 These workshops use Python 3.5. I'm pretty certain any Python 3 version will suffice, but update your version if you have doubts. 
