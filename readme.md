@@ -15,6 +15,8 @@ At the end of this project, you will have a fully function model of the NCAA Bas
 
 ## Quick Start
 
+All files are intended to be run from their directories. Running files from a different directory will create folders in its parent directory. 
+
 To scrape all web pages, run the `scrape-sportsreference-cbb.py` file in the command line. This will take a few hours to run depending on the dates you choose to scrape.
 
 To mine all htmls, run the `GamesheetMiner.py` and `BoxscoreMiner.py` files in the command line. These don't take as long to run, but will still take about an hour depending on how many seasons you're scraping. 

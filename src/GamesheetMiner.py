@@ -19,7 +19,7 @@ class GamesheetMiner(Miner):
 
     Methods:
         __init__ (None) -- Initialize class with path for exported data.
-        mine_boxscore (List) -- Mine game data. Returns data in nested List.
+        mine_gamesheet (List) -- Mine game data. Returns data in nested List.
         write (None) -- Write game data to txt file on disc.
 
     Todo:
@@ -86,7 +86,7 @@ class GamesheetMiner(Miner):
 
 
 if __name__ == '__main__':
-    miner = GamesheetMiner("./../data/feb-gamesheets.txt")
+    miner = GamesheetMiner(data_path="./../data/feb-gamesheets.txt")
     gamesheet_dir = "./../html/gamesheets/"
     for root, dirs, files in os.walk(gamesheet_dir):
         for f in files:
