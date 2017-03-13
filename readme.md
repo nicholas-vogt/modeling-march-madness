@@ -1,6 +1,6 @@
 # Modeling March Madness in Python
 ### A four-part series by Nick Vogt
-###### Repo is updated through _Workshop 2: Data Mining_. The next workshop will be posted by March 13, 2017.
+###### Repo is updated through _Workshop 3: Model Selection_. The next workshop will be posted in early April.
 
 Join [me](http://nicholas-vogt.github.io/home) and [MSU Data Science](http://msudatascience.com/) in modeling march madness entirely in Python!
 
