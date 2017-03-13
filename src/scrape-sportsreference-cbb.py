@@ -85,13 +85,14 @@ def scrape_sports_reference():
     scraper = Scraper(use_VPN=False, encoding='utf-8', crawl_delay=3)
     
     # Specify date range with start_date and end_date variables.
-    start_date = datetime.datetime(year=2017, month=2, day=4)
+    start_date = datetime.datetime(year=2017, month=1, day=1)
     end_date = datetime.datetime.now()
     
     date = deepcopy(start_date)  # Always deepcopy containers
     one_day = datetime.timedelta(days=1)
     while start_date <= date <= end_date:
         year, month, day = date.year, date.month, date.day
+        
         print(year, month, day)
         
         gamesheet_url = make_dated_gamesheet_url(year, month, day)

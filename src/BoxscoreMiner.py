@@ -139,11 +139,14 @@ def get_team_names(soup):
 
 
 if __name__ == '__main__':
-    miner = BoxscoreMiner("./../data/feb-boxscores.txt")
+    miner = BoxscoreMiner("./../data/boxscores-2017.txt")
     boxscore_dir = "./../html/boxscores/"
     for root, dirs, files in os.walk(boxscore_dir):
         for f in files:
             if f.endswith('txt'):
                 print("Mining", f)
-                miner.mine_boxscore(os.path.join(boxscore_dir, f))
-                miner.write()
+                try:
+                    miner.mine_boxscore(os.path.join(boxscore_dir, f))
+                    miner.write()
+                except ValueError as err:
+                    print(err)
