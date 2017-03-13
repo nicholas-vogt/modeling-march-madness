@@ -86,7 +86,7 @@ class GamesheetMiner(Miner):
 
 
 if __name__ == '__main__':
-    miner = GamesheetMiner(data_path="./../data/gamesheets-2017.txt")
+    miner = GamesheetMiner(data_path="./../data-raw/gamesheets-2017.txt")
     gamesheet_dir = "./../html/gamesheets/"
     for root, dirs, files in os.walk(gamesheet_dir):
         for f in files:

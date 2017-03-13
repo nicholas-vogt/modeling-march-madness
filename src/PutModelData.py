@@ -2,15 +2,18 @@ import pandas as pd
 
 # from PutMatchups import put_season_matchups
 
-
-def get_game_results(csv='./../data/gamesheets-2017.txt'):
-    """Get Gamesheet Data
-    """
-    # Clean Gamesheet Data
+def get_gamesheets(csv='./../data-raw/gamesheets-2017.txt'):
+    """Import gamesheet data.
+    """    
     Gamesheets = pd.read_csv(csv, sep='\t', index_col=False)
     Gamesheets['Date'] = pd.to_datetime(Gamesheets['Date'])
     Gamesheets['ScoreDiff'] = Gamesheets['WinningScore'] - Gamesheets['LosingScore']
+    return Gamesheets
 
+def get_game_results(csv='./../data-raw/gamesheets-2017.txt'):
+    """Get Gamesheet Data
+    """
+    Gamesheets = get_gamesheets()
     Winners = Gamesheets[['Date', 'WinningTeam', 'WinningScore', 'ScoreDiff']]
     Winners.columns = ('Date', 'TeamName', 'Score', 'ScoreDiff')
     Losers = Gamesheets[['Date', 'LosingTeam', 'LosingScore', 'ScoreDiff']]
@@ -18,24 +21,18 @@ def get_game_results(csv='./../data/gamesheets-2017.txt'):
     Losers['ScoreDiff'] = Losers.apply(lambda x: -x['ScoreDiff'], axis=1)
     GameResults = pd.concat([Winners, Losers], axis=0)
     
-    # Teams = pd.read_csv("./../data/Teams.csv")
-    # Teams.columns = ('TeamID', 'TeamName')
-    # GameResults = pd.merge(GameResults, Teams, how='left', on='TeamName')
-    
-    # GameResults = GameResults[['Date', 'TeamID', 'TeamName', 'Score', 'ScoreDiff']]
     GameResults = GameResults[['Date', 'TeamName', 'Score', 'ScoreDiff']]
     GameResults['Win'] = GameResults['ScoreDiff'] > 0
-    GameResults['Win'].astype(int)
-    GameResults.sort_values(by=['Date', 'TeamName'])
+    GameResults['Win'] = GameResults['Win'].astype(int)
     
-    return GameResults
+    return GameResults.sort_values(by=['Date', 'TeamName'])
 
-def get_boxscores(csv='./../data/boxscores-2017.txt'):
+def get_boxscores(csv='./../data-raw/boxscores-2017.txt'):
     Boxscores = pd.read_csv(csv, sep='\t', index_col=False)
     Boxscores['Date'] = pd.to_datetime(Boxscores['Date'])
     Boxscores = Boxscores.rename(columns={'Team': 'TeamName'})
-    # Boxscores = Boxscores.set_index(['Date', 'TeamName']).groupby(level=[0,1]).sum()
-    return Boxscores
+    
+    return Boxscores.sort_values(['Date', 'TeamName'])
 
 def get_season_game_stats():
     Boxscores = get_boxscores().sort_values(['Date', 'TeamName'])

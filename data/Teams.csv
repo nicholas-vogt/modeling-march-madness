@@ -1,0 +1,375 @@
+TeamName,TeamID
+Abilene Christian,1000
+Air Force,1001
+Akron,1002
+Alabama,1003
+Alabama A&M;,1004
+Alabama State,1005
+Alabama-Birmingham,1006
+Albany (NY),1007
+Alcorn State,1008
+Allen,1009
+American,1010
+Antelope Valley,1011
+Appalachian State,1012
+Arizona,1013
+Arizona State,1014
+Arkansas,1015
+Arkansas State,1016
+Arkansas-Little Rock,1017
+Arkansas-Pine Bluff,1018
+Army,1019
+Auburn,1020
+Austin Peay,1021
+Ave Maria,1022
+BYU,1023
+Ball State,1024
+Baylor,1025
+Belmont,1026
+Bethesda University (CA),1027
+Bethune-Cookman,1028
+Binghamton,1029
+Boise State,1030
+Boston College,1031
+Boston University,1032
+Bowling Green State,1033
+Bradley,1034
+Brown,1035
+Bryant,1036
+Bucknell,1037
+Buffalo,1038
+Butler,1039
+Cal Poly,1040
+Cal State Bakersfield,1041
+Cal State Fullerton,1042
+Cal State Northridge,1043
+Campbell,1044
+Canisius,1045
+Central Arkansas,1046
+Central Connecticut,1047
+Central Michigan,1048
+Charleston Southern,1049
+Charlotte,1050
+Chattanooga,1051
+Chicago State,1052
+Cincinnati,1053
+Citadel,1054
+Clemson,1055
+Cleveland State,1056
+Coastal Carolina,1057
+Colgate,1058
+College of Charleston,1059
+Colorado,1060
+Colorado State,1061
+Columbia,1062
+Coppin State,1063
+Cornell,1064
+Creighton,1065
+Dartmouth,1066
+Davidson,1067
+Dayton,1068
+DePaul,1069
+Delaware,1070
+Delaware State,1071
+Denver,1072
+Detroit,1073
+Drake,1074
+Drexel,1075
+Duke,1076
+Duquesne,1077
+ETSU,1078
+East Carolina,1079
+Eastern Illinois,1080
+Eastern Kentucky,1081
+Eastern Michigan,1082
+Eastern Washington,1083
+Elon,1084
+Evansville,1085
+Fairfield,1086
+Fairleigh Dickinson,1087
+Fisher College,1088
+Fisk,1089
+Florida,1090
+Florida A&M;,1091
+Florida Atlantic,1092
+Florida Gulf Coast,1093
+Florida International,1094
+Florida State,1095
+Fordham,1096
+Fort Valley State,1097
+Fresno State,1098
+Furman,1099
+Gardner-Webb,1100
+George Mason,1101
+George Washington,1102
+Georgetown,1103
+Georgia,1104
+Georgia Southern,1105
+Georgia State,1106
+Georgia Tech,1107
+Gonzaga,1108
+Grambling,1109
+Grand Canyon,1110
+Green Bay,1111
+Hampton,1112
+Hartford,1113
+Harvard,1114
+Hawaii,1115
+High Point,1116
+Hillsdale,1117
+Hofstra,1118
+Holy Cross,1119
+Houston,1120
+Houston Baptist,1121
+Howard,1122
+IPFW,1123
+IUPUI,1124
+Idaho,1125
+Idaho State,1126
+Illinois,1127
+Illinois State,1128
+Incarnate Word,1129
+Indiana,1130
+Indiana State,1131
+Iona,1132
+Iowa,1133
+Iowa State,1134
+Jackson State,1135
+Jacksonville,1136
+Jacksonville State,1137
+James Madison,1138
+Kansas,1139
+Kansas State,1140
+Kennesaw State,1141
+Kent State,1142
+Kentucky,1143
+LIU-Brooklyn,1144
+LSU,1145
+La Salle,1146
+Lafayette,1147
+Lamar,1148
+Lehigh,1149
+Liberty,1150
+Lipscomb,1151
+Long Beach State,1152
+Longwood,1153
+Louisiana Tech,1154
+Louisiana-Lafayette,1155
+Louisiana-Monroe,1156
+Louisville,1157
+Loyola (IL),1158
+Loyola (MD),1159
+Loyola Marymount,1160
+Maine,1161
+Manhattan,1162
+Marist,1163
+Marquette,1164
+Marshall,1165
+Maryland,1166
+Maryland-Eastern Shore,1167
+McGill,1168
+McNeese State,1169
+Memphis,1170
+Mercer,1171
+Miami (FL),1172
+Miami (OH),1173
+Michigan,1174
+Michigan State,1175
+Middle Georgia State,1176
+Middle Tennessee,1177
+Milwaukee,1178
+Minnesota,1179
+Mississippi State,1180
+Mississippi Valley State,1181
+Missouri,1182
+Missouri State,1183
+Mitchell,1184
+Monmouth,1185
+Montana,1186
+Montana State,1187
+Morehead State,1188
+Morgan State,1189
+Mount St. Mary's,1190
+Murray State,1191
+NJIT,1192
+Navy,1193
+Nebraska,1194
+Nebraska-Omaha,1195
+Nevada,1196
+New Hampshire,1197
+New Mexico,1198
+New Mexico State,1199
+New Orleans,1200
+Niagara,1201
+Nicholls State,1202
+Norfolk State,1203
+North Carolina A&T;,1204
+North Carolina Central,1205
+North Carolina State,1206
+North Carolina-Asheville,1207
+North Carolina-Greensboro,1208
+North Carolina-Wilmington,1209
+North Dakota,1210
+North Dakota State,1211
+North Florida,1212
+North Texas,1213
+Northeastern,1214
+Northern Arizona,1215
+Northern Colorado,1216
+Northern Illinois,1217
+Northern Iowa,1218
+Northern Kentucky,1219
+Northern New Mexico,1220
+Northwestern,1221
+Northwestern State,1222
+Notre Dame,1223
+Oakland,1224
+Ohio,1225
+Ohio State,1226
+Oklahoma,1227
+Oklahoma State,1228
+Old Dominion,1229
+Ole Miss,1230
+Olivet,1231
+Oral Roberts,1232
+Oregon,1233
+Oregon State,1234
+Ottawa (KS),1235
+Pacific,1236
+Palm Beach Atlantic,1237
+Penn,1238
+Penn State,1239
+Pepperdine,1240
+Pitt,1241
+Portland,1242
+Portland State,1243
+Prairie View,1244
+Presbyterian,1245
+Princeton,1246
+Providence,1247
+Purdue,1248
+Quinnipiac,1249
+Radford,1250
+Rhode Island,1251
+Rice,1252
+Richmond,1253
+Rider,1254
+Robert Morris,1255
+Roosevelt,1256
+Rutgers,1257
+SMU,1258
+Sacramento State,1259
+Sacred Heart,1260
+Saint Francis (PA),1261
+Saint Louis,1262
+Saint Mary's (CA),1263
+Sam Houston State,1264
+Samford,1265
+San Diego,1266
+San Diego Christian,1267
+San Diego State,1268
+San Francisco,1269
+San Jose State,1270
+Santa Clara,1271
+Savannah State,1272
+Seattle,1273
+Seton Hall,1274
+Siena,1275
+South Alabama,1276
+South Carolina,1277
+South Carolina State,1278
+South Carolina Upstate,1279
+South Dakota,1280
+South Dakota State,1281
+South Florida,1282
+Southeast Missouri State,1283
+Southeastern Louisiana,1284
+Southern,1285
+Southern Illinois,1286
+Southern Illinois-Edwardsville,1287
+Southern Miss,1288
+Southern Utah,1289
+St. Bonaventure,1290
+St. Francis (NY),1291
+St. John's (NY),1292
+St. Joseph's,1293
+St. Peter's,1294
+Stanford,1295
+Stephen F. Austin,1296
+Stetson,1297
+Stony Brook,1298
+Syracuse,1299
+Temple,1300
+Tennessee,1301
+Tennessee State,1302
+Tennessee Tech,1303
+Texas,1304
+Texas A&M-Corpus; Christi,1305
+Texas A&M;,1306
+Texas Christian,1307
+Texas Southern,1308
+Texas State,1309
+Texas Tech,1310
+Texas-Arlington,1311
+Texas-Rio Grande Valley,1312
+Toledo,1313
+Towson,1314
+Trevecca Nazarene,1315
+Troy,1316
+Truman State,1317
+Tulane,1318
+Tulsa,1319
+Tusculum,1320
+UC-Davis,1321
+UC-Irvine,1322
+UC-Riverside,1323
+UCF,1324
+UCLA,1325
+UCSB,1326
+UConn,1327
+UIC,1328
+UMBC,1329
+UMKC,1330
+UMass,1331
+UMass-Lowell,1332
+UNC,1333
+UNLV,1334
+USC,1335
+UT-Martin,1336
+UTEP,1337
+UTSA,1338
+University of California,1339
+Utah,1340
+Utah State,1341
+Utah Valley,1342
+VCU,1343
+Valley Forge,1344
+Valparaiso,1345
+Vanderbilt,1346
+Vermont,1347
+Villanova,1348
+Virginia,1349
+Virginia Military Institute,1350
+Virginia Tech,1351
+Wagner,1352
+Wake Forest,1353
+Walla Walla,1354
+Washington,1355
+Washington State,1356
+Weber State,1357
+West Virginia,1358
+Western Carolina,1359
+Western Illinois,1360
+Western Kentucky,1361
+Western Michigan,1362
+Wheelock,1363
+Wichita State,1364
+William & Mary,1365
+Winthrop,1366
+Wisconsin,1367
+Wofford,1368
+Wright State,1369
+Wyoming,1370
+Xavier,1371
+Yale,1372
+Youngstown State,1373

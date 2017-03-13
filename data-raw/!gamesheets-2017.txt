@@ -1,0 +1,3044 @@
+Date	WinningTeam	WinningScore	LosingTeam	LosingScore
+2017-1-1	Boston College	96	Syracuse	81	
+2017-1-1	Butler	78	Providence	61	
+2017-1-1	University of California	81	Arizona State	65	
+2017-1-1	Cincinnati	92	Tulane	56	
+2017-1-1	St. John's (NY)	79	DePaul	73	
+2017-1-1	Evansville	70	Northern Iowa	58	
+2017-1-1	Illinois	75	Ohio State	70	
+2017-1-1	Iowa	86	Michigan	83	
+2017-1-1	Illinois State	81	Loyola (IL)	59	
+2017-1-1	Nebraska	67	Maryland	65	
+2017-1-1	Middle Tennessee	60	Alabama-Birmingham	49	
+2017-1-1	Minnesota	91	Purdue	82	
+2017-1-1	Penn State	60	Rutgers	47	
+2017-1-1	New Mexico	68	San Diego State	62	
+2017-1-1	Seton Hall	69	Marquette	66	
+2017-1-1	Southern Illinois	83	Drake	69	
+2017-1-1	Louisiana Tech	79	Southern Miss	55	
+2017-1-1	Arizona	91	Stanford	52	
+2017-1-1	UTSA	67	UTEP	55	
+2017-1-1	Utah	76	Colorado	60	
+2017-1-1	Washington State	79	Washington	74	
+2017-1-1	Wichita State	100	Bradley	66	
+2017-1-10	Florida	80	Alabama	67	
+2017-1-10	Mississippi State	84	Arkansas	78	
+2017-1-10	Ball State	85	Miami (OH)	74	
+2017-1-10	Eastern Michigan	81	Bowling Green State	53	
+2017-1-10	Ohio	74	Buffalo	72	
+2017-1-10	Akron	89	Central Michigan	85	
+2017-1-10	DePaul	64	Providence	63	
+2017-1-10	Canisius	86	Fairfield	72	
+2017-1-10	Morgan State	62	Florida A&M;	59	
+2017-1-10	Florida State	88	Duke	72	
+2017-1-10	Green Bay	80	Northern Kentucky	71	
+2017-1-10	Harvard	70	McGill	45	
+2017-1-10	Jacksonville State	81	Fort Valley State	69	
+2017-1-10	Northern Illinois	74	Kent State	70	
+2017-1-10	Manhattan	78	Niagara	69	
+2017-1-10	Maryland	75	Indiana	72	
+2017-1-10	Auburn	77	Missouri	72	
+2017-1-10	UNLV	71	New Mexico	66	
+2017-1-10	Delaware State	69	North Carolina Central	68	
+2017-1-10	Kansas	81	Oklahoma	70	
+2017-1-10	George Mason	75	St. Joseph's	67	
+2017-1-10	San Diego State	76	San Jose State	61	
+2017-1-10	Southeast Missouri State	83	Tennessee Tech	78	
+2017-1-10	Texas Tech	66	Kansas State	65	
+2017-1-10	Kentucky	87	Vanderbilt	81	
+2017-1-10	Villanova	79	Xavier	54	
+2017-1-10	Virginia Tech	83	Syracuse	73	
+2017-1-10	West Virginia	89	Baylor	68	
+2017-1-10	Western Michigan	90	Toledo	74	
+2017-1-11	Air Force	81	Fresno State	72	
+2017-1-11	New Hampshire	75	Albany (NY)	67	
+2017-1-11	Colgate	79	Army	76	
+2017-1-11	Vermont	67	Binghamton	50	
+2017-1-11	Boston College	74	North Carolina State	66	
+2017-1-11	Boston University	76	American	66	
+2017-1-11	Bradley	72	Northern Iowa	61	
+2017-1-11	Lehigh	82	Bucknell	71	
+2017-1-11	Charleston Southern	70	Radford	64	
+2017-1-11	Chattanooga	83	Citadel	73	
+2017-1-11	UConn	73	Temple	59	
+2017-1-11	Creighton	75	Butler	64	
+2017-1-11	Fordham	60	Davidson	54	
+2017-1-11	Denver	84	Western Illinois	70	
+2017-1-11	Drake	87	Indiana State	70	
+2017-1-11	Duquesne	73	Saint Louis	66	
+2017-1-11	Houston	74	East Carolina	58	
+2017-1-11	Campbell	76	Gardner-Webb	60	
+2017-1-11	UMBC	84	Hartford	68	
+2017-1-11	Liberty	62	High Point	58	
+2017-1-11	Holy Cross	71	Lafayette	54	
+2017-1-11	Illinois	85	Michigan	69	
+2017-1-11	Nebraska-Omaha	79	IUPUI	71	
+2017-1-11	Alcorn State	63	Jackson State	50	
+2017-1-11	Lamar	87	Incarnate Word	72	
+2017-1-11	Cal State Northridge	89	Long Beach State	82	
+2017-1-11	Louisville	85	Pitt	80	
+2017-1-11	Navy	75	Loyola (MD)	62	
+2017-1-11	Maine	73	UMass-Lowell	71	
+2017-1-11	Marquette	89	Seton Hall	86	
+2017-1-11	UMass	67	Dayton	55	
+2017-1-11	Michigan State	65	Minnesota	47	
+2017-1-11	Georgia	69	Ole Miss	47	
+2017-1-11	Missouri State	55	Evansville	51	
+2017-1-11	Norfolk State	80	Savannah State	76	
+2017-1-11	North Carolina-Asheville	89	Longwood	68	
+2017-1-11	North Carolina Central	69	Maryland-Eastern Shore	52	
+2017-1-11	Iowa State	96	Oklahoma State	86	
+2017-1-11	Richmond	78	St. Bonaventure	61	
+2017-1-11	Mercer	68	Samford	65	
+2017-1-11	North Dakota State	70	South Dakota	69	
+2017-1-11	Tulane	82	South Florida	67	
+2017-1-11	Illinois State	60	Southern Illinois	53	
+2017-1-11	Stephen F. Austin	79	Texas A&M-Corpus; Christi	46	
+2017-1-11	South Carolina	70	Tennessee	60	
+2017-1-11	Texas Christian	64	Texas	61	
+2017-1-11	Texas A&M;	92	LSU	62	
+2017-1-11	Tulsa	81	Memphis	71	
+2017-1-11	VCU	85	George Washington	55	
+2017-1-11	UNC	93	Wake Forest	87	
+2017-1-11	Wichita State	87	Loyola (IL)	75	
+2017-1-11	Winthrop	75	Presbyterian	52	
+2017-1-11	Wyoming	95	Utah State	87	
+2017-1-12	Southeastern Louisiana	56	Abilene Christian	50	
+2017-1-12	Alabama-Birmingham	72	Western Kentucky	54	
+2017-1-12	Arizona	91	Arizona State	75	
+2017-1-12	BYU	85	San Francisco	75	
+2017-1-12	Bryant	77	Wagner	66	
+2017-1-12	Cal State Fullerton	87	Cal Poly	74	
+2017-1-12	University of California	69	Washington	59	
+2017-1-12	UC-Riverside	61	UC-Davis	55	
+2017-1-12	UC-Irvine	66	UCSB	62	
+2017-1-12	Louisiana Tech	79	Charlotte	73	
+2017-1-12	Cincinnati	66	SMU	64	
+2017-1-12	UIC	59	Cleveland State	54	
+2017-1-12	UCLA	104	Colorado	89	
+2017-1-12	North Carolina-Greensboro	83	ETSU	79	
+2017-1-12	Murray State	83	Eastern Illinois	72	
+2017-1-12	Tennessee State	63	Eastern Kentucky	49	
+2017-1-12	Elon	96	Hofstra	80	
+2017-1-12	Georgia Tech	75	Clemson	63	
+2017-1-12	Gonzaga	93	Loyola Marymount	55	
+2017-1-12	Green Bay	78	Wright State	61	
+2017-1-12	Central Arkansas	89	Houston Baptist	78	
+2017-1-12	Eastern Washington	92	Idaho State	85	
+2017-1-12	Iowa	83	Purdue	78	
+2017-1-12	College of Charleston	53	James Madison	51	
+2017-1-12	Florida Gulf Coast	78	Kennesaw State	75	
+2017-1-12	Lipscomb	94	Stetson	68	
+2017-1-12	LIU-Brooklyn	60	Central Connecticut	49	
+2017-1-12	Notre Dame	67	Miami (FL)	62	
+2017-1-12	Middle Tennessee	69	Marshall	57	
+2017-1-12	Milwaukee	68	Northern Kentucky	58	
+2017-1-12	Montana	89	Northern Colorado	68	
+2017-1-12	North Dakota	90	Montana State	85	
+2017-1-12	Belmont	84	Morehead State	78	
+2017-1-12	Mount St. Mary's	77	Fairleigh Dickinson	70	
+2017-1-12	New Mexico State	81	Grand Canyon	69	
+2017-1-12	Sam Houston State	70	New Orleans	68	
+2017-1-12	Jacksonville	82	NJIT	81	
+2017-1-12	North Carolina-Wilmington	101	William & Mary	77	
+2017-1-12	Northeastern	92	Drexel	75	
+2017-1-12	Northwestern State	86	Nicholls State	81	
+2017-1-12	Old Dominion	54	Southern Miss	50	
+2017-1-12	Oral Roberts	94	South Dakota State	88	
+2017-1-12	Pacific	79	Pepperdine	74	
+2017-1-12	Saint Mary's (CA)	74	Portland	33	
+2017-1-12	La Salle	87	Rhode Island	75	
+2017-1-12	Saint Francis (PA)	77	Robert Morris	57	
+2017-1-12	Northwestern	69	Rutgers	60	
+2017-1-12	Santa Clara	59	San Diego	57	
+2017-1-12	UMKC	84	Seattle	68	
+2017-1-12	Siena	81	Quinnipiac	74	
+2017-1-12	North Florida	73	South Carolina Upstate	65	
+2017-1-12	Austin Peay	83	Southern Illinois-Edwardsville	81	
+2017-1-12	Sacramento State	88	Southern Utah	83	
+2017-1-12	Sacred Heart	87	St. Francis (NY)	75	
+2017-1-12	Stanford	84	Washington State	54	
+2017-1-12	UTEP	88	Florida International	87	
+2017-1-12	Cal State Bakersfield	88	Texas-Rio Grande Valley	81	
+2017-1-12	UTSA	68	Florida Atlantic	63	
+2017-1-12	Towson	83	Delaware	56	
+2017-1-12	Utah	86	USC	64	
+2017-1-12	Chicago State	70	Utah Valley	61	
+2017-1-12	Virginia Military Institute	79	Western Carolina	78	
+2017-1-12	Weber State	91	Idaho	66	
+2017-1-12	Wisconsin	89	Ohio State	66	
+2017-1-12	Valparaiso	78	Youngstown State	62	
+2017-1-13	Central Michigan	96	Toledo	88	
+2017-1-13	Manhattan	76	Rider	73	
+2017-1-13	Detroit	93	Oakland	88	
+2017-1-13	Yale	68	Penn	60	
+2017-1-13	Princeton	97	Brown	66	
+2017-1-13	Vermont	81	UMBC	72	
+2017-1-14	Abilene Christian	67	Lamar	64	
+2017-1-14	San Jose State	89	Air Force	85	
+2017-1-14	Alabama State	57	Alabama A&M;	55	
+2017-1-14	Alabama-Birmingham	94	Marshall	78	
+2017-1-14	Mississippi Valley State	84	Alcorn State	77	
+2017-1-14	Army	53	American	49	
+2017-1-14	Arkansas	92	Missouri	73	
+2017-1-14	Arkansas State	77	Arkansas-Little Rock	72	
+2017-1-14	Northern Illinois	69	Bowling Green State	52	
+2017-1-14	Sacred Heart	112	Bryant	110	
+2017-1-14	Ball State	92	Buffalo	77	
+2017-1-14	Butler	83	Xavier	78	
+2017-1-14	UC-Davis	71	Cal State Northridge	68	
+2017-1-14	University of California	58	Washington State	54	
+2017-1-14	UC-Irvine	87	Cal State Fullerton	67	
+2017-1-14	UCSB	58	Cal Poly	53	
+2017-1-14	Winthrop	72	Campbell	63	
+2017-1-14	Canisius	91	Marist	58	
+2017-1-14	Fairleigh Dickinson	59	Central Connecticut	47	
+2017-1-14	UCF	77	Houston	70	
+2017-1-14	North Carolina-Asheville	76	Charleston Southern	67	
+2017-1-14	Charlotte	82	Southern Miss	66	
+2017-1-14	Samford	98	Citadel	90	
+2017-1-14	Virginia	77	Clemson	73	
+2017-1-14	Valparaiso	78	Cleveland State	67	
+2017-1-14	Coastal Carolina	85	Appalachian State	73	
+2017-1-14	Bucknell	83	Colgate	69	
+2017-1-14	College of Charleston	77	William & Mary	67	
+2017-1-14	New Mexico	84	Colorado State	71	
+2017-1-14	Coppin State	75	North Carolina A&T;	73	
+2017-1-14	Columbia	79	Cornell	75	
+2017-1-14	Creighton	101	Truman State	69	
+2017-1-14	Davidson	69	VCU	63	
+2017-1-14	Hampton	85	Delaware State	77	
+2017-1-14	Denver	79	North Dakota State	55	
+2017-1-14	Drexel	76	Delaware	60	
+2017-1-14	Dayton	76	Duquesne	57	
+2017-1-14	ETSU	75	Western Carolina	52	
+2017-1-14	Austin Peay	92	Eastern Illinois	84	
+2017-1-14	Belmont	72	Eastern Kentucky	59	
+2017-1-14	Southern Illinois	73	Evansville	61	
+2017-1-14	Florida	80	Georgia	76	
+2017-1-14	Fresno State	89	Boise State	80	
+2017-1-14	Saint Louis	63	George Mason	56	
+2017-1-14	Georgetown	72	UConn	69	
+2017-1-14	Gonzaga	79	Saint Mary's (CA)	56	
+2017-1-14	Hawaii	114	Long Beach State	107	
+2017-1-14	High Point	77	Presbyterian	44	
+2017-1-14	Idaho	77	Idaho State	62	
+2017-1-14	Maryland	62	Illinois	56	
+2017-1-14	Illinois State	76	Wichita State	62	
+2017-1-14	Incarnate Word	82	Houston Baptist	77	
+2017-1-14	Indiana State	81	Bradley	71	
+2017-1-14	James Madison	60	Elon	59	
+2017-1-14	Kansas	87	Oklahoma State	80	
+2017-1-14	Baylor	77	Kansas State	68	
+2017-1-14	Kennesaw State	84	Stetson	65	
+2017-1-14	Kentucky	92	Auburn	72	
+2017-1-14	Navy	88	Lafayette	51	
+2017-1-14	Lehigh	68	Holy Cross	51	
+2017-1-14	Florida Gulf Coast	84	Lipscomb	80	
+2017-1-14	LIU-Brooklyn	63	St. Francis (NY)	58	
+2017-1-14	Gardner-Webb	85	Longwood	79	
+2017-1-14	Georgia Southern	81	Louisiana-Lafayette	76	
+2017-1-14	Georgia State	73	Louisiana-Monroe	65	
+2017-1-14	Alabama	81	LSU	66	
+2017-1-14	Louisville	78	Duke	69	
+2017-1-14	Stony Brook	74	Maine	54	
+2017-1-14	Marquette	83	DePaul	58	
+2017-1-14	Howard	72	Maryland-Eastern Shore	64	
+2017-1-14	UMass-Lowell	71	Hartford	55	
+2017-1-14	Memphis	62	South Florida	56	
+2017-1-14	Chattanooga	70	Mercer	68	
+2017-1-14	Akron	74	Miami (OH)	70	
+2017-1-14	Michigan	91	Nebraska	85	
+2017-1-14	Middle Tennessee	91	Western Kentucky	76	
+2017-1-14	Wright State	70	Milwaukee	67	
+2017-1-14	Mississippi State	67	Texas A&M;	59	
+2017-1-14	Montana	76	North Dakota	70	
+2017-1-14	Montana State	68	Northern Colorado	53	
+2017-1-14	Morehead State	87	Tennessee State	85	
+2017-1-14	Mount St. Mary's	78	Saint Francis (PA)	72	
+2017-1-14	Nebraska-Omaha	86	Western Illinois	72	
+2017-1-14	New Hampshire	73	Binghamton	66	
+2017-1-14	New Mexico State	63	Cal State Bakersfield	58	
+2017-1-14	Monmouth	90	Niagara	83	
+2017-1-14	NJIT	84	North Florida	78	
+2017-1-14	North Carolina Central	72	Norfolk State	57	
+2017-1-14	UNC	96	Florida State	83	
+2017-1-14	North Carolina-Wilmington	84	Hofstra	76	
+2017-1-14	Sacramento State	74	Northern Arizona	62	
+2017-1-14	Sam Houston State	77	Northwestern State	68	
+2017-1-14	Eastern Michigan	53	Ohio	49	
+2017-1-14	Oklahoma	84	Texas Tech	75	
+2017-1-14	Louisiana Tech	75	Old Dominion	63	
+2017-1-14	IUPUI	91	Oral Roberts	85	
+2017-1-14	Oregon	85	Oregon State	43	
+2017-1-14	Penn State	52	Minnesota	50	
+2017-1-14	Brown	82	Penn	70	
+2017-1-14	Santa Clara	75	Pepperdine	61	
+2017-1-14	Miami (FL)	72	Pitt	46	
+2017-1-14	Loyola Marymount	79	Portland	78	
+2017-1-14	Prairie View	63	Jackson State	56	
+2017-1-14	Princeton	66	Yale	58	
+2017-1-14	Providence	65	Seton Hall	61	
+2017-1-14	Quinnipiac	97	Iona	91	
+2017-1-14	Liberty	71	Radford	64	
+2017-1-14	Rice	101	North Texas	79	
+2017-1-14	Richmond	70	St. Joseph's	66	
+2017-1-14	San Diego	88	BYU	75	
+2017-1-14	San Diego State	74	Utah State	55	
+2017-1-14	San Francisco	72	Pacific	51	
+2017-1-14	Savannah State	93	Florida A&M;	88	
+2017-1-14	Seattle	65	Chicago State	50	
+2017-1-14	South Alabama	72	Texas State	67	
+2017-1-14	South Carolina	67	Ole Miss	56	
+2017-1-14	South Carolina State	78	Bethune-Cookman	74	
+2017-1-14	South Carolina Upstate	73	Jacksonville	66	
+2017-1-14	South Dakota	66	IPFW	63	
+2017-1-14	Southern	76	Arkansas-Pine Bluff	75	
+2017-1-14	Murray State	67	Southern Illinois-Edwardsville	59	
+2017-1-14	Portland State	88	Southern Utah	77	
+2017-1-14	St. Bonaventure	73	Fordham	53	
+2017-1-14	Villanova	70	St. John's (NY)	57	
+2017-1-14	Stanford	76	Washington	69	
+2017-1-14	Stephen F. Austin	80	Nicholls State	60	
+2017-1-14	Syracuse	76	Boston College	53	
+2017-1-14	Tulsa	70	Temple	68	
+2017-1-14	UT-Martin	79	Southeast Missouri State	69	
+2017-1-14	Jacksonville State	74	Tennessee Tech	59	
+2017-1-14	West Virginia	74	Texas	72	
+2017-1-14	Texas A&M-Corpus; Christi	88	Central Arkansas	81	
+2017-1-14	Texas Christian	84	Iowa State	77	
+2017-1-14	UTEP	66	Florida Atlantic	65	
+2017-1-14	Grand Canyon	79	Texas-Rio Grande Valley	66	
+2017-1-14	UTSA	57	Florida International	55	
+2017-1-14	Texas Southern	76	Grambling	55	
+2017-1-14	Towson	74	Northeastern	67	
+2017-1-14	Troy	93	Texas-Arlington	71	
+2017-1-14	UCLA	83	Utah	82	
+2017-1-14	Utah Valley	86	UMKC	76	
+2017-1-14	Tennessee	87	Vanderbilt	75	
+2017-1-14	North Carolina-Greensboro	91	Virginia Military Institute	82	
+2017-1-14	Notre Dame	76	Virginia Tech	71	
+2017-1-14	Wagner	53	Robert Morris	50	
+2017-1-14	Weber State	70	Eastern Washington	67	
+2017-1-14	Western Michigan	92	Kent State	88	
+2017-1-14	Wofford	67	Furman	58	
+2017-1-14	Nevada	89	Wyoming	74	
+2017-1-14	UIC	92	Youngstown State	89	
+2017-1-15	USC	71	Colorado	68	
+2017-1-15	Cincinnati	55	East Carolina	46	
+2017-1-15	Siena	63	Fairfield	54	
+2017-1-15	Indiana	76	Rutgers	57	
+2017-1-15	La Salle	79	George Washington	69	
+2017-1-15	Loyola (IL)	77	Missouri State	71	
+2017-1-15	Georgia Tech	86	North Carolina State	76	
+2017-1-15	Northern Iowa	79	Drake	60	
+2017-1-15	Northwestern	89	Iowa	54	
+2017-1-15	Ohio State	72	Michigan State	67	
+2017-1-15	Rhode Island	79	UMass	77	
+2017-1-15	St. Peter's	71	Rider	65	
+2017-1-15	Southeastern Louisiana	79	McNeese State	75	
+2017-1-15	SMU	80	Tulane	64	
+2017-1-16	Alcorn State	82	Arkansas-Pine Bluff	64	
+2017-1-16	Harvard	70	Bryant	65	
+2017-1-16	Butler	88	Marquette	80	
+2017-1-16	Monmouth	76	Canisius	72	
+2017-1-16	Norfolk State	75	Delaware State	70	
+2017-1-16	Detroit	87	Youngstown State	71	
+2017-1-16	Bethune-Cookman	82	Florida A&M;	76	
+2017-1-16	Providence	74	Georgetown	56	
+2017-1-16	North Carolina Central	64	Hampton	51	
+2017-1-16	Hartford	54	Maine	44	
+2017-1-16	Coppin State	81	Howard	72	
+2017-1-16	Kansas	76	Iowa State	72	
+2017-1-16	Georgia State	101	Louisiana-Lafayette	86	
+2017-1-16	Georgia Southern	62	Louisiana-Monroe	60	
+2017-1-16	Loyola (MD)	77	Boston University	69	
+2017-1-16	Albany (NY)	77	UMBC	50	
+2017-1-16	Stony Brook	86	UMass-Lowell	75	
+2017-1-16	Morgan State	82	North Carolina A&T;	53	
+2017-1-16	Vermont	71	New Hampshire	59	
+2017-1-16	Marist	93	Niagara	87	
+2017-1-16	UNC	85	Syracuse	68	
+2017-1-16	Northern Arizona	83	Portland State	76	
+2017-1-16	Cleveland State	76	Oakland	65	
+2017-1-16	Prairie View	94	Grambling	82	
+2017-1-16	Texas-Arlington	89	South Alabama	83	
+2017-1-16	Savannah State	86	South Carolina State	82	
+2017-1-16	Southern	87	Mississippi Valley State	81	
+2017-1-16	St. John's (NY)	78	DePaul	68	
+2017-1-16	Texas Southern	67	Jackson State	44	
+2017-1-16	Texas State	75	Troy	71	
+2017-1-16	Valparaiso	80	Green Bay	56	
+2017-1-16	Villanova	76	Seton Hall	46	
+2017-1-16	Creighton	72	Xavier	67	
+2017-1-17	Akron	83	Ohio	68	
+2017-1-17	Ball State	98	Central Michigan	83	
+2017-1-17	Baylor	74	Texas	64	
+2017-1-17	New Mexico	81	Boise State	70	
+2017-1-17	UCF	86	South Florida	64	
+2017-1-17	Eastern Michigan	86	Western Michigan	80	
+2017-1-17	Wichita State	82	Evansville	65	
+2017-1-17	St. Peter's	69	Fairfield	55	
+2017-1-17	Georgia	76	Vanderbilt	68	
+2017-1-17	Grand Canyon	90	San Diego Christian	58	
+2017-1-17	UIC	71	Milwaukee	57	
+2017-1-17	Buffalo	82	Kent State	69	
+2017-1-17	Iona	82	Manhattan	67	
+2017-1-17	Ole Miss	80	Tennessee	69	
+2017-1-17	Kentucky	88	Mississippi State	81	
+2017-1-17	San Diego State	64	UNLV	51	
+2017-1-17	North Carolina State	79	Pitt	74	
+2017-1-17	Northern Illinois	62	Miami (OH)	58	
+2017-1-17	Purdue	91	Illinois	68	
+2017-1-17	St. Bonaventure	71	Saint Louis	52	
+2017-1-17	Siena	78	Rider	68	
+2017-1-17	Arkansas	62	Texas A&M;	60	
+2017-1-17	Toledo	85	Bowling Green State	73	
+2017-1-17	Wisconsin	68	Michigan	64	
+2017-1-18	Alabama	68	Missouri	56	
+2017-1-18	American	71	Lafayette	57	
+2017-1-18	Holy Cross	85	Army	76	
+2017-1-18	Auburn	78	LSU	74	
+2017-1-18	Virginia	71	Boston College	54	
+2017-1-18	Colgate	67	Boston University	58	
+2017-1-18	Illinois State	69	Bradley	49	
+2017-1-18	Bucknell	76	Loyola (MD)	63	
+2017-1-18	UC-Irvine	70	Cal Poly	48	
+2017-1-18	UC-Riverside	71	Cal State Fullerton	63	
+2017-1-18	Chicago State	77	Roosevelt	57	
+2017-1-18	Cincinnati	81	Temple	74	
+2017-1-18	Drake	88	Southern Illinois	84	
+2017-1-18	Florida State	83	Notre Dame	80	
+2017-1-18	Fordham	69	VCU	67	
+2017-1-18	Fresno State	78	Colorado State	57	
+2017-1-18	George Washington	65	Duquesne	63	
+2017-1-18	Hawaii	80	Cal State Northridge	77	
+2017-1-18	Missouri State	73	Indiana State	68	
+2017-1-18	IUPUI	85	South Dakota State	83	
+2017-1-18	UMass	62	St. Joseph's	57	
+2017-1-18	McNeese State	82	Central Arkansas	72	
+2017-1-18	Navy	75	Lehigh	72	
+2017-1-18	Ohio State	67	Nebraska	66	
+2017-1-18	Nebraska-Omaha	97	Denver	88	
+2017-1-18	Nevada	83	Air Force	76	
+2017-1-18	Northern Iowa	72	Loyola (IL)	69	
+2017-1-18	Kansas State	96	Oklahoma State	88	
+2017-1-18	Oral Roberts	90	South Dakota	80	
+2017-1-18	Indiana	78	Penn State	75	
+2017-1-18	Wyoming	80	San Jose State	70	
+2017-1-18	South Carolina	57	Florida	53	
+2017-1-18	Texas Tech	75	Texas Christian	69	
+2017-1-18	Tulsa	89	Tulane	82	
+2017-1-18	Virginia Tech	62	Georgia Tech	61	
+2017-1-18	Wake Forest	96	Miami (FL)	79	
+2017-1-18	Washington	85	Colorado	83	
+2017-1-18	Utah	88	Washington State	47	
+2017-1-18	Oklahoma	89	West Virginia	87	
+2017-1-19	Albany (NY)	84	Binghamton	65	
+2017-1-19	Morehead State	89	Austin Peay	82	
+2017-1-19	Belmont	77	Jacksonville State	60	
+2017-1-19	BYU	99	Pepperdine	70	
+2017-1-19	High Point	83	Campbell	78	
+2017-1-19	North Carolina-Wilmington	65	College of Charleston	59	
+2017-1-19	Dayton	75	Richmond	59	
+2017-1-19	Delaware	69	Northeastern	62	
+2017-1-19	Eastern Washington	84	Northern Arizona	62	
+2017-1-19	Elon	93	Drexel	73	
+2017-1-19	Fairleigh Dickinson	57	St. Francis (NY)	40	
+2017-1-19	Alabama-Birmingham	80	Florida Atlantic	78	
+2017-1-19	South Carolina Upstate	62	Florida Gulf Coast	60	
+2017-1-19	Middle Tennessee	65	Florida International	52	
+2017-1-19	Furman	75	ETSU	62	
+2017-1-19	Towson	86	Hofstra	80	
+2017-1-19	Memphis	70	Houston	67	
+2017-1-19	Idaho	79	Southern Utah	67	
+2017-1-19	Maryland	84	Iowa	76	
+2017-1-19	Lipscomb	112	Jacksonville	95	
+2017-1-19	La Salle	91	Davidson	83	
+2017-1-19	Liberty	65	Gardner-Webb	62	
+2017-1-19	Long Beach State	81	UCSB	76	
+2017-1-19	LIU-Brooklyn	76	Wagner	69	
+2017-1-19	Radford	72	Longwood	60	
+2017-1-19	Louisiana Tech	74	Rice	64	
+2017-1-19	Louisville	92	Clemson	60	
+2017-1-19	San Diego	69	Loyola Marymount	62	
+2017-1-19	New Hampshire	74	Maine	63	
+2017-1-19	Murray State	86	Eastern Kentucky	79	
+2017-1-19	New Orleans	72	Houston Baptist	64	
+2017-1-19	Nicholls State	62	Abilene Christian	59	
+2017-1-19	North Carolina-Greensboro	68	Mercer	66	
+2017-1-19	North Dakota	83	Weber State	77	
+2017-1-19	North Dakota State	89	IPFW	83	
+2017-1-19	North Florida	86	Kennesaw State	84	
+2017-1-19	Idaho State	73	Northern Colorado	69	
+2017-1-19	Oregon	86	University of California	63	
+2017-1-19	Stanford	62	Oregon State	46	
+2017-1-19	Portland State	88	Montana	79	
+2017-1-19	Charleston Southern	73	Presbyterian	52	
+2017-1-19	Robert Morris	74	Central Connecticut	67	
+2017-1-19	Montana State	74	Sacramento State	65	
+2017-1-19	Mount St. Mary's	86	Sacred Heart	75	
+2017-1-19	Saint Francis (PA)	75	Bryant	61	
+2017-1-19	Saint Mary's (CA)	62	Pacific	50	
+2017-1-19	St. Peter's	77	Siena	65	
+2017-1-19	Sam Houston State	87	Lamar	65	
+2017-1-19	San Francisco	75	Portland	50	
+2017-1-19	Gonzaga	88	Santa Clara	57	
+2017-1-19	Southeast Missouri State	79	Southern Illinois-Edwardsville	76	
+2017-1-19	Arizona	73	USC	66	
+2017-1-19	SMU	69	UConn	49	
+2017-1-19	Southern Miss	75	North Texas	65	
+2017-1-19	Stetson	82	NJIT	76	
+2017-1-19	Stony Brook	80	Hartford	64	
+2017-1-19	UT-Martin	82	Eastern Illinois	71	
+2017-1-19	Tennessee Tech	80	Tennessee State	74	
+2017-1-19	Stephen F. Austin	61	Texas A&M-Corpus; Christi	58	
+2017-1-19	UCLA	102	Arizona State	80	
+2017-1-19	Vermont	81	UMass-Lowell	67	
+2017-1-19	Western Carolina	100	Citadel	95	
+2017-1-19	William & Mary	73	James Madison	72	
+2017-1-19	Winthrop	76	North Carolina-Asheville	73	
+2017-1-19	Wofford	88	Virginia Military Institute	70	
+2017-1-2	Jackson State	63	Alabama A&M;	51	
+2017-1-2	Alabama State	73	Grambling	69	
+2017-1-2	Albany (NY)	69	Cornell	59	
+2017-1-2	Texas Southern	67	Alcorn State	65	
+2017-1-2	Louisiana-Lafayette	69	Arkansas-Little Rock	52	
+2017-1-2	Arkansas-Pine Bluff	105	Mississippi Valley State	91	
+2017-1-2	Arkansas State	76	Louisiana-Monroe	45	
+2017-1-2	Boston University	75	Lehigh	61	
+2017-1-2	Bucknell	84	Army	76	
+2017-1-2	Canisius	82	Siena	79	
+2017-1-2	Lamar	78	Central Arkansas	75	
+2017-1-2	Rice	89	Charlotte	70	
+2017-1-2	American	67	Colgate	64	
+2017-1-2	College of Charleston	65	Delaware	56	
+2017-1-2	Northeastern	75	Drexel	70	
+2017-1-2	Fairfield	93	Iona	87	
+2017-1-2	Marshall	89	Florida Atlantic	72	
+2017-1-2	Western Kentucky	69	Florida International	66	
+2017-1-2	Furman	71	Mercer	69	
+2017-1-2	William & Mary	95	Hofstra	93	
+2017-1-2	Holy Cross	51	Navy	50	
+2017-1-2	James Madison	64	Towson	44	
+2017-1-2	Lafayette	78	Loyola (MD)	69	
+2017-1-2	Columbia	98	Maine	73	
+2017-1-2	Marist	90	Manhattan	88	
+2017-1-2	Maryland-Eastern Shore	90	Valley Forge	65	
+2017-1-2	McNeese State	69	Stephen F. Austin	54	
+2017-1-2	South Carolina Upstate	84	UMKC	75	
+2017-1-2	New Hampshire	95	Wheelock	50	
+2017-1-2	Quinnipiac	81	Niagara	78	
+2017-1-2	Nicholls State	68	Texas A&M-Corpus; Christi	64	
+2017-1-2	North Carolina-Greensboro	73	Chattanooga	68	
+2017-1-2	North Carolina-Wilmington	79	Elon	63	
+2017-1-2	North Florida	102	Palm Beach Atlantic	67	
+2017-1-2	Old Dominion	55	North Texas	48	
+2017-1-2	St. Peter's	71	Monmouth	61	
+2017-1-2	South Alabama	76	Troy	75	
+2017-1-2	Southeastern Louisiana	74	Incarnate Word	63	
+2017-1-2	Southern	59	Prairie View	57	
+2017-1-2	Stetson	95	Ave Maria	72	
+2017-1-2	Kennesaw State	76	Tennessee State	73	
+2017-1-2	Texas-Arlington	84	Appalachian State	69	
+2017-1-2	Coastal Carolina	60	Texas State	53	
+2017-1-2	Utah Valley	102	Antelope Valley	63	
+2017-1-2	Vermont	82	Harvard	71	
+2017-1-2	Samford	70	Western Carolina	65	
+2017-1-2	Citadel	104	Wofford	103	
+2017-1-2	Yale	88	Hartford	72	
+2017-1-20	Akron	70	Eastern Michigan	63	
+2017-1-20	Yale	75	Brown	74	
+2017-1-20	Youngstown State	92	Green Bay	89	
+2017-1-20	Iona	96	Fairfield	89	
+2017-1-20	Milwaukee	63	Cleveland State	62	
+2017-1-20	Monmouth	82	Manhattan	71	
+2017-1-20	Oakland	79	Northern Kentucky	70	
+2017-1-20	Quinnipiac	95	Canisius	90	
+2017-1-20	Wright State	106	Detroit	88	
+2017-1-21	Southern	53	Alabama A&M;	52	
+2017-1-21	Alcorn State	78	Alabama State	71	
+2017-1-21	Arkansas	99	LSU	86	
+2017-1-21	Arkansas-Little Rock	73	South Alabama	56	
+2017-1-21	Texas Southern	70	Arkansas-Pine Bluff	63	
+2017-1-21	Arkansas State	82	Troy	80	
+2017-1-21	Navy	96	Army	80	
+2017-1-21	Auburn	84	Alabama	64	
+2017-1-21	Austin Peay	84	Murray State	81	
+2017-1-21	Belmont	82	Tennessee Tech	70	
+2017-1-21	Maryland-Eastern Shore	82	Bethune-Cookman	79	
+2017-1-21	UNC	90	Boston College	82	
+2017-1-21	Bowling Green State	79	Ball State	74	
+2017-1-21	Bucknell	70	Boston University	59	
+2017-1-21	Buffalo	66	Western Michigan	54	
+2017-1-21	Long Beach State	98	Cal Poly	92	
+2017-1-21	Cal State Bakersfield	68	Utah Valley	65	
+2017-1-21	UC-Irvine	105	Cal State Northridge	73	
+2017-1-21	UC-Riverside	65	UCSB	55	
+2017-1-21	New Orleans	81	Central Arkansas	63	
+2017-1-21	Central Michigan	101	Miami (OH)	92	
+2017-1-21	Charleston Southern	76	Longwood	61	
+2017-1-21	Charlotte	74	Old Dominion	72	
+2017-1-21	Chattanooga	82	Samford	78	
+2017-1-21	Colgate	52	Loyola (MD)	49	
+2017-1-21	College of Charleston	73	James Madison	60	
+2017-1-21	Cornell	67	Columbia	62	
+2017-1-21	Marquette	102	Creighton	94	
+2017-1-21	Towson	75	Delaware	58	
+2017-1-21	Butler	70	DePaul	69	
+2017-1-21	Duke	70	Miami (FL)	58	
+2017-1-21	Rhode Island	90	Duquesne	69	
+2017-1-21	Eastern Washington	83	Southern Utah	68	
+2017-1-21	Elon	71	William & Mary	62	
+2017-1-21	Fairleigh Dickinson	83	LIU-Brooklyn	66	
+2017-1-21	Vanderbilt	68	Florida	66	
+2017-1-21	Middle Tennessee	86	Florida Atlantic	57	
+2017-1-21	Florida Gulf Coast	84	NJIT	71	
+2017-1-21	Florida International	94	Alabama-Birmingham	85	
+2017-1-21	Florida State	73	Louisville	68	
+2017-1-21	Furman	89	Virginia Military Institute	72	
+2017-1-21	Gardner-Webb	78	Presbyterian	61	
+2017-1-21	Georgia Southern	92	Appalachian State	88	
+2017-1-21	Georgia State	76	Coastal Carolina	56	
+2017-1-21	Gonzaga	73	Portland	52	
+2017-1-21	Grambling	72	Jackson State	57	
+2017-1-21	Grand Canyon	61	Seattle	59	
+2017-1-21	Harvard	82	Dartmouth	68	
+2017-1-21	UC-Davis	76	Hawaii	70	
+2017-1-21	Hofstra	78	Northeastern	73	
+2017-1-21	Idaho	65	Northern Arizona	49	
+2017-1-21	Illinois State	72	Drake	58	
+2017-1-21	Incarnate Word	70	Stephen F. Austin	68	
+2017-1-21	Indiana	82	Michigan State	75	
+2017-1-21	Denver	78	IUPUI	74	
+2017-1-21	Kennesaw State	81	Jacksonville	71	
+2017-1-21	Kansas	79	Texas	67	
+2017-1-21	Kansas State	79	West Virginia	75	
+2017-1-21	Kent State	85	Toledo	61	
+2017-1-21	Kentucky	85	South Carolina	69	
+2017-1-21	Lehigh	75	Lafayette	68	
+2017-1-21	Winthrop	61	Liberty	48	
+2017-1-21	Louisiana Tech	81	North Texas	57	
+2017-1-21	Loyola (IL)	67	Evansville	61	
+2017-1-21	Marshall	94	Western Kentucky	80	
+2017-1-21	Fordham	71	UMass	68	
+2017-1-21	Northwestern State	78	McNeese State	65	
+2017-1-21	Michigan	66	Illinois	57	
+2017-1-21	Wisconsin	78	Minnesota	76	
+2017-1-21	Prairie View	87	Mississippi Valley State	72	
+2017-1-21	Ole Miss	75	Missouri	71	
+2017-1-21	Missouri State	76	Bradley	62	
+2017-1-21	Morehead State	80	Eastern Kentucky	54	
+2017-1-21	Fresno State	81	Nevada	76	
+2017-1-21	UNLV	87	Air Force	85	
+2017-1-21	New Mexico	78	Wyoming	71	
+2017-1-21	New Mexico State	94	UMKC	71	
+2017-1-21	Lamar	87	Nicholls State	76	
+2017-1-21	Norfolk State	79	Hampton	62	
+2017-1-21	North Carolina-Asheville	72	Campbell	56	
+2017-1-21	Howard	78	North Carolina A&T;	63	
+2017-1-21	North Carolina-Greensboro	81	Citadel	72	
+2017-1-21	Wake Forest	93	North Carolina State	88	
+2017-1-21	North Carolina-Wilmington	87	Drexel	74	
+2017-1-21	North Dakota	89	Idaho State	64	
+2017-1-21	North Florida	90	Lipscomb	84	
+2017-1-21	Weber State	74	Northern Colorado	69	
+2017-1-21	Ohio	78	Northern Illinois	69	
+2017-1-21	Notre Dame	84	Syracuse	66	
+2017-1-21	Iowa State	92	Oklahoma	87	
+2017-1-21	Oral Roberts	103	Nebraska-Omaha	86	
+2017-1-21	Oregon	69	Stanford	52	
+2017-1-21	University of California	69	Oregon State	58	
+2017-1-21	BYU	62	Pacific	47	
+2017-1-21	Montana State	71	Portland State	65	
+2017-1-21	Purdue	77	Penn State	52	
+2017-1-21	High Point	61	Radford	58	
+2017-1-21	Rider	84	Marist	66	
+2017-1-21	Bryant	59	Robert Morris	56	
+2017-1-21	Rutgers	65	Nebraska	64	
+2017-1-21	Sacramento State	92	Montana	83	
+2017-1-21	Wagner	67	Sacred Heart	62	
+2017-1-21	Central Connecticut	84	Saint Francis (PA)	83	
+2017-1-21	St. Joseph's	78	Penn	71	
+2017-1-21	Saint Mary's (CA)	85	Pepperdine	65	
+2017-1-21	Niagara	57	St. Peter's	55	
+2017-1-21	Sam Houston State	76	Texas A&M-Corpus; Christi	62	
+2017-1-21	San Francisco	60	San Diego	43	
+2017-1-21	Boise State	75	San Jose State	65	
+2017-1-21	Santa Clara	64	Loyola Marymount	63	
+2017-1-21	Savannah State	74	Morgan State	61	
+2017-1-21	South Carolina State	74	Delaware State	64	
+2017-1-21	South Dakota State	77	IPFW	67	
+2017-1-21	Tulsa	79	South Florida	67	
+2017-1-21	Southeast Missouri State	83	Eastern Illinois	71	
+2017-1-21	Southeastern Louisiana	83	Houston Baptist	71	
+2017-1-21	Northern Iowa	58	Southern Illinois	57	
+2017-1-21	SMU	85	Houston	64	
+2017-1-21	Rice	61	Southern Miss	58	
+2017-1-21	Mount St. Mary's	55	St. Francis (NY)	47	
+2017-1-21	South Carolina Upstate	97	Stetson	86	
+2017-1-21	Tennessee	91	Mississippi State	74	
+2017-1-21	UT-Martin	75	Southern Illinois-Edwardsville	67	
+2017-1-21	Jacksonville State	86	Tennessee State	79	
+2017-1-21	Texas A&M;	63	Georgia	62	
+2017-1-21	Texas-Arlington	71	Louisiana-Monroe	55	
+2017-1-21	Baylor	62	Texas Christian	53	
+2017-1-21	UTEP	59	UTSA	39	
+2017-1-21	Texas-Rio Grande Valley	85	Chicago State	77	
+2017-1-21	Louisiana-Lafayette	79	Texas State	73	
+2017-1-21	Oklahoma State	83	Texas Tech	64	
+2017-1-21	Cincinnati	78	Tulane	61	
+2017-1-21	Arizona	96	UCLA	85	
+2017-1-21	Colorado State	64	Utah State	56	
+2017-1-21	Villanova	78	Providence	68	
+2017-1-21	Virginia	62	Georgia Tech	49	
+2017-1-21	Utah	94	Washington	72	
+2017-1-21	Washington State	91	Colorado	89	
+2017-1-21	Mercer	70	Western Carolina	50	
+2017-1-21	North Dakota State	89	Western Illinois	57	
+2017-1-21	Wichita State	84	Indiana State	58	
+2017-1-22	Albany (NY)	81	Maine	63	
+2017-1-22	Binghamton	71	Stony Brook	67	
+2017-1-22	Virginia Tech	82	Clemson	81	
+2017-1-22	UConn	72	East Carolina	65	
+2017-1-22	Dayton	67	Saint Louis	46	
+2017-1-22	ETSU	79	Wofford	72	
+2017-1-22	New Hampshire	81	Hartford	56	
+2017-1-22	Siena	81	Manhattan	68	
+2017-1-22	UMBC	102	UMass-Lowell	86	
+2017-1-22	Memphis	70	UCF	65	
+2017-1-22	Milwaukee	94	Youngstown State	85	
+2017-1-22	Monmouth	91	Fairfield	49	
+2017-1-22	Northern Kentucky	101	Detroit	87	
+2017-1-22	Northwestern	74	Ohio State	72	
+2017-1-22	George Mason	82	Richmond	77	
+2017-1-22	Seton Hall	86	St. John's (NY)	73	
+2017-1-22	USC	82	Arizona State	79	
+2017-1-22	Valparaiso	96	UIC	65	
+2017-1-22	VCU	90	La Salle	52	
+2017-1-22	Wright State	88	Oakland	67	
+2017-1-22	Xavier	86	Georgetown	75	
+2017-1-23	Alcorn State	81	Alabama A&M;	70	
+2017-1-23	Alabama State	79	Southern	65	
+2017-1-23	Troy	78	Arkansas-Little Rock	69	
+2017-1-23	Arkansas-Pine Bluff	71	Prairie View	68	
+2017-1-23	Arkansas State	74	South Alabama	62	
+2017-1-23	Norfolk State	74	Coppin State	64	
+2017-1-23	North Carolina State	84	Duke	82	
+2017-1-23	Maryland-Eastern Shore	86	Florida A&M;	79	
+2017-1-23	Georgia Southern	91	Coastal Carolina	80	
+2017-1-23	Georgia State	83	Appalachian State	72	
+2017-1-23	Green Bay	83	Cleveland State	73	
+2017-1-23	Holy Cross	63	American	55	
+2017-1-23	Iona	84	Quinnipiac	74	
+2017-1-23	Mississippi Valley State	103	Texas Southern	89	
+2017-1-23	Niagara	91	Canisius	84	
+2017-1-23	North Carolina Central	74	Howard	39	
+2017-1-23	Oklahoma State	89	Texas Christian	76	
+2017-1-23	Gonzaga	83	Portland	64	
+2017-1-23	St. Peter's	56	Rider	51	
+2017-1-23	Savannah State	94	Delaware State	79	
+2017-1-23	Morgan State	77	South Carolina State	75	
+2017-1-23	Texas	84	Oklahoma	83	
+2017-1-23	Texas-Arlington	108	Louisiana-Lafayette	71	
+2017-1-23	Texas State	63	Louisiana-Monroe	57	
+2017-1-24	Air Force	60	San Diego State	57	
+2017-1-24	Central Michigan	82	Bowling Green State	76	
+2017-1-24	Davidson	74	Duquesne	60	
+2017-1-24	Ball State	88	Eastern Michigan	80	
+2017-1-24	Houston	65	Tulane	51	
+2017-1-24	Iowa State	70	Kansas State	65	
+2017-1-24	Marquette	74	Villanova	72	
+2017-1-24	Maryland	67	Rutgers	55	
+2017-1-24	Miami (OH)	75	Buffalo	74	
+2017-1-24	Purdue	84	Michigan State	73	
+2017-1-24	Drake	72	Missouri State	71	
+2017-1-24	New Mexico	74	Utah State	61	
+2017-1-24	Kent State	73	Northern Illinois	66	
+2017-1-24	Virginia	71	Notre Dame	54	
+2017-1-24	Toledo	79	Ohio	76	
+2017-1-24	Louisville	106	Pitt	51	
+2017-1-24	South Carolina	98	Auburn	69	
+2017-1-24	St. Bonaventure	67	St. Joseph's	63	
+2017-1-24	Syracuse	81	Wake Forest	76	
+2017-1-24	Tennessee	82	Kentucky	80	
+2017-1-24	Arkansas	71	Vanderbilt	70	
+2017-1-24	West Virginia	85	Kansas	69	
+2017-1-24	Akron	90	Western Michigan	80	
+2017-1-24	Wichita State	87	Southern Illinois	45	
+2017-1-24	Wisconsin	82	Penn State	55	
+2017-1-25	Vermont	60	Albany (NY)	49	
+2017-1-25	Navy	71	American	53	
+2017-1-25	Arizona State	86	Washington	75	
+2017-1-25	Baylor	65	Texas Tech	61	
+2017-1-25	Binghamton	76	Hartford	55	
+2017-1-25	Nevada	76	Boise State	57	
+2017-1-25	Boston University	90	Army	89	
+2017-1-25	Cal State Northridge	78	UCSB	57	
+2017-1-25	Bryant	65	Central Connecticut	54	
+2017-1-25	SMU	65	UCF	60	
+2017-1-25	Virginia Military Institute	80	Chattanooga	64	
+2017-1-25	Lehigh	76	Colgate	62	
+2017-1-25	Colorado State	81	San Jose State	72	
+2017-1-25	Denver	91	South Dakota State	82	
+2017-1-25	East Carolina	69	Tulsa	66	
+2017-1-25	Belmont	77	Eastern Illinois	64	
+2017-1-25	Furman	85	Western Carolina	37	
+2017-1-25	George Washington	87	George Mason	68	
+2017-1-25	Georgetown	71	Creighton	51	
+2017-1-25	Alabama	80	Georgia	60	
+2017-1-25	Georgia Tech	78	Florida State	56	
+2017-1-25	South Carolina State	68	Hampton	66	
+2017-1-25	UC-Riverside	70	Hawaii	64	
+2017-1-25	Weber State	85	Idaho State	73	
+2017-1-25	Illinois	76	Iowa	64	
+2017-1-25	Illinois State	71	Indiana State	66	
+2017-1-25	IPFW	103	IUPUI	73	
+2017-1-25	Jacksonville	103	Stetson	92	
+2017-1-25	Kennesaw State	71	NJIT	65	
+2017-1-25	Penn	77	La Salle	74	
+2017-1-25	Bucknell	78	Lafayette	55	
+2017-1-25	Texas A&M-Corpus; Christi	69	Lamar	66	
+2017-1-25	Lipscomb	84	South Carolina Upstate	77	
+2017-1-25	Florida	106	LSU	71	
+2017-1-25	Loyola (IL)	70	Bradley	50	
+2017-1-25	Loyola (MD)	65	Holy Cross	62	
+2017-1-25	Miami (FL)	78	Boston College	77	
+2017-1-25	Texas A&M;	80	Ole Miss	76	
+2017-1-25	Mississippi State	89	Missouri	74	
+2017-1-25	New Hampshire	80	UMass-Lowell	71	
+2017-1-25	North Dakota State	81	Oral Roberts	71	
+2017-1-25	Florida Gulf Coast	86	North Florida	82	
+2017-1-25	Northern Iowa	61	Evansville	54	
+2017-1-25	Ohio State	78	Minnesota	72	
+2017-1-25	St. John's (NY)	91	Providence	86	
+2017-1-25	Richmond	73	Rhode Island	62	
+2017-1-25	Saint Louis	74	UMass	70	
+2017-1-25	ETSU	96	Samford	86	
+2017-1-25	Butler	61	Seton Hall	54	
+2017-1-25	South Dakota	62	Western Illinois	55	
+2017-1-25	UConn	81	South Florida	60	
+2017-1-25	Northwestern State	85	Southeastern Louisiana	71	
+2017-1-25	USC	84	UCLA	76	
+2017-1-25	Tennessee State	76	Southern Illinois-Edwardsville	56	
+2017-1-25	Stephen F. Austin	78	Central Arkansas	76	
+2017-1-25	Stony Brook	83	UMBC	73	
+2017-1-25	Temple	77	Memphis	66	
+2017-1-25	Wofford	93	North Carolina-Greensboro	74	
+2017-1-25	Wyoming	66	UNLV	65	
+2017-1-26	Alabama-Birmingham	79	Louisiana Tech	70	
+2017-1-26	Arizona	79	Washington State	62	
+2017-1-26	UT-Martin	85	Austin Peay	79	
+2017-1-26	Cal Poly	79	UC-Irvine	66	
+2017-1-26	Cal State Bakersfield	75	Chicago State	59	
+2017-1-26	Cincinnati	86	Xavier	78	
+2017-1-26	Colorado	85	Oregon State	78	
+2017-1-26	Drexel	81	Hofstra	80	
+2017-1-26	Florida Atlantic	83	Florida International	65	
+2017-1-26	Winthrop	72	Gardner-Webb	70	
+2017-1-26	Gonzaga	79	San Diego	43	
+2017-1-26	High Point	72	Charleston Southern	69	
+2017-1-26	Houston Baptist	83	Nicholls State	80	
+2017-1-26	Incarnate Word	82	Abilene Christian	79	
+2017-1-26	Eastern Kentucky	57	Jacksonville State	52	
+2017-1-26	North Carolina-Wilmington	87	James Madison	76	
+2017-1-26	Long Beach State	76	Cal State Fullerton	65	
+2017-1-26	Liberty	93	Longwood	62	
+2017-1-26	Loyola Marymount	79	Pacific	73	
+2017-1-26	St. Peter's	81	Marist	65	
+2017-1-26	Marshall	92	UTSA	71	
+2017-1-26	Michigan	90	Indiana	60	
+2017-1-26	Middle Tennessee	72	Southern Miss	56	
+2017-1-26	UMKC	83	Grand Canyon	77	
+2017-1-26	Eastern Washington	72	Montana	60	
+2017-1-26	Montana State	94	Idaho	91	
+2017-1-26	Mount St. Mary's	48	Robert Morris	47	
+2017-1-26	Southeast Missouri State	75	Murray State	74	
+2017-1-26	New Orleans	75	McNeese State	56	
+2017-1-26	Manhattan	70	Niagara	69	
+2017-1-26	UNC	91	Virginia Tech	72	
+2017-1-26	Charlotte	82	North Texas	81	
+2017-1-26	Elon	51	Northeastern	49	
+2017-1-26	Northern Arizona	63	Northern Colorado	50	
+2017-1-26	Northwestern	73	Nebraska	61	
+2017-1-26	Pepperdine	78	Portland	60	
+2017-1-26	North Carolina-Asheville	73	Presbyterian	47	
+2017-1-26	Campbell	78	Radford	61	
+2017-1-26	Old Dominion	80	Rice	72	
+2017-1-26	LIU-Brooklyn	60	Sacred Heart	57	
+2017-1-26	Saint Mary's (CA)	66	San Francisco	46	
+2017-1-26	Santa Clara	76	BYU	68	
+2017-1-26	New Mexico State	71	Seattle	56	
+2017-1-26	North Dakota	91	Southern Utah	89	
+2017-1-26	Fairleigh Dickinson	79	St. Francis (NY)	73	
+2017-1-26	Tennessee Tech	76	Morehead State	73	
+2017-1-26	Towson	83	College of Charleston	77	
+2017-1-26	Oregon	73	Utah	67	
+2017-1-26	Utah Valley	92	Texas-Rio Grande Valley	81	
+2017-1-26	Saint Francis (PA)	72	Wagner	67	
+2017-1-26	Western Kentucky	65	UTEP	62	
+2017-1-26	William & Mary	82	Delaware	58	
+2017-1-27	Columbia	66	Dartmouth	54	
+2017-1-27	Harvard	77	Cornell	71	
+2017-1-27	Milwaukee	73	Detroit	69	
+2017-1-27	Northern Kentucky	79	UIC	62	
+2017-1-27	Monmouth	95	Quinnipiac	76	
+2017-1-27	Green Bay	80	Oakland	72	
+2017-1-27	Iona	77	Siena	66	
+2017-1-27	Valparaiso	70	Wright State	55	
+2017-1-27	VCU	73	Dayton	68	
+2017-1-27	Weber State	96	Idaho State	74	
+2017-1-27	Yale	85	Brown	75	
+2017-1-28	Akron	91	Buffalo	90	
+2017-1-28	Alabama	71	Mississippi State	62	
+2017-1-28	Alabama-Birmingham	87	Southern Miss	43	
+2017-1-28	Alcorn State	74	Southern	64	
+2017-1-28	Texas-Arlington	83	Appalachian State	67	
+2017-1-28	Bucknell	96	Army	75	
+2017-1-28	Southeast Missouri State	82	Austin Peay	71	
+2017-1-28	Ball State	84	Western Michigan	78	
+2017-1-28	Ohio	96	Bowling Green State	72	
+2017-1-28	BYU	85	Loyola Marymount	77	
+2017-1-28	Bryant	73	Fairleigh Dickinson	72	
+2017-1-28	Georgetown	85	Butler	81	
+2017-1-28	Cal State Fullerton	81	Cal Poly	71	
+2017-1-28	UC-Davis	74	UC-Irvine	65	
+2017-1-28	Cal State Northridge	63	UC-Riverside	59	
+2017-1-28	Liberty	72	Campbell	40	
+2017-1-28	Canisius	78	Manhattan	64	
+2017-1-28	Incarnate Word	81	Central Arkansas	80	
+2017-1-28	Central Connecticut	61	LIU-Brooklyn	52	
+2017-1-28	Gardner-Webb	85	Charleston Southern	76	
+2017-1-28	Grand Canyon	85	Chicago State	77	
+2017-1-28	Texas State	52	Coastal Carolina	50	
+2017-1-28	Colorado	74	Oregon	65	
+2017-1-28	Columbia	65	Harvard	62	
+2017-1-28	UConn	78	Tulane	68	
+2017-1-28	Morgan State	76	Coppin State	74	
+2017-1-28	Cornell	75	Dartmouth	62	
+2017-1-28	Creighton	83	DePaul	66	
+2017-1-28	Delaware	66	James Madison	61	
+2017-1-28	Florida A&M;	81	Delaware State	68	
+2017-1-28	Northern Iowa	71	Drake	63	
+2017-1-28	College of Charleston	90	Drexel	76	
+2017-1-28	ETSU	76	Chattanooga	71	
+2017-1-28	Eastern Illinois	75	Southern Illinois-Edwardsville	60	
+2017-1-28	Fairfield	72	Marist	62	
+2017-1-28	Florida Gulf Coast	78	Jacksonville	56	
+2017-1-28	Davidson	84	Fordham	66	
+2017-1-28	George Washington	63	Saint Louis	55	
+2017-1-28	Georgia	59	Texas	57	
+2017-1-28	Georgia Tech	62	Notre Dame	60	
+2017-1-28	Grambling	61	Arkansas-Pine Bluff	53	
+2017-1-28	Albany (NY)	74	Hartford	61	
+2017-1-28	Hawaii	78	UCSB	56	
+2017-1-28	Elon	84	Hofstra	70	
+2017-1-28	Houston	79	Temple	66	
+2017-1-28	Savannah State	73	Howard	70	
+2017-1-28	Loyola (IL)	81	Indiana State	66	
+2017-1-28	Iowa	85	Ohio State	72	
+2017-1-28	Jackson State	83	Mississippi Valley State	68	
+2017-1-28	Morehead State	72	Jacksonville State	69	
+2017-1-28	Central Michigan	105	Kent State	98	
+2017-1-28	Kansas	79	Kentucky	73	
+2017-1-28	Loyola (MD)	70	Lafayette	62	
+2017-1-28	Lamar	85	Northwestern State	64	
+2017-1-28	Louisiana-Lafayette	88	Arkansas-Little Rock	82	
+2017-1-28	Arkansas State	73	Louisiana-Monroe	63	
+2017-1-28	Providence	79	Marquette	78	
+2017-1-28	UTEP	91	Marshall	68	
+2017-1-28	UMBC	105	New Hampshire	103	
+2017-1-28	Maryland-Eastern Shore	92	South Carolina State	69	
+2017-1-28	George Mason	76	UMass	74	
+2017-1-28	UMass-Lowell	97	Fisher College	73	
+2017-1-28	Memphis	57	East Carolina	50	
+2017-1-28	Mercer	82	Citadel	66	
+2017-1-28	Miami (FL)	77	UNC	62	
+2017-1-28	Eastern Michigan	74	Miami (OH)	57	
+2017-1-28	Middle Tennessee	71	Louisiana Tech	61	
+2017-1-28	Maryland	85	Minnesota	78	
+2017-1-28	Baylor	78	Ole Miss	75	
+2017-1-28	South Carolina	63	Missouri	53	
+2017-1-28	Cal State Bakersfield	74	UMKC	63	
+2017-1-28	Idaho	85	Montana	77	
+2017-1-28	Montana State	91	Eastern Washington	90	
+2017-1-28	Mount St. Mary's	67	Sacred Heart	53	
+2017-1-28	Murray State	94	UT-Martin	86	
+2017-1-28	Navy	60	Holy Cross	47	
+2017-1-28	South Dakota State	88	Nebraska-Omaha	84	
+2017-1-28	Nevada	82	New Mexico	65	
+2017-1-28	Niagara	80	Rider	67	
+2017-1-28	Nicholls State	78	McNeese State	74	
+2017-1-28	Lipscomb	66	NJIT	62	
+2017-1-28	Norfolk State	73	Bethune-Cookman	66	
+2017-1-28	North Carolina-Asheville	80	Radford	69	
+2017-1-28	North Carolina Central	82	North Carolina A&T;	59	
+2017-1-28	Furman	73	North Carolina-Greensboro	67	
+2017-1-28	Old Dominion	73	North Texas	67	
+2017-1-28	Northeastern	69	Towson	62	
+2017-1-28	Northern Arizona	68	North Dakota	67	
+2017-1-28	Florida	84	Oklahoma	52	
+2017-1-28	Oklahoma State	99	Arkansas	71	
+2017-1-28	IPFW	87	Oral Roberts	83	
+2017-1-28	San Francisco	81	Pacific	60	
+2017-1-28	Penn State	71	Illinois	67	
+2017-1-28	Gonzaga	96	Pepperdine	49	
+2017-1-28	Clemson	67	Pitt	60	
+2017-1-28	San Diego	68	Portland	52	
+2017-1-28	Prairie View	70	Alabama A&M;	65	
+2017-1-28	Presbyterian	71	Longwood	62	
+2017-1-28	Rhode Island	71	St. Bonaventure	59	
+2017-1-28	Rice	84	Charlotte	67	
+2017-1-28	Richmond	101	Duquesne	90	
+2017-1-28	Wisconsin	61	Rutgers	54	
+2017-1-28	Sacramento State	80	Portland State	77	
+2017-1-28	Saint Francis (PA)	89	Robert Morris	83	
+2017-1-28	St. Joseph's	73	La Salle	72	
+2017-1-28	Sam Houston State	71	Southeastern Louisiana	69	
+2017-1-28	Colorado State	78	San Diego State	77	
+2017-1-28	San Jose State	76	UNLV	72	
+2017-1-28	Saint Mary's (CA)	72	Santa Clara	59	
+2017-1-28	Seattle	96	Texas-Rio Grande Valley	84	
+2017-1-28	South Alabama	78	Georgia Southern	66	
+2017-1-28	South Carolina Upstate	79	Kennesaw State	73	
+2017-1-28	South Dakota	88	Denver	83	
+2017-1-28	Southern Illinois	85	Missouri State	84	
+2017-1-28	Northern Colorado	89	Southern Utah	71	
+2017-1-28	Stephen F. Austin	71	New Orleans	61	
+2017-1-28	Stetson	88	North Florida	74	
+2017-1-28	Vermont	71	Stony Brook	64	
+2017-1-28	Syracuse	82	Florida State	72	
+2017-1-28	Tennessee	70	Kansas State	58	
+2017-1-28	Belmont	93	Tennessee State	76	
+2017-1-28	Eastern Kentucky	79	Tennessee Tech	66	
+2017-1-28	Texas A&M-Corpus; Christi	72	Abilene Christian	60	
+2017-1-28	Auburn	88	Texas Christian	80	
+2017-1-28	Texas Southern	70	Alabama State	68	
+2017-1-28	Texas Tech	77	LSU	64	
+2017-1-28	Northern Illinois	74	Toledo	72	
+2017-1-28	Georgia State	78	Troy	72	
+2017-1-28	Tulsa	77	UCF	66	
+2017-1-28	Utah	86	Oregon State	78	
+2017-1-28	Utah State	78	Fresno State	65	
+2017-1-28	New Mexico State	74	Utah Valley	69	
+2017-1-28	Vanderbilt	84	Iowa State	78	
+2017-1-28	Samford	69	Virginia Military Institute	67	
+2017-1-28	Wagner	66	St. Francis (NY)	64	
+2017-1-28	Duke	85	Wake Forest	83	
+2017-1-28	West Virginia	81	Texas A&M;	77	
+2017-1-28	Western Carolina	68	Wofford	62	
+2017-1-28	Western Illinois	78	IUPUI	69	
+2017-1-28	Western Kentucky	81	UTSA	66	
+2017-1-28	William & Mary	96	North Carolina-Wilmington	78	
+2017-1-28	High Point	83	Winthrop	80	
+2017-1-28	Boise State	80	Wyoming	65	
+2017-1-28	Youngstown State	67	Cleveland State	64	
+2017-1-29	Colgate	70	American	65	
+2017-1-29	Arizona	77	Washington	66	
+2017-1-29	Washington State	91	Arizona State	83	
+2017-1-29	Wichita State	64	Bradley	49	
+2017-1-29	University of California	66	Stanford	55	
+2017-1-29	Cincinnati	94	South Florida	53	
+2017-1-29	Detroit	93	Green Bay	92	
+2017-1-29	Illinois State	69	Evansville	59	
+2017-1-29	Wright State	88	UIC	86	
+2017-1-29	Iona	69	St. Peter's	66	
+2017-1-29	Louisville	85	North Carolina State	60	
+2017-1-29	Binghamton	65	Maine	54	
+2017-1-29	Michigan State	70	Michigan	62	
+2017-1-29	Nebraska	83	Purdue	80	
+2017-1-29	Northwestern	68	Indiana	55	
+2017-1-29	Oakland	79	Milwaukee	70	
+2017-1-29	Xavier	82	St. John's (NY)	77	
+2017-1-29	Valparaiso	65	Northern Kentucky	58	
+2017-1-29	Villanova	61	Virginia	59	
+2017-1-29	Virginia Tech	85	Boston College	79	
+2017-1-3	Akron	89	Bowling Green State	84	
+2017-1-3	UCF	48	East Carolina	45	
+2017-1-3	UNC	89	Clemson	86	
+2017-1-3	Cal State Bakersfield	64	Dartmouth	60	
+2017-1-3	Eastern Michigan	85	Central Michigan	63	
+2017-1-3	Florida	70	Ole Miss	63	
+2017-1-3	Wisconsin	75	Indiana	68	
+2017-1-3	Jacksonville	124	Middle Georgia State	85	
+2017-1-3	Kansas	90	Kansas State	88	
+2017-1-3	Kent State	100	Ball State	90	
+2017-1-3	Kentucky	100	Texas A&M;	58	
+2017-1-3	North Carolina-Asheville	70	Liberty	57	
+2017-1-3	Miami (OH)	69	Northern Illinois	67	
+2017-1-3	Alabama	68	Mississippi State	58	
+2017-1-3	Ohio	89	Western Michigan	58	
+2017-1-3	Rhode Island	88	St. Joseph's	58	
+2017-1-3	Dayton	90	St. Bonaventure	74	
+2017-1-3	Arkansas	82	Tennessee	78	
+2017-1-3	Texas Christian	60	Oklahoma	57	
+2017-1-3	Texas Tech	77	West Virginia	76	
+2017-1-3	Toledo	86	Buffalo	54	
+2017-1-3	Wake Forest	79	Boston College	66	
+2017-1-30	Texas State	68	Appalachian State	55	
+2017-1-30	Belmont	92	Southern Illinois-Edwardsville	69	
+2017-1-30	Rider	72	Canisius	66	
+2017-1-30	Coastal Carolina	72	Texas-Arlington	70	
+2017-1-30	North Carolina Central	82	Delaware State	74	
+2017-1-30	Florida Gulf Coast	74	North Florida	59	
+2017-1-30	Grambling	77	Mississippi Valley State	74	
+2017-1-30	Hampton	77	Coppin State	65	
+2017-1-30	South Carolina State	77	Howard	68	
+2017-1-30	Jackson State	74	Arkansas-Pine Bluff	59	
+2017-1-30	Boston University	76	Lehigh	59	
+2017-1-30	Arkansas State	88	Louisiana-Lafayette	69	
+2017-1-30	Louisiana-Monroe	68	Arkansas-Little Rock	52	
+2017-1-30	Monmouth	83	Marist	71	
+2017-1-30	Savannah State	87	Maryland-Eastern Shore	82	
+2017-1-30	Mercer	62	Western Carolina	47	
+2017-1-30	Morgan State	77	Florida A&M;	60	
+2017-1-30	New Mexico State	98	Northern New Mexico	75	
+2017-1-30	Kennesaw State	54	NJIT	53	
+2017-1-30	Norfolk State	83	North Carolina A&T;	69	
+2017-1-30	Duke	84	Notre Dame	74	
+2017-1-30	Oklahoma State	68	Oklahoma	66	
+2017-1-30	Prairie View	72	Alabama State	52	
+2017-1-30	Siena	84	Quinnipiac	75	
+2017-1-30	Georgia State	83	South Alabama	80	
+2017-1-30	Lipscomb	92	South Carolina Upstate	80	
+2017-1-30	Jacksonville	89	Stetson	86	
+2017-1-30	Texas Southern	92	Alabama A&M;	47	
+2017-1-30	Troy	83	Georgia Southern	76	
+2017-1-30	William & Mary	108	Drexel	85	
+2017-1-31	Tennessee	87	Auburn	77	
+2017-1-31	Ball State	81	Toledo	80	
+2017-1-31	Wake Forest	85	Boston College	80	
+2017-1-31	Bowling Green State	83	Miami (OH)	72	
+2017-1-31	Buffalo	101	Central Michigan	91	
+2017-1-31	Creighton	76	Butler	67	
+2017-1-31	Boise State	79	Colorado State	76	
+2017-1-31	Georgetown	76	DePaul	73	
+2017-1-31	Kent State	70	Eastern Michigan	64	
+2017-1-31	Fairfield	78	Manhattan	49	
+2017-1-31	Dayton	75	Fordham	66	
+2017-1-31	Grand Canyon	95	Bethesda University (CA)	66	
+2017-1-31	Wisconsin	57	Illinois	43	
+2017-1-31	West Virginia	85	Iowa State	72	
+2017-1-31	Kentucky	90	Georgia	81	
+2017-1-31	Liberty	71	Presbyterian	51	
+2017-1-31	Ole Miss	88	Mississippi State	61	
+2017-1-31	UMKC	93	Ottawa (KS)	67	
+2017-1-31	Missouri State	82	Loyola (IL)	81	
+2017-1-31	UNC	80	Pitt	78	
+2017-1-31	Akron	76	Northern Illinois	73	
+2017-1-31	Maryland	77	Ohio State	71	
+2017-1-31	Denver	93	Oral Roberts	69	
+2017-1-31	Rhode Island	82	George Washington	70	
+2017-1-31	Iowa	83	Rutgers	63	
+2017-1-31	Davidson	75	St. Joseph's	60	
+2017-1-31	San Diego State	77	Wyoming	68	
+2017-1-31	Vanderbilt	68	Texas A&M;	54	
+2017-1-31	Temple	79	Tulane	71	
+2017-1-31	Western Michigan	90	Ohio	85	
+2017-1-4	Grambling	69	Alabama A&M;	67	
+2017-1-4	Jackson State	63	Alabama State	60	
+2017-1-4	Alcorn State	66	Prairie View	55	
+2017-1-4	Baylor	65	Iowa State	63	
+2017-1-4	Butler	66	Villanova	58	
+2017-1-4	Cal State Northridge	82	UC-Riverside	76	
+2017-1-4	UC-Davis	73	UCSB	47	
+2017-1-4	UC-Irvine	82	Long Beach State	67	
+2017-1-4	Campbell	92	Charleston Southern	82	
+2017-1-4	Canisius	83	Quinnipiac	77	
+2017-1-4	Coppin State	75	South Carolina State	59	
+2017-1-4	South Dakota	75	Denver	69	
+2017-1-4	Duke	110	Georgia Tech	57	
+2017-1-4	VCU	94	Duquesne	87	
+2017-1-4	Bradley	74	Evansville	63	
+2017-1-4	Fresno State	85	Wyoming	70	
+2017-1-4	George Mason	86	UMass	81	
+2017-1-4	South Carolina	67	Georgia	61	
+2017-1-4	Hampton	68	North Carolina A&T;	53	
+2017-1-4	Winthrop	80	High Point	74	
+2017-1-4	Houston	64	Tulsa	61	
+2017-1-4	Florida A&M;	78	Howard	66	
+2017-1-4	Illinois State	74	Missouri State	71	
+2017-1-4	La Salle	75	Saint Louis	54	
+2017-1-4	Longwood	79	Presbyterian	76	
+2017-1-4	Loyola (IL)	77	Northern Iowa	66	
+2017-1-4	Michigan	72	Penn State	69	
+2017-1-4	Michigan State	93	Rutgers	65	
+2017-1-4	LSU	88	Missouri	77	
+2017-1-4	Morgan State	58	Norfolk State	56	
+2017-1-4	IPFW	80	Nebraska-Omaha	78	
+2017-1-4	Nevada	72	San Diego State	69	
+2017-1-4	Boise State	77	UNLV	59	
+2017-1-4	Niagara	71	Siena	66	
+2017-1-4	NJIT	75	Brown	73	
+2017-1-4	North Carolina State	104	Virginia Tech	78	
+2017-1-4	Notre Dame	77	Louisville	70	
+2017-1-4	Pitt	88	Virginia	76	
+2017-1-4	Providence	76	Georgetown	70	
+2017-1-4	Gardner-Webb	70	Radford	59	
+2017-1-4	Richmond	80	Fordham	72	
+2017-1-4	Colorado State	76	San Jose State	71	
+2017-1-4	Savannah State	104	Bethune-Cookman	91	
+2017-1-4	Texas Southern	82	Southern	74	
+2017-1-4	Southern Illinois	80	Indiana State	74	
+2017-1-4	SMU	79	Temple	65	
+2017-1-4	Creighton	85	St. John's (NY)	72	
+2017-1-4	Syracuse	70	Miami (FL)	55	
+2017-1-4	Texas	82	Oklahoma State	79	
+2017-1-4	Utah State	79	New Mexico	75	
+2017-1-4	Vanderbilt	80	Auburn	61	
+2017-1-4	Oregon	83	Washington	61	
+2017-1-4	Washington State	75	Oregon State	62	
+2017-1-4	Western Illinois	82	South Dakota State	74	
+2017-1-4	Wichita State	90	Drake	65	
+2017-1-5	Central Arkansas	81	Abilene Christian	76	
+2017-1-5	Bucknell	69	American	60	
+2017-1-5	Arizona	66	Utah	56	
+2017-1-5	Arizona State	78	Colorado	77	
+2017-1-5	Belmont	83	UT-Martin	67	
+2017-1-5	Bryant	72	Mount St. Mary's	71	
+2017-1-5	Cal State Fullerton	67	Hawaii	64	
+2017-1-5	Sacred Heart	64	Central Connecticut	62	
+2017-1-5	Chattanooga	77	Wofford	66	
+2017-1-5	Texas-Rio Grande Valley	83	Chicago State	64	
+2017-1-5	ETSU	115	Citadel	71	
+2017-1-5	Holy Cross	67	Colgate	61	
+2017-1-5	College of Charleston	62	Towson	57	
+2017-1-5	North Carolina-Wilmington	90	Drexel	72	
+2017-1-5	Eastern Kentucky	78	Southern Illinois-Edwardsville	61	
+2017-1-5	Eastern Washington	82	Montana State	64	
+2017-1-5	George Washington	73	Davidson	69	
+2017-1-5	James Madison	62	Hofstra	54	
+2017-1-5	Houston Baptist	81	Southeastern Louisiana	74	
+2017-1-5	Montana	70	Idaho	57	
+2017-1-5	Incarnate Word	84	Northwestern State	80	
+2017-1-5	Murray State	76	Jacksonville State	63	
+2017-1-5	Lafayette	79	Army	74	
+2017-1-5	New Orleans	66	Lamar	62	
+2017-1-5	Loyola (MD)	84	Lehigh	83	
+2017-1-5	Lipscomb	126	Fisk	43	
+2017-1-5	Louisiana Tech	64	UTEP	44	
+2017-1-5	Vermont	90	Maine	77	
+2017-1-5	Fairfield	97	Manhattan	79	
+2017-1-5	Marshall	90	Old Dominion	86	
+2017-1-5	UMBC	85	Binghamton	71	
+2017-1-5	UMass-Lowell	85	Albany (NY)	79	
+2017-1-5	Sam Houston State	74	McNeese State	67	
+2017-1-5	Memphis	70	UConn	61	
+2017-1-5	Mercer	68	Virginia Military Institute	50	
+2017-1-5	New Mexico State	77	UMKC	64	
+2017-1-5	Morehead State	85	Eastern Illinois	75	
+2017-1-5	Boston University	71	Navy	53	
+2017-1-5	Nebraska	93	Iowa	90	
+2017-1-5	Stony Brook	59	New Hampshire	56	
+2017-1-5	North Dakota	68	Northern Arizona	63	
+2017-1-5	North Dakota State	93	IUPUI	89	
+2017-1-5	Alabama-Birmingham	54	North Texas	52	
+2017-1-5	Northeastern	90	Delaware	54	
+2017-1-5	Southern Utah	78	Northern Colorado	76	
+2017-1-5	Northern Kentucky	83	Youngstown State	70	
+2017-1-5	Minnesota	70	Northwestern	66	
+2017-1-5	Purdue	76	Ohio State	75	
+2017-1-5	Pepperdine	71	Loyola Marymount	70	
+2017-1-5	Middle Tennessee	80	Rice	77	
+2017-1-5	LIU-Brooklyn	65	Robert Morris	54	
+2017-1-5	Saint Francis (PA)	81	St. Francis (NY)	56	
+2017-1-5	Saint Mary's (CA)	81	BYU	68	
+2017-1-5	Furman	83	Samford	73	
+2017-1-5	Pacific	56	San Diego	53	
+2017-1-5	Gonzaga	95	San Francisco	80	
+2017-1-5	Santa Clara	70	Portland	42	
+2017-1-5	USC	72	Stanford	56	
+2017-1-5	Southern Miss	77	UTSA	59	
+2017-1-5	Tennessee State	65	Southeast Missouri State	62	
+2017-1-5	Tennessee Tech	76	Austin Peay	67	
+2017-1-5	UCLA	81	University of California	71	
+2017-1-5	Fairleigh Dickinson	70	Wagner	69	
+2017-1-5	Western Kentucky	82	Charlotte	80	
+2017-1-5	William & Mary	88	Elon	85	
+2017-1-5	Wright State	55	Cleveland State	51	
+2017-1-6	Akron	66	Western Michigan	59	
+2017-1-6	Dayton	67	Rhode Island	64	
+2017-1-6	Green Bay	80	Milwaukee	74	
+2017-1-6	UIC	78	Detroit	64	
+2017-1-6	Rider	73	Marist	62	
+2017-1-6	Monmouth	92	Iona	74	
+2017-1-6	Ohio	85	Kent State	67	
+2017-1-6	Oakland	78	Valparaiso	66	
+2017-1-7	Abilene Christian	69	Stephen F. Austin	60	
+2017-1-7	Alabama	59	Vanderbilt	56	
+2017-1-7	Arkansas-Little Rock	76	Appalachian State	68	
+2017-1-7	Arizona	82	Colorado	73	
+2017-1-7	Utah	88	Arizona State	82	
+2017-1-7	Arkansas-Pine Bluff	71	Alabama State	63	
+2017-1-7	Ole Miss	88	Auburn	85	
+2017-1-7	Bowling Green State	76	Ball State	71	
+2017-1-7	Baylor	61	Oklahoma State	57	
+2017-1-7	Belmont	87	Southeast Missouri State	75	
+2017-1-7	Morgan State	69	Bethune-Cookman	63	
+2017-1-7	Boise State	78	San Diego State	66	
+2017-1-7	Loyola (IL)	78	Bradley	62	
+2017-1-7	BYU	91	Pacific	62	
+2017-1-7	Cal State Bakersfield	78	Seattle	71	
+2017-1-7	Cal State Northridge	70	Cal State Fullerton	65	
+2017-1-7	UC-Davis	68	Cal Poly	64	
+2017-1-7	UC-Irvine	84	Hawaii	56	
+2017-1-7	Mount St. Mary's	77	Central Connecticut	68	
+2017-1-7	Chattanooga	80	Furman	64	
+2017-1-7	New Mexico State	78	Chicago State	62	
+2017-1-7	Citadel	79	Virginia Military Institute	74	
+2017-1-7	Coastal Carolina	80	Arkansas State	65	
+2017-1-7	College of Charleston	77	Hofstra	71	
+2017-1-7	Colorado State	85	Air Force	58	
+2017-1-7	Columbia	66	Howard	48	
+2017-1-7	Harvard	74	Dartmouth	58	
+2017-1-7	North Carolina-Wilmington	91	Delaware	81	
+2017-1-7	Duke	93	Boston College	82	
+2017-1-7	Eastern Illinois	74	Eastern Kentucky	60	
+2017-1-7	Buffalo	77	Eastern Michigan	68	
+2017-1-7	Montana	65	Eastern Washington	59	
+2017-1-7	Elon	72	Towson	61	
+2017-1-7	Fairleigh Dickinson	87	Bryant	84	
+2017-1-7	Florida	83	Tennessee	70	
+2017-1-7	Florida A&M;	54	Coppin State	53	
+2017-1-7	Florida Atlantic	73	Florida International	64	
+2017-1-7	Florida State	93	Virginia Tech	78	
+2017-1-7	St. Joseph's	70	Fordham	55	
+2017-1-7	Gardner-Webb	79	Charleston Southern	75	
+2017-1-7	Butler	85	Georgetown	76	
+2017-1-7	Georgia	71	Missouri	66	
+2017-1-7	Georgia Southern	86	Troy	82	
+2017-1-7	Georgia State	78	South Alabama	77	
+2017-1-7	Louisville	65	Georgia Tech	50	
+2017-1-7	Southern	87	Grambling	79	
+2017-1-7	Grand Canyon	82	Utah Valley	72	
+2017-1-7	Cincinnati	67	Houston	58	
+2017-1-7	Houston Baptist	60	McNeese State	49	
+2017-1-7	Idaho	83	Montana State	81	
+2017-1-7	New Orleans	87	Incarnate Word	72	
+2017-1-7	Indiana	96	Illinois	80	
+2017-1-7	Illinois State	77	Indiana State	58	
+2017-1-7	Iowa State	79	Texas	70	
+2017-1-7	IPFW	87	Denver	83	
+2017-1-7	North Florida	80	Jacksonville	64	
+2017-1-7	Jacksonville State	71	Austin Peay	68	
+2017-1-7	Kansas	85	Texas Tech	68	
+2017-1-7	Kansas State	75	Oklahoma	64	
+2017-1-7	Kentucky	97	Arkansas	71	
+2017-1-7	La Salle	88	Duquesne	81	
+2017-1-7	Lamar	74	Southeastern Louisiana	54	
+2017-1-7	Liberty	61	Campbell	54	
+2017-1-7	Lipscomb	82	Kennesaw State	79	
+2017-1-7	Long Beach State	70	UC-Riverside	64	
+2017-1-7	Louisiana-Lafayette	69	Louisiana-Monroe	60	
+2017-1-7	Mississippi State	95	LSU	78	
+2017-1-7	UTSA	69	Louisiana Tech	68	
+2017-1-7	Loyola Marymount	66	Santa Clara	56	
+2017-1-7	Marshall	110	Charlotte	93	
+2017-1-7	ETSU	67	Mercer	58	
+2017-1-7	Maryland	77	Michigan	70	
+2017-1-7	Alabama A&M;	79	Mississippi Valley State	76	
+2017-1-7	UMKC	83	Texas-Rio Grande Valley	79	
+2017-1-7	Southern Illinois	75	Missouri State	67	
+2017-1-7	Morehead State	73	Southern Illinois-Edwardsville	65	
+2017-1-7	Nevada	105	New Mexico	104	
+2017-1-7	North Carolina-Asheville	88	High Point	58	
+2017-1-7	Delaware State	55	North Carolina A&T;	53	
+2017-1-7	North Carolina-Greensboro	76	Western Carolina	57	
+2017-1-7	North Dakota	95	Southern Utah	65	
+2017-1-7	Middle Tennessee	79	North Texas	68	
+2017-1-7	Northeastern	64	James Madison	54	
+2017-1-7	Northern Colorado	83	Northern Arizona	79	
+2017-1-7	Northern Illinois	87	Central Michigan	83	
+2017-1-7	Northern Kentucky	83	Cleveland State	75	
+2017-1-7	Notre Dame	75	Clemson	70	
+2017-1-7	Penn State	72	Michigan State	63	
+2017-1-7	San Diego	76	Pepperdine	68	
+2017-1-7	Portland State	83	Sacramento State	76	
+2017-1-7	Texas Southern	87	Prairie View	82	
+2017-1-7	Radford	76	Presbyterian	63	
+2017-1-7	Princeton	61	Penn	52	
+2017-1-7	Creighton	78	Providence	64	
+2017-1-7	Quinnipiac	81	Manhattan	72	
+2017-1-7	Alabama-Birmingham	88	Rice	81	
+2017-1-7	Robert Morris	62	St. Francis (NY)	58	
+2017-1-7	LIU-Brooklyn	83	Saint Francis (PA)	70	
+2017-1-7	Sam Houston State	74	Nicholls State	61	
+2017-1-7	Saint Mary's (CA)	63	San Francisco	52	
+2017-1-7	San Jose State	69	Fresno State	62	
+2017-1-7	Seton Hall	87	DePaul	56	
+2017-1-7	Siena	56	St. Peter's	54	
+2017-1-7	South Carolina	79	Texas A&M;	68	
+2017-1-7	South Carolina Upstate	75	NJIT	65	
+2017-1-7	South Dakota	85	IUPUI	74	
+2017-1-7	Nebraska-Omaha	101	South Dakota State	93	
+2017-1-7	SMU	84	South Florida	65	
+2017-1-7	Southern Miss	73	UTEP	65	
+2017-1-7	St. Bonaventure	82	George Mason	72	
+2017-1-7	Florida Gulf Coast	89	Stetson	88	
+2017-1-7	Syracuse	77	Pitt	66	
+2017-1-7	Temple	81	East Carolina	62	
+2017-1-7	Tennessee State	76	UT-Martin	65	
+2017-1-7	Tennessee Tech	71	Murray State	67	
+2017-1-7	Texas A&M-Corpus; Christi	99	Northwestern State	82	
+2017-1-7	Texas State	81	Texas-Arlington	73	
+2017-1-7	Toledo	91	Miami (OH)	76	
+2017-1-7	Utah State	79	UNLV	63	
+2017-1-7	Villanova	93	Marquette	81	
+2017-1-7	VCU	81	UMass	64	
+2017-1-7	Wagner	75	Sacred Heart	64	
+2017-1-7	Washington	87	Oregon State	61	
+2017-1-7	Oregon	85	Washington State	66	
+2017-1-7	West Virginia	82	Texas Christian	70	
+2017-1-7	Western Illinois	86	Oral Roberts	71	
+2017-1-7	Old Dominion	79	Western Kentucky	67	
+2017-1-7	Winthrop	83	Longwood	65	
+2017-1-7	Youngstown State	80	Wright State	75	
+2017-1-7	Xavier	97	St. John's (NY)	82	
+2017-1-7	Yale	102	Mitchell	46	
+2017-1-8	Army	66	Loyola (MD)	57	
+2017-1-8	UMass-Lowell	79	Binghamton	75	
+2017-1-8	UConn	64	UCF	49	
+2017-1-8	Cornell	100	Fisher College	72	
+2017-1-8	Drake	88	Evansville	76	
+2017-1-8	Richmond	77	George Washington	70	
+2017-1-8	Bucknell	68	Holy Cross	49	
+2017-1-8	Oakland	58	UIC	57	
+2017-1-8	Iona	98	Canisius	75	
+2017-1-8	Iowa	68	Rutgers	62	
+2017-1-8	Boston University	91	Lafayette	75	
+2017-1-8	Lehigh	79	American	73	
+2017-1-8	UMBC	75	Maine	64	
+2017-1-8	Minnesota	78	Ohio State	68	
+2017-1-8	Monmouth	71	Marist	64	
+2017-1-8	Navy	67	Colgate	55	
+2017-1-8	Northwestern	74	Nebraska	66	
+2017-1-8	UNC	107	North Carolina State	56	
+2017-1-8	Wichita State	80	Northern Iowa	66	
+2017-1-8	Purdue	66	Wisconsin	55	
+2017-1-8	Rider	89	Niagara	78	
+2017-1-8	Davidson	77	Saint Louis	66	
+2017-1-8	Samford	91	Wofford	89	
+2017-1-8	University of California	74	USC	73	
+2017-1-8	Stony Brook	72	Albany (NY)	70	
+2017-1-8	Memphis	80	Tulane	59	
+2017-1-8	UCLA	89	Stanford	75	
+2017-1-8	Valparaiso	81	Detroit	74	
+2017-1-8	Vermont	85	Hartford	54	
+2017-1-8	Virginia	79	Wake Forest	62	
+2017-1-9	Appalachian State	70	Arkansas State	57	
+2017-1-9	Arkansas-Pine Bluff	81	Alabama A&M;	65	
+2017-1-9	Coppin State	76	Bethune-Cookman	73	
+2017-1-9	Coastal Carolina	66	Arkansas-Little Rock	63	
+2017-1-9	Georgetown	83	St. John's (NY)	55	
+2017-1-9	Georgia Southern	84	South Alabama	79	
+2017-1-9	Troy	80	Georgia State	77	
+2017-1-9	Grambling	67	Alcorn State	62	
+2017-1-9	Hampton	84	Savannah State	80	
+2017-1-9	IPFW	115	Olivet	60	
+2017-1-9	Jackson State	65	Southern	61	
+2017-1-9	Mississippi Valley State	73	Alabama State	70	
+2017-1-9	Maryland-Eastern Shore	99	North Carolina A&T;	88	
+2017-1-9	St. Peter's	58	Quinnipiac	54	
+2017-2-1	Abilene Christian	70	New Orleans	69	
+2017-2-1	Albany (NY)	90	UMass-Lowell	77	
+2017-2-1	Arkansas	87	Alabama	68	
+2017-2-1	Army	80	Lafayette	73	
+2017-2-1	Stetson	76	Bethune-Cookman	67	
+2017-2-1	UMBC	92	Binghamton	74	
+2017-2-1	Bucknell	80	American	60	
+2017-2-1	Cal State Northridge	108	Long Beach State	98	
+2017-2-1	Gardner-Webb	80	Campbell	68	
+2017-2-1	Clemson	74	Georgia Tech	62	
+2017-2-1	Delaware State	82	North Carolina A&T;	65	
+2017-2-1	Wichita State	77	Drake	69	
+2017-2-1	St. Bonaventure	71	Duquesne	64	
+2017-2-1	Austin Peay	83	Eastern Kentucky	81	
+2017-2-1	Fresno State	73	Air Force	64	
+2017-2-1	Hampton	66	Maryland-Eastern Shore	65	
+2017-2-1	Holy Cross	56	Colgate	50	
+2017-2-1	Houston	82	UCF	64	
+2017-2-1	Illinois State	57	Northern Iowa	51	
+2017-2-1	Indiana	110	Penn State	102	
+2017-2-1	Indiana State	85	Evansville	84	
+2017-2-1	IUPUI	86	North Dakota State	81	
+2017-2-1	Jacksonville State	74	Southeast Missouri State	62	
+2017-2-1	Kansas	73	Baylor	68	
+2017-2-1	Texas Christian	86	Kansas State	80	
+2017-2-1	La Salle	88	UMass	78	
+2017-2-1	High Point	92	Longwood	68	
+2017-2-1	South Carolina	88	LSU	63	
+2017-2-1	Loyola (MD)	62	Lehigh	60	
+2017-2-1	Florida State	75	Miami (FL)	57	
+2017-2-1	Nebraska-Omaha	91	South Dakota	83	
+2017-2-1	New Mexico	80	UNLV	77	
+2017-2-1	North Carolina-Asheville	91	Charleston Southern	73	
+2017-2-1	Syracuse	100	North Carolina State	93	
+2017-2-1	Villanova	66	Providence	57	
+2017-2-1	Purdue	80	Northwestern	59	
+2017-2-1	Winthrop	81	Radford	65	
+2017-2-1	Saint Louis	76	George Mason	74	
+2017-2-1	South Dakota State	98	Western Illinois	65	
+2017-2-1	Southeastern Louisiana	72	Nicholls State	44	
+2017-2-1	Southern Illinois	85	Bradley	65	
+2017-2-1	SMU	86	East Carolina	46	
+2017-2-1	St. John's (NY)	86	Marquette	72	
+2017-2-1	Stony Brook	64	New Hampshire	61	
+2017-2-1	UT-Martin	75	Tennessee Tech	46	
+2017-2-1	Texas	62	Texas Tech	58	
+2017-2-1	Texas A&M-Corpus; Christi	90	Houston Baptist	79	
+2017-2-1	Cincinnati	57	Tulsa	55	
+2017-2-1	Utah State	74	Nevada	57	
+2017-2-1	Vermont	74	Maine	53	
+2017-2-1	Virginia	71	Virginia Tech	48	
+2017-2-1	VCU	81	Richmond	74	
+2017-2-1	USC	82	Washington	74	
+2017-2-1	UCLA	95	Washington State	79	
+2017-2-1	Xavier	72	Seton Hall	70	
+2017-2-10	Ohio	79	Ball State	77	
+2017-2-10	Harvard	87	Brown	74	
+2017-2-10	Niagara	94	Canisius	81	
+2017-2-10	Oakland	89	Detroit	80	
+2017-2-10	Akron	87	Eastern Michigan	76	
+2017-2-10	Monmouth	62	Manhattan	58	
+2017-2-10	Penn	70	Columbia	62	
+2017-2-10	Princeton	69	Cornell	60	
+2017-2-10	Dayton	75	Rhode Island	74	
+2017-2-10	Yale	73	Dartmouth	64	
+2017-2-11	Abilene Christian	76	Northwestern State	72	
+2017-2-11	Kentucky	67	Alabama	58	
+2017-2-11	Old Dominion	83	Alabama-Birmingham	62	
+2017-2-11	Alabama State	97	Alabama A&M;	89	
+2017-2-11	Appalachian State	77	Georgia State	72	
+2017-2-11	Arizona	62	University of California	57	
+2017-2-11	Arizona State	75	Stanford	69	
+2017-2-11	Arkansas-Pine Bluff	68	Southern	61	
+2017-2-11	American	61	Army	58	
+2017-2-11	Baylor	70	Texas Christian	52	
+2017-2-11	Boise State	76	Air Force	66	
+2017-2-11	Boston University	78	Loyola (MD)	63	
+2017-2-11	Buffalo	88	Bowling Green State	74	
+2017-2-11	Dartmouth	77	Brown	74	
+2017-2-11	Bryant	80	St. Francis (NY)	69	
+2017-2-11	Cal State Bakersfield	75	Texas-Rio Grande Valley	53	
+2017-2-11	Cal State Fullerton	74	Long Beach State	69	
+2017-2-11	Cal State Northridge	77	UCSB	55	
+2017-2-11	UC-Davis	77	UC-Riverside	63	
+2017-2-11	Central Arkansas	106	Nicholls State	83	
+2017-2-11	UConn	66	UCF	63	
+2017-2-11	Utah Valley	87	Chicago State	54	
+2017-2-11	Coastal Carolina	82	Georgia Southern	70	
+2017-2-11	Colorado State	78	Fresno State	62	
+2017-2-11	Coppin State	76	Bethune-Cookman	72	
+2017-2-11	Creighton	93	DePaul	58	
+2017-2-11	Towson	69	Drexel	65	
+2017-2-11	Duke	64	Clemson	62	
+2017-2-11	ETSU	88	Mercer	71	
+2017-2-11	Eastern Illinois	86	Southeast Missouri State	80	
+2017-2-11	Morehead State	67	Eastern Kentucky	62	
+2017-2-11	Elon	77	North Carolina-Wilmington	76	
+2017-2-11	Florida	71	Texas A&M;	62	
+2017-2-11	Rice	81	Florida Atlantic	75	
+2017-2-11	Florida Gulf Coast	75	Kennesaw State	63	
+2017-2-11	Florida International	90	North Texas	71	
+2017-2-11	Furman	90	Samford	73	
+2017-2-11	George Mason	73	Fordham	67	
+2017-2-11	George Washington	76	St. Bonaventure	70	
+2017-2-11	Georgetown	80	Marquette	62	
+2017-2-11	Georgia Tech	65	Boston College	54	
+2017-2-11	Texas Southern	77	Grambling	70	
+2017-2-11	Grand Canyon	83	New Mexico State	71	
+2017-2-11	Hampton	75	Howard	61	
+2017-2-11	UC-Irvine	72	Hawaii	58	
+2017-2-11	Radford	69	High Point	68	
+2017-2-11	Houston Baptist	94	Lamar	87	
+2017-2-11	Penn State	83	Illinois	70	
+2017-2-11	Cleveland State	66	UIC	63	
+2017-2-11	Illinois State	64	Bradley	50	
+2017-2-11	Indiana State	84	Drake	60	
+2017-2-11	Iowa State	80	Oklahoma	64	
+2017-2-11	IPFW	108	Nebraska-Omaha	101	
+2017-2-11	Oral Roberts	74	IUPUI	68	
+2017-2-11	Jackson State	78	Prairie View	69	
+2017-2-11	Jacksonville	76	NJIT	73	
+2017-2-11	Jacksonville State	63	Tennessee State	57	
+2017-2-11	Delaware	58	James Madison	57	
+2017-2-11	Richmond	64	La Salle	52	
+2017-2-11	Liberty	76	Charleston Southern	69	
+2017-2-11	LIU-Brooklyn	75	Fairleigh Dickinson	69	
+2017-2-11	North Carolina-Asheville	91	Longwood	69	
+2017-2-11	Troy	100	Louisiana-Lafayette	88	
+2017-2-11	South Alabama	66	Louisiana-Monroe	63	
+2017-2-11	Arkansas	78	LSU	70	
+2017-2-11	Louisville	71	Miami (FL)	66	
+2017-2-11	Loyola Marymount	66	Portland	60	
+2017-2-11	Siena	84	Marist	77	
+2017-2-11	Maryland	86	Ohio State	77	
+2017-2-11	Texas A&M-Corpus; Christi	73	McNeese State	66	
+2017-2-11	Miami (OH)	81	Central Michigan	76	
+2017-2-11	Michigan State	77	Iowa	66	
+2017-2-11	Middle Tennessee	70	Charlotte	55	
+2017-2-11	Ole Miss	90	Auburn	84	
+2017-2-11	South Carolina	77	Mississippi State	73	
+2017-2-11	Alcorn State	88	Mississippi Valley State	77	
+2017-2-11	Missouri	72	Vanderbilt	52	
+2017-2-11	UMKC	102	Seattle	72	
+2017-2-11	Delaware State	56	Morgan State	45	
+2017-2-11	Murray State	102	Austin Peay	58	
+2017-2-11	Navy	68	Lafayette	60	
+2017-2-11	San Jose State	76	UNLV	74	
+2017-2-11	Norfolk State	75	Maryland-Eastern Shore	69	
+2017-2-11	Florida A&M;	83	North Carolina A&T;	77	
+2017-2-11	North Carolina Central	85	South Carolina State	62	
+2017-2-11	North Dakota	88	Idaho	65	
+2017-2-11	North Dakota State	81	Denver	63	
+2017-2-11	South Carolina Upstate	84	North Florida	71	
+2017-2-11	Hofstra	74	Northeastern	64	
+2017-2-11	Montana	76	Northern Arizona	59	
+2017-2-11	Eastern Washington	70	Northern Colorado	44	
+2017-2-11	Northern Kentucky	69	Milwaukee	63	
+2017-2-11	Notre Dame	84	Florida State	72	
+2017-2-11	Oklahoma State	84	Texas	71	
+2017-2-11	Santa Clara	64	Pacific	47	
+2017-2-11	Pitt	80	Syracuse	75	
+2017-2-11	Weber State	96	Portland State	93	
+2017-2-11	Campbell	70	Presbyterian	57	
+2017-2-11	Princeton	61	Columbia	59	
+2017-2-11	Providence	71	Butler	65	
+2017-2-11	Rider	112	Quinnipiac	107	
+2017-2-11	Robert Morris	50	Wagner	48	
+2017-2-11	Minnesota	72	Rutgers	63	
+2017-2-11	Sacramento State	75	Idaho State	63	
+2017-2-11	Sacred Heart	77	Central Connecticut	62	
+2017-2-11	Mount St. Mary's	81	Saint Francis (PA)	62	
+2017-2-11	UMass	87	St. Joseph's	76	
+2017-2-11	Saint Louis	87	Duquesne	81	
+2017-2-11	Gonzaga	74	Saint Mary's (CA)	64	
+2017-2-11	Sam Houston State	72	Incarnate Word	63	
+2017-2-11	Pepperdine	65	San Diego	60	
+2017-2-11	BYU	68	San Francisco	52	
+2017-2-11	South Dakota	91	South Dakota State	89	
+2017-2-11	South Florida	64	East Carolina	57	
+2017-2-11	New Orleans	60	Southeastern Louisiana	52	
+2017-2-11	Oregon	81	USC	70	
+2017-2-11	Evansville	75	Southern Illinois	70	
+2017-2-11	UT-Martin	80	Southern Illinois-Edwardsville	73	
+2017-2-11	Montana State	83	Southern Utah	78	
+2017-2-11	St. John's (NY)	78	Seton Hall	70	
+2017-2-11	Lipscomb	97	Stetson	85	
+2017-2-11	Georgia	76	Tennessee	75	
+2017-2-11	Tennessee Tech	83	Belmont	70	
+2017-2-11	Texas-Arlington	81	Arkansas State	75	
+2017-2-11	UTEP	80	Southern Miss	50	
+2017-2-11	Louisiana Tech	72	UTSA	66	
+2017-2-11	Texas State	56	Arkansas-Little Rock	49	
+2017-2-11	Kansas	80	Texas Tech	79	
+2017-2-11	Toledo	78	Kent State	58	
+2017-2-11	Houston	73	Tulsa	64	
+2017-2-11	Utah	85	Washington	61	
+2017-2-11	Utah State	81	Wyoming	74	
+2017-2-11	Valparaiso	82	Youngstown State	72	
+2017-2-11	VCU	74	Davidson	60	
+2017-2-11	Virginia Military Institute	101	Citadel	78	
+2017-2-11	Wake Forest	88	North Carolina State	58	
+2017-2-11	West Virginia	85	Kansas State	66	
+2017-2-11	North Carolina-Greensboro	76	Western Carolina	68	
+2017-2-11	Marshall	84	Western Kentucky	79	
+2017-2-11	Western Michigan	76	Northern Illinois	67	
+2017-2-11	William & Mary	89	College of Charleston	79	
+2017-2-11	Winthrop	77	Gardner-Webb	71	
+2017-2-11	Chattanooga	73	Wofford	65	
+2017-2-11	Wright State	88	Green Bay	79	
+2017-2-11	Villanova	73	Xavier	57	
+2017-2-11	Harvard	75	Yale	67	
+2017-2-12	New Hampshire	63	Binghamton	55	
+2017-2-12	Colorado	81	Washington State	49	
+2017-2-12	Hartford	87	UMass-Lowell	84	
+2017-2-12	Holy Cross	61	Lehigh	45	
+2017-2-12	Michigan	75	Indiana	63	
+2017-2-12	Wichita State	81	Loyola (IL)	64	
+2017-2-12	St. Peter's	69	Manhattan	50	
+2017-2-12	Vermont	77	UMBC	74	
+2017-2-12	Temple	74	Memphis	62	
+2017-2-12	Northern Iowa	55	Missouri State	52	
+2017-2-12	Iona	90	Niagara	76	
+2017-2-12	Penn	82	Cornell	63	
+2017-2-12	San Diego State	70	Nevada	56	
+2017-2-12	SMU	60	Cincinnati	51	
+2017-2-12	Stony Brook	67	Maine	66	
+2017-2-12	UCLA	78	Oregon State	60	
+2017-2-12	Virginia Tech	80	Virginia	78	
+2017-2-12	Northwestern	66	Wisconsin	59	
+2017-2-13	Appalachian State	83	Georgia Southern	78	
+2017-2-13	Alcorn State	70	Arkansas-Pine Bluff	58	
+2017-2-13	Bucknell	75	Colgate	58	
+2017-2-13	Coastal Carolina	65	Georgia State	64	
+2017-2-13	Coppin State	83	Delaware State	75	
+2017-2-13	Villanova	75	DePaul	62	
+2017-2-13	Fairfield	69	Rider	67	
+2017-2-13	Grambling	61	Prairie View	58	
+2017-2-13	Howard	70	Morgan State	67	
+2017-2-13	Jackson State	71	Texas Southern	62	
+2017-2-13	Kansas	84	West Virginia	80	
+2017-2-13	Louisiana-Lafayette	87	South Alabama	61	
+2017-2-13	Troy	73	Louisiana-Monroe	72	
+2017-2-13	Maryland-Eastern Shore	82	Bethune-Cookman	81	
+2017-2-13	Southern	81	Mississippi Valley State	72	
+2017-2-13	South Carolina State	72	North Carolina A&T;	65	
+2017-2-13	North Carolina Central	78	Florida A&M;	73	
+2017-2-13	Monmouth	102	Siena	82	
+2017-2-13	Louisville	76	Syracuse	72	
+2017-2-13	Texas-Arlington	71	Arkansas-Little Rock	55	
+2017-2-13	Texas State	62	Arkansas State	58	
+2017-2-13	Texas Tech	84	Baylor	78	
+2017-2-13	Furman	80	Virginia Military Institute	52	
+2017-2-14	Akron	71	Toledo	65	
+2017-2-14	Florida	114	Auburn	95	
+2017-2-14	Notre Dame	84	Boston College	76	
+2017-2-14	Canisius	89	Iona	83	
+2017-2-14	UCF	71	Tulsa	53	
+2017-2-14	Buffalo	99	Central Michigan	93	
+2017-2-14	Clemson	95	Wake Forest	83	
+2017-2-14	Ohio	79	Eastern Michigan	71	
+2017-2-14	Evansville	87	Drake	70	
+2017-2-14	George Mason	93	Richmond	70	
+2017-2-14	Georgia	79	Mississippi State	72	
+2017-2-14	Kent State	76	Miami (OH)	72	
+2017-2-14	Kentucky	83	Tennessee	58	
+2017-2-14	Liberty	55	High Point	52	
+2017-2-14	Michigan State	74	Ohio State	66	
+2017-2-14	Ole Miss	96	LSU	76	
+2017-2-14	Nebraska	82	Penn State	66	
+2017-2-14	New Mexico	78	Boise State	73	
+2017-2-14	Ball State	81	Northern Illinois	72	
+2017-2-14	Oklahoma	70	Texas	66	
+2017-2-14	Virginia Tech	66	Pitt	63	
+2017-2-14	Purdue	74	Rutgers	55	
+2017-2-14	Dayton	85	Saint Louis	63	
+2017-2-14	St. Peter's	71	Marist	46	
+2017-2-14	VCU	91	St. Joseph's	81	
+2017-2-14	Denver	78	Western Illinois	72	
+2017-2-14	Western Michigan	89	Bowling Green State	79	
+2017-2-14	Colorado State	78	Wyoming	73	
+2017-2-15	Nevada	78	Air Force	59	
+2017-2-15	Albany (NY)	78	UMBC	69	
+2017-2-15	Butler	110	St. John's (NY)	86	
+2017-2-15	Cal Poly	85	Cal State Northridge	71	
+2017-2-15	Charleston Southern	72	Campbell	69	
+2017-2-15	Boston University	69	Colgate	68	
+2017-2-15	Davidson	74	George Washington	63	
+2017-2-15	Duquesne	96	UMass	66	
+2017-2-15	East Carolina	78	Temple	64	
+2017-2-15	ETSU	79	Samford	77	
+2017-2-15	Fresno State	77	San Jose State	59	
+2017-2-15	Gardner-Webb	70	Radford	59	
+2017-2-15	Stony Brook	66	Hartford	54	
+2017-2-15	Army	52	Holy Cross	47	
+2017-2-15	Texas A&M-Corpus; Christi	97	Incarnate Word	81	
+2017-2-15	IPFW	77	North Dakota State	61	
+2017-2-15	Iowa State	87	Kansas State	79	
+2017-2-15	Lafayette	78	American	65	
+2017-2-15	Lehigh	74	Navy	55	
+2017-2-15	Winthrop	83	Longwood	63	
+2017-2-15	Loyola (IL)	64	Indiana State	46	
+2017-2-15	Loyola (MD)	78	Bucknell	77	
+2017-2-15	Vermont	87	UMass-Lowell	66	
+2017-2-15	Miami (FL)	70	Georgia Tech	61	
+2017-2-15	Minnesota	75	Indiana	74	
+2017-2-15	Alabama	57	Missouri	54	
+2017-2-15	Illinois State	67	Missouri State	66	
+2017-2-15	New Hampshire	64	Maine	51	
+2017-2-15	Norfolk State	81	South Carolina State	70	
+2017-2-15	North Carolina-Asheville	89	Presbyterian	48	
+2017-2-15	North Carolina-Greensboro	74	Wofford	55	
+2017-2-15	UNC	97	North Carolina State	73	
+2017-2-15	Northern Iowa	64	Bradley	61	
+2017-2-15	Maryland	74	Northwestern	64	
+2017-2-15	Providence	75	Xavier	63	
+2017-2-15	Fordham	53	Rhode Island	43	
+2017-2-15	Seton Hall	87	Creighton	81	
+2017-2-15	Arkansas	83	South Carolina	76	
+2017-2-15	South Dakota State	81	IUPUI	67	
+2017-2-15	Cincinnati	68	South Florida	54	
+2017-2-15	Wichita State	87	Southern Illinois	68	
+2017-2-15	SMU	80	Tulane	75	
+2017-2-15	St. Bonaventure	83	La Salle	65	
+2017-2-15	LIU-Brooklyn	82	St. Francis (NY)	45	
+2017-2-15	Oklahoma State	71	Texas Christian	68	
+2017-2-15	San Diego State	66	Utah State	62	
+2017-2-15	Duke	65	Virginia	55	
+2017-2-15	Chattanooga	74	Virginia Military Institute	68	
+2017-2-15	Furman	74	Western Carolina	62	
+2017-2-16	Austin Peay	85	Eastern Illinois	80	
+2017-2-16	Belmont	76	Eastern Kentucky	72	
+2017-2-16	BYU	82	San Diego	70	
+2017-2-16	Bryant	81	Robert Morris	73	
+2017-2-16	Cal State Fullerton	56	UC-Riverside	55	
+2017-2-16	UCSB	56	Hawaii	54	
+2017-2-16	Saint Francis (PA)	80	Central Connecticut	71	
+2017-2-16	Northern Kentucky	62	Cleveland State	60	
+2017-2-16	UConn	65	Memphis	62	
+2017-2-16	Delaware	68	Drexel	67	
+2017-2-16	Gonzaga	96	San Francisco	61	
+2017-2-16	College of Charleston	76	Hofstra	72	
+2017-2-16	Houston Baptist	88	Sam Houston State	77	
+2017-2-16	North Dakota	77	Idaho State	61	
+2017-2-16	James Madison	95	William & Mary	92	
+2017-2-16	Jacksonville	79	Kennesaw State	78	
+2017-2-16	North Florida	93	Lipscomb	82	
+2017-2-16	Long Beach State	78	UC-Davis	69	
+2017-2-16	Louisiana Tech	95	Florida Atlantic	69	
+2017-2-16	Marshall	74	Alabama-Birmingham	59	
+2017-2-16	Abilene Christian	82	McNeese State	78	
+2017-2-16	Michigan	64	Wisconsin	58	
+2017-2-16	Monmouth	93	Niagara	75	
+2017-2-16	Sacramento State	67	Montana	65	
+2017-2-16	Montana State	92	Portland State	90	
+2017-2-16	Murray State	84	Southern Illinois-Edwardsville	73	
+2017-2-16	Nebraska-Omaha	83	Oral Roberts	76	
+2017-2-16	Nicholls State	96	Central Arkansas	89	
+2017-2-16	Florida Gulf Coast	80	NJIT	73	
+2017-2-16	UTEP	77	North Texas	71	
+2017-2-16	North Carolina-Wilmington	66	Northeastern	65	
+2017-2-16	Southeastern Louisiana	73	Northwestern State	66	
+2017-2-16	Oregon	79	Utah	61	
+2017-2-16	Colorado	60	Oregon State	52	
+2017-2-16	Pacific	76	Portland	65	
+2017-2-16	Rice	80	UTSA	68	
+2017-2-16	Sacred Heart	91	Fairleigh Dickinson	81	
+2017-2-16	Saint Mary's (CA)	81	Loyola Marymount	48	
+2017-2-16	Santa Clara	106	Pepperdine	55	
+2017-2-16	Grand Canyon	61	Seattle	58	
+2017-2-16	Siena	94	Manhattan	71	
+2017-2-16	Stetson	83	South Carolina Upstate	72	
+2017-2-16	Southern Miss	69	Florida International	66	
+2017-2-16	Stephen F. Austin	70	Lamar	61	
+2017-2-16	Tennessee State	64	Morehead State	52	
+2017-2-16	Towson	85	Elon	66	
+2017-2-16	Cal State Bakersfield	80	Utah Valley	71	
+2017-2-16	Vanderbilt	72	Texas A&M;	67	
+2017-2-16	Wagner	69	Mount St. Mary's	65	
+2017-2-16	Arizona State	83	Washington	81	
+2017-2-16	Arizona	78	Washington State	59	
+2017-2-16	Weber State	69	Northern Colorado	63	
+2017-2-16	Middle Tennessee	78	Western Kentucky	52	
+2017-2-16	Wright State	84	Youngstown State	81	
+2017-2-17	Kent State	70	Akron	67	
+2017-2-17	Arkansas State	67	Arkansas-Little Rock	58	
+2017-2-17	Penn	96	Brown	72	
+2017-2-17	Cornell	69	Dartmouth	65	
+2017-2-17	UIC	74	Detroit	69	
+2017-2-17	Eastern Washington	77	Idaho	67	
+2017-2-17	Harvard	78	Columbia	72	
+2017-2-17	Iona	95	Marist	88	
+2017-2-17	Oakland	82	Valparaiso	71	
+2017-2-17	Fairfield	89	Quinnipiac	86	
+2017-2-17	VCU	84	Richmond	73	
+2017-2-17	Canisius	85	Rider	77	
+2017-2-17	Stanford	73	University of California	68	
+2017-2-17	Princeton	71	Yale	52	
+2017-2-18	Alabama	90	LSU	72	
+2017-2-18	Alcorn State	75	Alabama State	67	
+2017-2-18	Arkansas	98	Ole Miss	80	
+2017-2-18	Austin Peay	92	Southern Illinois-Edwardsville	84	
+2017-2-18	Kansas	67	Baylor	65	
+2017-2-18	Belmont	89	Morehead State	73	
+2017-2-18	Bethune-Cookman	62	Hampton	61	
+2017-2-18	Boise State	91	Wyoming	87	
+2017-2-18	Bradley	84	Evansville	72	
+2017-2-18	Saint Mary's (CA)	70	BYU	57	
+2017-2-18	Princeton	66	Brown	51	
+2017-2-18	Bryant	79	Saint Francis (PA)	75	
+2017-2-18	Buffalo	71	Miami (OH)	58	
+2017-2-18	Hawaii	82	Cal Poly	61	
+2017-2-18	Cal State Fullerton	79	UC-Davis	72	
+2017-2-18	UC-Irvine	79	UC-Riverside	60	
+2017-2-18	Long Beach State	66	UCSB	48	
+2017-2-18	North Carolina-Asheville	66	Campbell	53	
+2017-2-18	Robert Morris	74	Central Connecticut	64	
+2017-2-18	Ball State	109	Central Michigan	100	
+2017-2-18	Charleston Southern	76	High Point	75	
+2017-2-18	ETSU	65	Chattanooga	51	
+2017-2-18	Cincinnati	80	Tulsa	60	
+2017-2-18	Mercer	89	Citadel	78	
+2017-2-18	Wright State	74	Cleveland State	68	
+2017-2-18	Dartmouth	80	Columbia	79	
+2017-2-18	Dayton	76	St. Bonaventure	72	
+2017-2-18	William & Mary	85	Delaware	64	
+2017-2-18	Missouri State	76	Drake	73	
+2017-2-18	Elon	65	Drexel	56	
+2017-2-18	Duke	99	Wake Forest	94	
+2017-2-18	UCF	61	East Carolina	58	
+2017-2-18	Mount St. Mary's	79	Fairleigh Dickinson	74	
+2017-2-18	Norfolk State	77	Florida A&M;	65	
+2017-2-18	Fordham	54	Saint Louis	40	
+2017-2-18	Fresno State	71	New Mexico	61	
+2017-2-18	North Carolina-Greensboro	73	Furman	52	
+2017-2-18	Rhode Island	77	George Mason	74	
+2017-2-18	Kentucky	82	Georgia	77	
+2017-2-18	Georgia Southern	70	Texas State	67	
+2017-2-18	Texas-Arlington	68	Georgia State	67	
+2017-2-18	Gonzaga	82	Pacific	61	
+2017-2-18	Harvard	87	Cornell	75	
+2017-2-18	North Carolina-Wilmington	83	Hofstra	76	
+2017-2-18	SMU	76	Houston	66	
+2017-2-18	Houston Baptist	92	Hillsdale	78	
+2017-2-18	Howard	84	North Carolina A&T;	53	
+2017-2-18	Northern Colorado	87	Idaho State	81	
+2017-2-18	Incarnate Word	69	Sam Houston State	53	
+2017-2-18	Illinois	70	Iowa	66	
+2017-2-18	Iowa State	84	Texas Christian	71	
+2017-2-18	South Dakota State	97	IPFW	89	
+2017-2-18	Grambling	62	Jackson State	59	
+2017-2-18	Tennessee Tech	79	Jacksonville State	78	
+2017-2-18	Kennesaw State	85	North Florida	68	
+2017-2-18	La Salle	83	St. Joseph's	68	
+2017-2-18	Lipscomb	81	Jacksonville	69	
+2017-2-18	LIU-Brooklyn	83	Sacred Heart	82	
+2017-2-18	Louisiana-Lafayette	85	Louisiana-Monroe	84	
+2017-2-18	Louisiana Tech	77	Florida International	61	
+2017-2-18	Louisville	94	Virginia Tech	90	
+2017-2-18	Loyola Marymount	82	Pepperdine	61	
+2017-2-18	Marquette	83	Xavier	61	
+2017-2-18	Middle Tennessee	97	Marshall	86	
+2017-2-18	UMBC	108	UMass-Lowell	102	
+2017-2-18	North Carolina Central	82	Maryland-Eastern Shore	69	
+2017-2-18	Davidson	79	UMass	74	
+2017-2-18	Miami (FL)	71	Clemson	65	
+2017-2-18	Green Bay	80	Milwaukee	56	
+2017-2-18	Florida	57	Mississippi State	52	
+2017-2-18	UMKC	84	Chicago State	65	
+2017-2-18	Montana	85	Portland State	82	
+2017-2-18	Montana State	62	Sacramento State	59	
+2017-2-18	Morgan State	83	Savannah State	75	
+2017-2-18	Eastern Illinois	82	Murray State	65	
+2017-2-18	Army	71	Navy	68	
+2017-2-18	Nevada	77	Utah State	66	
+2017-2-18	New Hampshire	82	Hartford	52	
+2017-2-18	New Orleans	84	Central Arkansas	61	
+2017-2-18	Northwestern State	80	Nicholls State	78	
+2017-2-18	NJIT	60	Stetson	56	
+2017-2-18	UNC	65	Virginia	41	
+2017-2-18	Notre Dame	81	North Carolina State	72	
+2017-2-18	North Dakota State	100	Western Illinois	91	
+2017-2-18	North Texas	83	UTSA	73	
+2017-2-18	College of Charleston	85	Northeastern	71	
+2017-2-18	Toledo	88	Northern Illinois	80	
+2017-2-18	Northwestern	69	Rutgers	65	
+2017-2-18	Ohio	95	Bowling Green State	75	
+2017-2-18	Nebraska	58	Ohio State	57	
+2017-2-18	Oklahoma State	96	Oklahoma	92	
+2017-2-18	Old Dominion	72	Charlotte	48	
+2017-2-18	Oregon	101	Colorado	73	
+2017-2-18	Pitt	80	Florida State	66	
+2017-2-18	San Francisco	65	Portland	51	
+2017-2-18	Prairie View	82	Mississippi Valley State	69	
+2017-2-18	Gardner-Webb	84	Presbyterian	56	
+2017-2-18	Purdue	80	Michigan State	63	
+2017-2-18	Radford	79	Longwood	72	
+2017-2-18	UTEP	79	Rice	71	
+2017-2-18	Samford	80	Virginia Military Institute	61	
+2017-2-18	San Jose State	83	Air Force	78	
+2017-2-18	San Diego	60	Santa Clara	58	
+2017-2-18	Cal State Bakersfield	51	Seattle	48	
+2017-2-18	Villanova	92	Seton Hall	70	
+2017-2-18	Siena	76	Niagara	70	
+2017-2-18	South Alabama	87	Appalachian State	74	
+2017-2-18	South Carolina State	84	Coppin State	79	
+2017-2-18	Florida Gulf Coast	97	South Carolina Upstate	89	
+2017-2-18	South Dakota	86	Oral Roberts	72	
+2017-2-18	Southeast Missouri State	90	UT-Martin	61	
+2017-2-18	Stephen F. Austin	60	Southeastern Louisiana	52	
+2017-2-18	Southern	77	Alabama A&M;	64	
+2017-2-18	Florida Atlantic	94	Southern Miss	82	
+2017-2-18	Southern Utah	84	Northern Arizona	68	
+2017-2-18	Wagner	73	St. Francis (NY)	55	
+2017-2-18	Stony Brook	76	Binghamton	55	
+2017-2-18	Tennessee	90	Missouri	70	
+2017-2-18	Tennessee State	68	Eastern Kentucky	66	
+2017-2-18	Kansas State	64	Texas	61	
+2017-2-18	Texas A&M;	81	Auburn	62	
+2017-2-18	Texas A&M-Corpus; Christi	70	Lamar	63	
+2017-2-18	New Mexico State	107	Texas-Rio Grande Valley	101	
+2017-2-18	Texas Southern	78	Arkansas-Pine Bluff	40	
+2017-2-18	Towson	75	James Madison	65	
+2017-2-18	Troy	87	Coastal Carolina	78	
+2017-2-18	Tulane	94	South Florida	71	
+2017-2-18	UCLA	102	USC	70	
+2017-2-18	Grand Canyon	77	Utah Valley	71	
+2017-2-18	Vanderbilt	71	South Carolina	62	
+2017-2-18	Arizona	76	Washington	68	
+2017-2-18	Washington State	86	Arizona State	71	
+2017-2-18	North Dakota	77	Weber State	68	
+2017-2-18	West Virginia	83	Texas Tech	74	
+2017-2-18	Western Michigan	88	Eastern Michigan	80	
+2017-2-18	Wichita State	73	Northern Iowa	44	
+2017-2-18	Winthrop	84	Liberty	67	
+2017-2-18	Wofford	84	Western Carolina	56	
+2017-2-18	Youngstown State	81	Northern Kentucky	77	
+2017-2-19	Holy Cross	69	American	54	
+2017-2-19	Bucknell	86	Boston University	66	
+2017-2-19	Butler	82	DePaul	66	
+2017-2-19	Creighton	87	Georgetown	70	
+2017-2-19	IUPUI	83	Denver	72	
+2017-2-19	Valparaiso	83	Detroit	63	
+2017-2-19	George Washington	77	Duquesne	70	
+2017-2-19	Georgia Tech	71	Syracuse	65	
+2017-2-19	Illinois State	65	Loyola (IL)	63	
+2017-2-19	Southern Illinois	74	Indiana State	68	
+2017-2-19	Rider	103	Iona	85	
+2017-2-19	Lehigh	81	Lafayette	55	
+2017-2-19	Colgate	66	Loyola (MD)	56	
+2017-2-19	Albany (NY)	74	Maine	56	
+2017-2-19	Manhattan	95	Quinnipiac	74	
+2017-2-19	Marist	76	Canisius	74	
+2017-2-19	Minnesota	83	Michigan	78	
+2017-2-19	Oakland	87	UIC	75	
+2017-2-19	Oregon State	68	Utah	67	
+2017-2-19	St. Peter's	74	Fairfield	55	
+2017-2-19	San Diego State	77	UNLV	64	
+2017-2-19	UConn	64	Temple	63	
+2017-2-19	Western Kentucky	76	Alabama-Birmingham	64	
+2017-2-19	Wisconsin	71	Maryland	60	
+2017-2-19	Penn	71	Yale	55	
+2017-2-2	Navy	70	Boston University	61	
+2017-2-2	Gonzaga	85	BYU	75	
+2017-2-2	Cal Poly	74	UC-Davis	70	
+2017-2-2	University of California	77	Utah	75	
+2017-2-2	Hawaii	72	UC-Riverside	63	
+2017-2-2	Cal State Fullerton	79	UCSB	53	
+2017-2-2	Central Arkansas	107	Northwestern State	97	
+2017-2-2	Wagner	70	Central Connecticut	60	
+2017-2-2	Florida Atlantic	77	Charlotte	75	
+2017-2-2	Chattanooga	91	North Carolina-Greensboro	68	
+2017-2-2	Wofford	100	Citadel	90	
+2017-2-2	Cleveland State	90	Detroit	73	
+2017-2-2	Eastern Washington	77	Sacramento State	72	
+2017-2-2	Elon	67	James Madison	61	
+2017-2-2	Fairfield	81	Niagara	61	
+2017-2-2	Sacred Heart	74	Fairleigh Dickinson	70	
+2017-2-2	Florida	93	Missouri	54	
+2017-2-2	Green Bay	84	UIC	80	
+2017-2-2	Hofstra	73	Delaware	65	
+2017-2-2	Idaho	89	Portland State	72	
+2017-2-2	Idaho State	91	Northern Arizona	90	
+2017-2-2	McNeese State	87	Incarnate Word	79	
+2017-2-2	Robert Morris	67	LIU-Brooklyn	63	
+2017-2-2	Louisiana Tech	76	Western Kentucky	67	
+2017-2-2	Furman	70	Mercer	68	
+2017-2-2	Valparaiso	71	Milwaukee	53	
+2017-2-2	Mount St. Mary's	77	Bryant	70	
+2017-2-2	Belmont	81	Murray State	69	
+2017-2-2	Michigan State	72	Nebraska	61	
+2017-2-2	College of Charleston	67	North Carolina-Wilmington	66	
+2017-2-2	Old Dominion	64	Florida International	57	
+2017-2-2	Oregon	71	Arizona State	70	
+2017-2-2	Arizona	71	Oregon State	54	
+2017-2-2	Saint Mary's (CA)	74	Pacific	70	
+2017-2-2	Santa Clara	60	Portland	45	
+2017-2-2	Sam Houston State	72	Stephen F. Austin	63	
+2017-2-2	Samford	82	Western Carolina	63	
+2017-2-2	Loyola Marymount	72	San Diego	53	
+2017-2-2	San Francisco	77	Pepperdine	56	
+2017-2-2	Memphis	85	South Florida	75	
+2017-2-2	Southern Miss	91	Marshall	76	
+2017-2-2	Saint Francis (PA)	78	St. Francis (NY)	61	
+2017-2-2	Colorado	81	Stanford	74	
+2017-2-2	Eastern Illinois	77	Tennessee State	67	
+2017-2-2	UTEP	63	Alabama-Birmingham	59	
+2017-2-2	Middle Tennessee	69	UTSA	59	
+2017-2-2	Towson	104	Drexel	103	
+2017-2-2	ETSU	81	Virginia Military Institute	71	
+2017-2-2	Weber State	90	Southern Utah	74	
+2017-2-2	William & Mary	94	Northeastern	69	
+2017-2-2	Oakland	90	Youngstown State	76	
+2017-2-20	Alcorn State	74	Alabama A&M;	59	
+2017-2-20	Bethune-Cookman	75	Norfolk State	65	
+2017-2-20	Morgan State	65	Delaware State	54	
+2017-2-20	Hampton	76	Florida A&M;	69	
+2017-2-20	Florida State	104	Boston College	72	
+2017-2-20	Texas-Arlington	81	Georgia Southern	71	
+2017-2-20	Georgia State	67	Texas State	51	
+2017-2-20	North Carolina Central	66	Howard	59	
+2017-2-20	Maryland-Eastern Shore	106	North Carolina A&T;	95	
+2017-2-20	Portland	96	Walla Walla	58	
+2017-2-20	Prairie View	73	Arkansas-Pine Bluff	55	
+2017-2-20	Coppin State	84	Savannah State	83	
+2017-2-20	Coastal Carolina	81	South Alabama	77	
+2017-2-20	Southern	79	Alabama State	73	
+2017-2-20	Texas Southern	92	Mississippi Valley State	61	
+2017-2-20	Iowa State	82	Texas Tech	80	
+2017-2-20	Troy	76	Appalachian State	66	
+2017-2-20	Miami (FL)	54	Virginia	48	
+2017-2-20	West Virginia	77	Texas	62	
+2017-2-21	Ball State	79	Eastern Michigan	72	
+2017-2-21	Baylor	60	Oklahoma	54	
+2017-2-21	Belmont	96	Trevecca Nazarene	45	
+2017-2-21	Bowling Green State	66	Akron	65	
+2017-2-21	Kent State	77	Buffalo	69	
+2017-2-21	Northern Illinois	89	Central Michigan	66	
+2017-2-21	Dayton	83	George Mason	70	
+2017-2-21	Detroit	91	Cleveland State	83	
+2017-2-21	Monmouth	82	Fairfield	62	
+2017-2-21	Florida	81	South Carolina	66	
+2017-2-21	North Carolina State	71	Georgia Tech	69	
+2017-2-21	Illinois	66	Northwestern	50	
+2017-2-21	Green Bay	87	UIC	79	
+2017-2-21	Iowa	96	Indiana	90	
+2017-2-21	Rhode Island	67	La Salle	56	
+2017-2-21	Auburn	98	LSU	75	
+2017-2-21	Marquette	93	St. John's (NY)	71	
+2017-2-21	Ohio	79	Miami (OH)	62	
+2017-2-21	Ole Miss	87	Mississippi State	82	
+2017-2-21	Kentucky	72	Missouri	62	
+2017-2-21	Colorado State	68	New Mexico	56	
+2017-2-21	Northern Kentucky	83	Wright State	76	
+2017-2-21	Oakland	101	Youngstown State	72	
+2017-2-21	Purdue	74	Penn State	70	
+2017-2-21	Richmond	84	Davidson	76	
+2017-2-21	Western Michigan	61	Toledo	56	
+2017-2-21	East Carolina	76	Tulane	73	
+2017-2-21	Valparaiso	67	Milwaukee	61	
+2017-2-21	Virginia Tech	71	Clemson	70	
+2017-2-21	Wichita State	109	Evansville	83	
+2017-2-22	Texas A&M-Corpus; Christi	56	Abilene Christian	44	
+2017-2-22	Air Force	81	UNLV	58	
+2017-2-22	Arkansas	86	Texas A&M;	77	
+2017-2-22	Army	73	Boston University	62	
+2017-2-22	Bradley	77	Missouri State	68	
+2017-2-22	Bucknell	94	Lafayette	64	
+2017-2-22	Cal State Fullerton	56	UC-Irvine	54	
+2017-2-22	Oregon	68	University of California	65	
+2017-2-22	Western Carolina	84	Citadel	80	
+2017-2-22	Providence	68	Creighton	66	
+2017-2-22	Nebraska-Omaha	84	Denver	83	
+2017-2-22	Fordham	70	Duquesne	52	
+2017-2-22	ETSU	93	Furman	81	
+2017-2-22	DePaul	67	Georgetown	65	
+2017-2-22	Hartford	76	Binghamton	69	
+2017-2-22	Holy Cross	63	Loyola (MD)	62	
+2017-2-22	Houston	75	UConn	70	
+2017-2-22	Illinois State	50	Southern Illinois	46	
+2017-2-22	Indiana State	69	Northern Iowa	59	
+2017-2-22	Kansas	87	Texas Christian	68	
+2017-2-22	Oklahoma State	80	Kansas State	68	
+2017-2-22	Lehigh	87	Colgate	69	
+2017-2-22	Loyola (IL)	80	Drake	65	
+2017-2-22	Minnesota	89	Maryland	75	
+2017-2-22	UMBC	65	Stony Brook	52	
+2017-2-22	New Hampshire	78	UMass-Lowell	67	
+2017-2-22	North Carolina-Greensboro	72	Mercer	66	
+2017-2-22	American	74	Navy	58	
+2017-2-22	Nevada	85	Boise State	77	
+2017-2-22	UNC	74	Louisville	63	
+2017-2-22	Lamar	88	Northwestern State	68	
+2017-2-22	North Dakota State	82	Oral Roberts	80	
+2017-2-22	Rider	93	Manhattan	82	
+2017-2-22	Michigan	68	Rutgers	64	
+2017-2-22	St. Bonaventure	83	St. Joseph's	77	
+2017-2-22	Samford	72	Chattanooga	68	
+2017-2-22	Fresno State	63	San Diego State	55	
+2017-2-22	Utah State	81	San Jose State	75	
+2017-2-22	Seton Hall	71	Xavier	64	
+2017-2-22	Southeastern Louisiana	87	Central Arkansas	70	
+2017-2-22	Stanford	79	Oregon State	66	
+2017-2-22	Syracuse	78	Duke	75	
+2017-2-22	UCF	71	Temple	69	
+2017-2-22	Vanderbilt	67	Tennessee	56	
+2017-2-22	Vermont	62	Albany (NY)	50	
+2017-2-22	Butler	74	Villanova	66	
+2017-2-22	VCU	64	Saint Louis	50	
+2017-2-22	Wofford	81	Virginia Military Institute	63	
+2017-2-22	Wake Forest	63	Pitt	59	
+2017-2-23	Georgia	60	Alabama	55	
+2017-2-23	Arizona	90	USC	77	
+2017-2-23	UCLA	87	Arizona State	75	
+2017-2-23	Cal State Bakersfield	71	UMKC	62	
+2017-2-23	UC-Davis	96	Cal State Northridge	85	
+2017-2-23	UCSB	68	UC-Riverside	61	
+2017-2-23	Central Connecticut	62	St. Francis (NY)	53	
+2017-2-23	Charlotte	83	Western Kentucky	77	
+2017-2-23	Cincinnati	87	Memphis	74	
+2017-2-23	College of Charleston	78	Delaware	65	
+2017-2-23	Utah	86	Colorado	81	
+2017-2-23	James Madison	70	Drexel	64	
+2017-2-23	Eastern Kentucky	68	Jacksonville State	65	
+2017-2-23	Eastern Washington	82	Weber State	72	
+2017-2-23	Northeastern	105	Elon	104	
+2017-2-23	UTEP	60	Florida Atlantic	55	
+2017-2-23	Florida Gulf Coast	80	Stetson	70	
+2017-2-23	UTSA	69	Florida International	67	
+2017-2-23	Gardner-Webb	81	North Carolina-Asheville	76	
+2017-2-23	George Washington	83	UMass	67	
+2017-2-23	Grand Canyon	82	Chicago State	59	
+2017-2-23	High Point	59	Campbell	49	
+2017-2-23	Idaho	69	Idaho State	61	
+2017-2-23	Nicholls State	77	Incarnate Word	68	
+2017-2-23	IUPUI	83	IPFW	82	
+2017-2-23	Lipscomb	85	Kennesaw State	74	
+2017-2-23	Liberty	61	Longwood	45	
+2017-2-23	Cal Poly	78	Long Beach State	71	
+2017-2-23	Loyola Marymount	53	San Francisco	51	
+2017-2-23	Marist	87	Quinnipiac	74	
+2017-2-23	Houston Baptist	81	McNeese State	79	
+2017-2-23	Michigan State	88	Nebraska	72	
+2017-2-23	Morehead State	73	Tennessee Tech	68	
+2017-2-23	LIU-Brooklyn	62	Mount St. Mary's	58	
+2017-2-23	Utah Valley	84	New Mexico State	72	
+2017-2-23	New Orleans	82	Stephen F. Austin	65	
+2017-2-23	NJIT	88	South Carolina Upstate	87	
+2017-2-23	North Carolina-Wilmington	83	Towson	78	
+2017-2-23	North Florida	73	Jacksonville	69	
+2017-2-23	Louisiana Tech	85	North Texas	67	
+2017-2-23	Ohio State	83	Wisconsin	73	
+2017-2-23	Old Dominion	86	Marshall	65	
+2017-2-23	Saint Mary's (CA)	78	Pepperdine	49	
+2017-2-23	BYU	97	Portland	78	
+2017-2-23	Portland State	93	Southern Utah	86	
+2017-2-23	Radford	59	Presbyterian	57	
+2017-2-23	Rice	72	Southern Miss	71	
+2017-2-23	Robert Morris	77	Fairleigh Dickinson	76	
+2017-2-23	Northern Arizona	73	Sacramento State	69	
+2017-2-23	Saint Francis (PA)	73	Sacred Heart	64	
+2017-2-23	Gonzaga	96	San Diego	38	
+2017-2-23	Santa Clara	69	Pacific	68	
+2017-2-23	Southeast Missouri State	82	Murray State	69	
+2017-2-23	UT-Martin	76	Austin Peay	72	
+2017-2-23	Seattle	86	Texas-Rio Grande Valley	77	
+2017-2-23	Tulsa	82	South Florida	68	
+2017-2-23	Wagner	69	Bryant	66	
+2017-2-23	South Dakota	92	Western Illinois	81	
+2017-2-23	Hofstra	96	William & Mary	82	
+2017-2-23	Winthrop	86	Charleston Southern	72	
+2017-2-24	Akron	89	Buffalo	83	
+2017-2-24	University of California	76	Oregon State	46	
+2017-2-24	Fairfield	58	Canisius	55	
+2017-2-24	Princeton	64	Columbia	45	
+2017-2-24	Penn	69	Cornell	66	
+2017-2-24	Brown	80	Dartmouth	75	
+2017-2-24	Dayton	89	Davidson	82	
+2017-2-24	Oakland	85	Green Bay	72	
+2017-2-24	Harvard	77	Yale	64	
+2017-2-24	Iona	72	Manhattan	51	
+2017-2-24	Detroit	81	Milwaukee	74	
+2017-2-24	Monmouth	77	Siena	73	
+2017-2-24	St. Peter's	66	Niagara	53	
+2017-2-24	Northern Kentucky	90	UIC	82	
+2017-2-24	Toledo	87	Central Michigan	66	
+2017-2-24	Valparaiso	84	Wright State	74	
+2017-2-26	Middle Tennessee	66	Alabama-Birmingham	64	
+2017-2-26	Arizona State	83	USC	82	
+2017-2-26	St. Peter's	72	Canisius	65	
+2017-2-26	UCF	53	Cincinnati	49	
+2017-2-26	George Washington	83	George Mason	74	
+2017-2-26	Green Bay	89	Detroit	81	
+2017-2-26	Monmouth	79	Iona	73	
+2017-2-26	Louisville	88	Syracuse	68	
+2017-2-26	UMass	84	La Salle	71	
+2017-2-26	Houston	72	Memphis	71	
+2017-2-26	Michigan State	84	Wisconsin	74	
+2017-2-26	Oakland	86	Milwaukee	75	
+2017-2-26	Illinois	73	Nebraska	57	
+2017-2-26	Fairfield	62	Niagara	58	
+2017-2-26	Northern Kentucky	82	Valparaiso	78	
+2017-2-26	Notre Dame	64	Georgia Tech	60	
+2017-2-26	Rider	99	Quinnipiac	82	
+2017-2-26	Siena	80	Marist	64	
+2017-2-26	Tulsa	74	East Carolina	66	
+2017-2-26	Washington State	79	Washington	71	
+2017-2-26	Wright State	87	UIC	49	
+2017-2-26	Butler	88	Xavier	79	
+2017-2-27	Texas Southern	74	Alabama A&M;	64	
+2017-2-27	Prairie View	77	Alabama State	58	
+2017-2-27	Louisiana-Lafayette	77	Appalachian State	62	
+2017-2-27	Arkansas-Little Rock	56	Georgia Southern	54	
+2017-2-27	Jackson State	62	Arkansas-Pine Bluff	51	
+2017-2-27	Arkansas State	78	Georgia State	67	
+2017-2-27	Baylor	71	West Virginia	62	
+2017-2-27	Citadel	85	Chattanooga	76	
+2017-2-27	Coastal Carolina	77	Louisiana-Monroe	72	
+2017-2-27	Florida Gulf Coast	87	Stetson	57	
+2017-2-27	Hampton	63	Norfolk State	59	
+2017-2-27	Howard	79	Maryland-Eastern Shore	69	
+2017-2-27	Kansas	73	Oklahoma	63	
+2017-2-27	Lipscomb	97	NJIT	66	
+2017-2-27	Mercer	88	Samford	79	
+2017-2-27	Mississippi Valley State	84	Grambling	80	
+2017-2-27	Morgan State	71	Coppin State	66	
+2017-2-27	Bethune-Cookman	73	North Carolina A&T;	70	
+2017-2-27	Savannah State	74	North Carolina Central	73	
+2017-2-27	North Carolina-Greensboro	72	ETSU	66	
+2017-2-27	North Florida	77	Jacksonville	74	
+2017-2-27	Kennesaw State	80	South Carolina Upstate	78	
+2017-2-27	Texas-Arlington	82	Troy	67	
+2017-2-27	Texas State	90	South Alabama	64	
+2017-2-27	Virginia	53	UNC	43	
+2017-2-27	Virginia Tech	66	Miami (FL)	61	
+2017-2-27	Western Carolina	81	Virginia Military Institute	68	
+2017-2-28	Miami (OH)	79	Akron	75	
+2017-2-28	Army	74	American	58	
+2017-2-28	Fresno State	74	Boise State	67	
+2017-2-28	Kent State	74	Bowling Green State	67	
+2017-2-28	Campbell	81	Presbyterian	62	
+2017-2-28	Eastern Michigan	109	Central Michigan	81	
+2017-2-28	Charleston Southern	79	Longwood	74	
+2017-2-28	Colorado State	78	Wyoming	76	
+2017-2-28	Creighton	82	St. John's (NY)	68	
+2017-2-28	Davidson	68	St. Bonaventure	63	
+2017-2-28	Duke	75	Florida State	70	
+2017-2-28	Georgia Tech	61	Pitt	52	
+2017-2-28	Iowa State	86	Oklahoma State	83	
+2017-2-28	Kentucky	73	Vanderbilt	67	
+2017-2-28	Loyola (MD)	67	Lafayette	64	
+2017-2-28	Texas A&M;	60	Missouri	43	
+2017-2-28	Western Michigan	70	Northern Illinois	56	
+2017-2-28	Buffalo	83	Ohio	79	
+2017-2-28	Ohio State	71	Penn State	70	
+2017-2-28	Providence	73	DePaul	64	
+2017-2-28	Purdue	86	Indiana	75	
+2017-2-28	Maryland	79	Rutgers	59	
+2017-2-28	Seton Hall	62	Georgetown	59	
+2017-2-28	South Carolina	63	Mississippi State	57	
+2017-2-28	Ball State	82	Toledo	74	
+2017-2-3	Buffalo	96	Ball State	69	
+2017-2-3	Central Michigan	86	Western Michigan	82	
+2017-2-3	Yale	87	Columbia	78	
+2017-2-3	Brown	81	Cornell	70	
+2017-2-3	Princeton	69	Dartmouth	64	
+2017-2-3	Rhode Island	70	Davidson	59	
+2017-2-3	Harvard	69	Penn	59	
+2017-2-3	Monmouth	71	St. Peter's	70	
+2017-2-3	Iona	95	Rider	76	
+2017-2-4	Abilene Christian	71	Sam Houston State	64	
+2017-2-4	Wyoming	83	Air Force	74	
+2017-2-4	Auburn	82	Alabama	77	
+2017-2-4	Mississippi Valley State	68	Alabama A&M;	66	
+2017-2-4	Alabama State	77	Arkansas-Pine Bluff	65	
+2017-2-4	Stony Brook	72	Albany (NY)	65	
+2017-2-4	Alcorn State	69	Jackson State	58	
+2017-2-4	Lehigh	70	American	55	
+2017-2-4	Coastal Carolina	82	Arkansas-Little Rock	75	
+2017-2-4	Arkansas State	79	Appalachian State	78	
+2017-2-4	Tennessee State	70	Austin Peay	66	
+2017-2-4	Kansas State	56	Baylor	54	
+2017-2-4	Delaware State	88	Bethune-Cookman	82	
+2017-2-4	Boise State	72	Utah State	70	
+2017-2-4	Louisville	90	Boston College	67	
+2017-2-4	Bowling Green State	104	Toledo	100	
+2017-2-4	Bradley	79	Drake	72	
+2017-2-4	BYU	73	Portland	62	
+2017-2-4	UC-Riverside	67	Cal Poly	56	
+2017-2-4	Hawaii	76	Cal State Northridge	72	
+2017-2-4	UC-Davis	67	UCSB	64	
+2017-2-4	Central Arkansas	68	Southeastern Louisiana	66	
+2017-2-4	UCF	72	Memphis	57	
+2017-2-4	Charleston Southern	71	Presbyterian	65	
+2017-2-4	Charlotte	95	Florida International	80	
+2017-2-4	Chattanooga	77	Western Carolina	65	
+2017-2-4	Cincinnati	82	UConn	68	
+2017-2-4	Furman	99	Citadel	91	
+2017-2-4	Oakland	53	Cleveland State	51	
+2017-2-4	Colgate	55	Navy	52	
+2017-2-4	College of Charleston	71	Elon	58	
+2017-2-4	Columbia	83	Brown	78	
+2017-2-4	Xavier	82	Creighton	80	
+2017-2-4	Dartmouth	74	Penn	71	
+2017-2-4	Dayton	90	Duquesne	53	
+2017-2-4	Denver	76	IPFW	73	
+2017-2-4	Marquette	92	DePaul	79	
+2017-2-4	Duke	72	Pitt	64	
+2017-2-4	East Carolina	74	Tulane	65	
+2017-2-4	Tennessee Tech	87	Eastern Illinois	68	
+2017-2-4	Eastern Washington	130	Portland State	124	
+2017-2-4	Evansville	74	Missouri State	66	
+2017-2-4	Wagner	68	Fairleigh Dickinson	59	
+2017-2-4	Florida	88	Kentucky	66	
+2017-2-4	Florida A&M;	71	Howard	62	
+2017-2-4	San Diego State	70	Fresno State	67	
+2017-2-4	Gardner-Webb	90	Longwood	64	
+2017-2-4	George Mason	95	La Salle	75	
+2017-2-4	Seton Hall	68	Georgetown	66	
+2017-2-4	Georgia Southern	76	Louisiana-Monroe	62	
+2017-2-4	Georgia State	85	Louisiana-Lafayette	82	
+2017-2-4	Gonzaga	90	Santa Clara	55	
+2017-2-4	Cal State Bakersfield	65	Grand Canyon	62	
+2017-2-4	Green Bay	86	Valparaiso	69	
+2017-2-4	Vermont	79	Hartford	66	
+2017-2-4	Princeton	57	Harvard	56	
+2017-2-4	North Carolina-Asheville	74	High Point	71	
+2017-2-4	Hofstra	79	Drexel	77	
+2017-2-4	Houston Baptist	84	Incarnate Word	70	
+2017-2-4	Idaho	81	Sacramento State	67	
+2017-2-4	Idaho State	94	Southern Utah	68	
+2017-2-4	Minnesota	68	Illinois	59	
+2017-2-4	Florida Gulf Coast	67	Jacksonville	57	
+2017-2-4	James Madison	73	Northeastern	69	
+2017-2-4	Iowa State	92	Kansas	89	
+2017-2-4	Kennesaw State	84	South Carolina Upstate	79	
+2017-2-4	Lamar	77	McNeese State	57	
+2017-2-4	Liberty	57	Radford	54	
+2017-2-4	Lipscomb	87	NJIT	63	
+2017-2-4	Long Beach State	72	UC-Irvine	63	
+2017-2-4	Saint Francis (PA)	80	LIU-Brooklyn	78	
+2017-2-4	Texas A&M;	85	LSU	73	
+2017-2-4	Louisiana Tech	94	Marshall	90	
+2017-2-4	Southern Illinois	67	Loyola (IL)	61	
+2017-2-4	Loyola (MD)	78	Army	63	
+2017-2-4	UMBC	83	Maine	71	
+2017-2-4	Manhattan	68	Marist	67	
+2017-2-4	Purdue	73	Maryland	72	
+2017-2-4	Maryland-Eastern Shore	78	Coppin State	57	
+2017-2-4	UMass-Lowell	60	Binghamton	59	
+2017-2-4	Wofford	65	Mercer	62	
+2017-2-4	Kent State	66	Miami (OH)	62	
+2017-2-4	Ohio State	70	Michigan	66	
+2017-2-4	UIC	105	Milwaukee	100	
+2017-2-4	Mississippi State	64	Tennessee	59	
+2017-2-4	Missouri	83	Arkansas	78	
+2017-2-4	Montana	90	Montana State	84	
+2017-2-4	North Carolina Central	68	Morgan State	62	
+2017-2-4	Central Connecticut	54	Mount St. Mary's	52	
+2017-2-4	Colorado State	69	UNLV	49	
+2017-2-4	San Jose State	78	New Mexico	68	
+2017-2-4	New Mexico State	86	Chicago State	51	
+2017-2-4	New Orleans	78	Nicholls State	69	
+2017-2-4	Miami (FL)	84	North Carolina State	79	
+2017-2-4	North Carolina-Wilmington	108	Delaware	80	
+2017-2-4	North Dakota	87	Northern Colorado	77	
+2017-2-4	South Dakota	76	North Dakota State	66	
+2017-2-4	North Florida	96	Stetson	64	
+2017-2-4	Rice	95	North Texas	80	
+2017-2-4	Northern Illinois	81	Eastern Michigan	69	
+2017-2-4	Northern Iowa	65	Indiana State	60	
+2017-2-4	Stephen F. Austin	75	Northwestern State	73	
+2017-2-4	Ohio	85	Akron	70	
+2017-2-4	Florida Atlantic	65	Old Dominion	61	
+2017-2-4	Oregon	85	Arizona	58	
+2017-2-4	Arizona State	81	Oregon State	68	
+2017-2-4	Rutgers	70	Penn State	68	
+2017-2-4	Pepperdine	82	Pacific	72	
+2017-2-4	Quinnipiac	89	Niagara	81	
+2017-2-4	Richmond	84	George Washington	75	
+2017-2-4	Sacred Heart	73	Bryant	70	
+2017-2-4	Fordham	86	St. Joseph's	83	
+2017-2-4	Saint Louis	78	North Carolina A&T;	59	
+2017-2-4	North Carolina-Greensboro	81	Samford	75	
+2017-2-4	Saint Mary's (CA)	71	San Diego	27	
+2017-2-4	San Francisco	74	Loyola Marymount	64	
+2017-2-4	Hampton	92	Savannah State	89	
+2017-2-4	Seattle	63	Utah Valley	50	
+2017-2-4	Canisius	80	Siena	73	
+2017-2-4	South Carolina	77	Georgia	75	
+2017-2-4	Norfolk State	65	South Carolina State	62	
+2017-2-4	South Dakota State	74	Oral Roberts	67	
+2017-2-4	Morehead State	89	Southeast Missouri State	81	
+2017-2-4	Southern	67	Grambling	66	
+2017-2-4	Jacksonville State	72	Southern Illinois-Edwardsville	61	
+2017-2-4	Western Kentucky	64	Southern Miss	47	
+2017-2-4	VCU	83	St. Bonaventure	77	
+2017-2-4	Robert Morris	78	St. Francis (NY)	54	
+2017-2-4	Stanford	81	Utah	75	
+2017-2-4	Syracuse	66	Virginia	62	
+2017-2-4	UT-Martin	85	Eastern Kentucky	68	
+2017-2-4	Texas-Arlington	76	Texas State	61	
+2017-2-4	Texas Christian	78	Texas	63	
+2017-2-4	UTEP	57	Middle Tennessee	54	
+2017-2-4	UMKC	73	Texas-Rio Grande Valley	60	
+2017-2-4	UTSA	82	Alabama-Birmingham	67	
+2017-2-4	Texas Southern	74	Prairie View	61	
+2017-2-4	Texas Tech	77	Oklahoma	69	
+2017-2-4	Towson	82	William & Mary	80	
+2017-2-4	South Alabama	76	Troy	71	
+2017-2-4	SMU	76	Tulsa	53	
+2017-2-4	Ole Miss	81	Vanderbilt	74	
+2017-2-4	Villanova	92	St. John's (NY)	79	
+2017-2-4	Wake Forest	81	Georgia Tech	69	
+2017-2-4	UCLA	107	Washington	66	
+2017-2-4	USC	86	Washington State	77	
+2017-2-4	Weber State	86	Northern Arizona	80	
+2017-2-4	Oklahoma State	82	West Virginia	75	
+2017-2-4	Nebraska-Omaha	79	Western Illinois	67	
+2017-2-4	Wichita State	86	Illinois State	45	
+2017-2-4	Winthrop	76	Campbell	62	
+2017-2-4	Northern Kentucky	83	Wright State	79	
+2017-2-4	Detroit	90	Youngstown State	80	
+2017-2-6	Arkansas-Pine Bluff	65	Alabama A&M;	49	
+2017-2-6	Alabama State	71	Mississippi Valley State	66	
+2017-2-6	Alcorn State	75	Grambling	65	
+2017-2-6	Arkansas-Little Rock	69	Appalachian State	62	
+2017-2-6	Arkansas State	67	Coastal Carolina	57	
+2017-2-6	Bethune-Cookman	71	Howard	67	
+2017-2-6	Bucknell	82	Holy Cross	68	
+2017-2-6	North Carolina Central	86	Coppin State	77	
+2017-2-6	Quinnipiac	73	Fairfield	71	
+2017-2-6	Delaware State	80	Florida A&M;	77	
+2017-2-6	Georgia Southern	74	Louisiana-Lafayette	70	
+2017-2-6	Georgia State	69	Louisiana-Monroe	55	
+2017-2-6	Kansas	74	Kansas State	71	
+2017-2-6	Maine	52	Hartford	41	
+2017-2-6	Albany (NY)	69	New Hampshire	55	
+2017-2-6	Monmouth	74	Rider	69	
+2017-2-6	Canisius	72	St. Peter's	70	
+2017-2-6	Norfolk State	92	Savannah State	87	
+2017-2-6	Hampton	93	South Carolina State	64	
+2017-2-6	Southern	88	Jackson State	75	
+2017-2-6	Stony Brook	83	UMass-Lowell	72	
+2017-2-6	Vermont	71	Binghamton	51	
+2017-2-6	Virginia	71	Louisville	55	
+2017-2-6	Wofford	79	ETSU	76	
+2017-2-7	Akron	65	Ball State	63	
+2017-2-7	Vanderbilt	72	Arkansas	59	
+2017-2-7	Auburn	98	Mississippi State	92	
+2017-2-7	Buffalo	65	Northern Illinois	45	
+2017-2-7	Syracuse	82	Clemson	81	
+2017-2-7	Colorado State	69	Utah State	52	
+2017-2-7	Dayton	77	St. Joseph's	70	
+2017-2-7	Illinois State	82	Drake	53	
+2017-2-7	Florida	72	Georgia	60	
+2017-2-7	Georgia Tech	96	Tusculum	58	
+2017-2-7	Siena	81	Iona	79	
+2017-2-7	Bowling Green State	84	Kent State	83	
+2017-2-7	Kentucky	92	LSU	85	
+2017-2-7	Butler	68	Marquette	65	
+2017-2-7	Rhode Island	70	UMass	62	
+2017-2-7	Memphis	66	Tulsa	44	
+2017-2-7	Western Michigan	72	Miami (OH)	55	
+2017-2-7	Michigan	86	Michigan State	57	
+2017-2-7	North Carolina A&T;	86	Allen	78	
+2017-2-7	Illinois	68	Northwestern	61	
+2017-2-7	Notre Dame	88	Wake Forest	81	
+2017-2-7	Central Michigan	97	Ohio	87	
+2017-2-7	Penn State	70	Maryland	64	
+2017-2-7	Princeton	64	Penn	49	
+2017-2-7	San Jose State	76	San Diego State	71	
+2017-2-7	Alabama	90	South Carolina	86	
+2017-2-7	Texas	67	Iowa State	65	
+2017-2-7	Texas Christian	62	Texas Tech	61	
+2017-2-7	Toledo	73	Eastern Michigan	57	
+2017-2-7	Villanova	75	Georgetown	64	
+2017-2-8	New Mexico	74	Air Force	67	
+2017-2-8	Boston University	67	American	64	
+2017-2-8	Arizona	74	Stanford	67	
+2017-2-8	University of California	68	Arizona State	43	
+2017-2-8	Pitt	83	Boston College	72	
+2017-2-8	Indiana State	56	Bradley	54	
+2017-2-8	UC-Davis	74	Cal State Fullerton	65	
+2017-2-8	UC-Irvine	64	UCSB	47	
+2017-2-8	Cincinnati	60	UCF	50	
+2017-2-8	Colgate	70	Army	58	
+2017-2-8	UConn	97	South Florida	51	
+2017-2-8	George Mason	76	Davidson	69	
+2017-2-8	Evansville	60	Loyola (IL)	58	
+2017-2-8	Florida State	95	North Carolina State	71	
+2017-2-8	La Salle	67	Fordham	52	
+2017-2-8	VCU	54	George Washington	53	
+2017-2-8	South Dakota	93	IPFW	82	
+2017-2-8	Lafayette	69	Holy Cross	59	
+2017-2-8	Lehigh	79	Bucknell	71	
+2017-2-8	Miami (FL)	74	Virginia Tech	68	
+2017-2-8	Minnesota	101	Iowa	89	
+2017-2-8	Morehead State	101	Murray State	100	
+2017-2-8	Navy	62	Loyola (MD)	59	
+2017-2-8	IUPUI	89	Nebraska-Omaha	78	
+2017-2-8	Nevada	104	UNLV	77	
+2017-2-8	North Dakota State	82	South Dakota State	65	
+2017-2-8	Northern Iowa	49	Southern Illinois	41	
+2017-2-8	Ohio State	70	Rutgers	64	
+2017-2-8	West Virginia	61	Oklahoma	50	
+2017-2-8	Baylor	72	Oklahoma State	69	
+2017-2-8	Western Illinois	63	Oral Roberts	60	
+2017-2-8	Seton Hall	72	Providence	70	
+2017-2-8	St. Bonaventure	70	Saint Louis	55	
+2017-2-8	Tennessee	75	Ole Miss	66	
+2017-2-8	Texas A&M;	76	Missouri	73	
+2017-2-8	Texas A&M-Corpus; Christi	80	Southeastern Louisiana	75	
+2017-2-8	Houston	91	Tulane	62	
+2017-2-8	Wyoming	102	Fresno State	100	
+2017-2-8	Xavier	72	DePaul	61	
+2017-2-9	Alabama-Birmingham	82	Charlotte	69	
+2017-2-9	Albany (NY)	66	Binghamton	54	
+2017-2-9	LIU-Brooklyn	88	Bryant	85	
+2017-2-9	Cal State Bakersfield	72	New Mexico State	53	
+2017-2-9	Long Beach State	78	UC-Riverside	71	
+2017-2-9	Campbell	83	Longwood	79	
+2017-2-9	Central Arkansas	84	Abilene Christian	73	
+2017-2-9	Seattle	90	Chicago State	65	
+2017-2-9	Northeastern	73	College of Charleston	72	
+2017-2-9	Colorado	81	Washington	66	
+2017-2-9	Delaware	76	Elon	74	
+2017-2-9	Drexel	79	William & Mary	61	
+2017-2-9	Duke	86	UNC	78	
+2017-2-9	ETSU	90	Citadel	69	
+2017-2-9	Eastern Illinois	81	UT-Martin	71	
+2017-2-9	Fairleigh Dickinson	79	Central Connecticut	62	
+2017-2-9	North Texas	70	Florida Atlantic	64	
+2017-2-9	Lipscomb	65	Florida Gulf Coast	60	
+2017-2-9	Rice	89	Florida International	78	
+2017-2-9	Furman	60	Chattanooga	56	
+2017-2-9	Liberty	92	Gardner-Webb	87	
+2017-2-9	Grand Canyon	76	Texas-Rio Grande Valley	57	
+2017-2-9	Hawaii	74	Cal Poly	65	
+2017-2-9	UIC	84	Youngstown State	81	
+2017-2-9	Purdue	69	Indiana	64	
+2017-2-9	South Carolina Upstate	70	Jacksonville	67	
+2017-2-9	Belmont	66	Jacksonville State	53	
+2017-2-9	Lamar	80	Sam Houston State	76	
+2017-2-9	Gonzaga	90	Loyola Marymount	60	
+2017-2-9	Fairfield	73	Marist	53	
+2017-2-9	Hartford	84	UMBC	77	
+2017-2-9	UMass-Lowell	100	Maine	68	
+2017-2-9	New Orleans	69	McNeese State	63	
+2017-2-9	Middle Tennessee	64	Old Dominion	51	
+2017-2-9	UMKC	84	Utah Valley	76	
+2017-2-9	Wisconsin	70	Nebraska	69	
+2017-2-9	North Carolina-Asheville	104	Winthrop	101	
+2017-2-9	North Carolina-Wilmington	88	James Madison	73	
+2017-2-9	North Dakota	95	Eastern Washington	86	
+2017-2-9	North Florida	91	NJIT	69	
+2017-2-9	Northern Arizona	69	Montana State	63	
+2017-2-9	Idaho	88	Northern Colorado	76	
+2017-2-9	Northern Kentucky	69	Green Bay	67	
+2017-2-9	Houston Baptist	86	Northwestern State	69	
+2017-2-9	Pacific	61	San Diego	58	
+2017-2-9	Pepperdine	99	BYU	83	
+2017-2-9	Portland State	74	Idaho State	69	
+2017-2-9	High Point	68	Presbyterian	58	
+2017-2-9	St. Peter's	76	Quinnipiac	45	
+2017-2-9	Radford	79	Charleston Southern	67	
+2017-2-9	Mount St. Mary's	74	Robert Morris	70	
+2017-2-9	Sacramento State	77	Weber State	74	
+2017-2-9	Sacred Heart	80	St. Francis (NY)	65	
+2017-2-9	Wagner	76	Saint Francis (PA)	74	
+2017-2-9	Saint Mary's (CA)	51	Portland	41	
+2017-2-9	San Francisco	61	Santa Clara	58	
+2017-2-9	USC	92	Oregon State	66	
+2017-2-9	Southeast Missouri State	71	Southern Illinois-Edwardsville	67	
+2017-2-9	Montana	70	Southern Utah	55	
+2017-2-9	Stephen F. Austin	87	Incarnate Word	79	
+2017-2-9	Kennesaw State	92	Stetson	85	
+2017-2-9	SMU	66	Temple	50	
+2017-2-9	Tennessee State	72	Tennessee Tech	59	
+2017-2-9	Louisiana Tech	62	UTEP	61	
+2017-2-9	UTSA	57	Southern Miss	51	
+2017-2-9	Towson	69	Hofstra	65	
+2017-2-9	UCLA	82	Oregon	79	
+2017-2-9	Utah	74	Washington State	70	
+2017-2-9	Valparaiso	78	Cleveland State	57	
+2017-2-9	Vermont	82	New Hampshire	74	
+2017-2-9	Mercer	81	Virginia Military Institute	51	
+2017-2-9	Wichita State	80	Missouri State	62	
+2017-2-9	Wofford	131	Samford	127	
+2017-2-9	Wright State	76	Milwaukee	65	
+2017-3-1	Incarnate Word	89	Abilene Christian	75	
+2017-3-1	Alabama	70	Ole Miss	55	
+2017-3-1	Albany (NY)	100	Hartford	71	
+2017-3-1	UC-Irvine	68	UC-Riverside	56	
+2017-3-1	Clemson	78	North Carolina State	74	
+2017-3-1	Dayton	79	VCU	72	
+2017-3-1	East Carolina	66	UConn	62	
+2017-3-1	Florida	78	Arkansas	65	
+2017-3-1	George Washington	67	Fordham	66	
+2017-3-1	George Mason	63	Duquesne	62	
+2017-3-1	Georgia	79	Auburn	78	
+2017-3-1	Houston Baptist	94	Texas A&M-Corpus; Christi	80	
+2017-3-1	Illinois	73	Michigan State	70	
+2017-3-1	Robert Morris	69	LIU-Brooklyn	68	
+2017-3-1	LSU	92	Tennessee	82	
+2017-3-1	Richmond	75	UMass	64	
+2017-3-1	Mount St. Mary's	76	Sacred Heart	73	
+2017-3-1	UNLV	66	Utah State	59	
+2017-3-1	New Hampshire	74	UMBC	65	
+2017-3-1	Northwestern	67	Michigan	65	
+2017-3-1	Notre Dame	82	Boston College	66	
+2017-3-1	Saint Francis (PA)	100	Bryant	78	
+2017-3-1	Rhode Island	68	St. Joseph's	49	
+2017-3-1	Saint Louis	70	La Salle	55	
+2017-3-1	San Diego State	51	Air Force	38	
+2017-3-1	Nevada	82	San Jose State	67	
+2017-3-1	Southeast Missouri State	78	Tennessee State	75	
+2017-3-1	USC	87	Washington State	64	
+2017-3-1	Stony Brook	70	Binghamton	60	
+2017-3-1	Murray State	85	Tennessee Tech	84	
+2017-3-1	Kansas State	75	Texas Christian	74	
+2017-3-1	Texas Tech	67	Texas	57	
+2017-3-1	UCLA	98	Washington	66	
+2017-3-1	Vermont	86	Maine	41	
+2017-3-1	Wagner	72	Fairleigh Dickinson	70	
+2017-3-1	Wake Forest	88	Louisville	81	
+2017-3-1	Marquette	95	Xavier	84	
+2017-3-11	Kent State	70	Akron	65	
+2017-3-11	Arkansas	76	Vanderbilt	62	
+2017-3-11	New Mexico State	70	Cal State Bakersfield	60	
+2017-3-11	UC-Davis	50	UC-Irvine	47	
+2017-3-11	Cincinnati	81	UConn	71	
+2017-3-11	Troy	74	Georgia State	63	
+2017-3-11	Yale	73	Harvard	71	
+2017-3-11	Kentucky	79	Alabama	74	
+2017-3-11	Middle Tennessee	83	Marshall	72	
+2017-3-11	Michigan	84	Minnesota	77	
+2017-3-11	Nevada	79	Colorado State	71	
+2017-3-11	New Orleans	68	Texas A&M-Corpus; Christi	65	
+2017-3-11	North Carolina Central	67	Norfolk State	59	
+2017-3-11	North Dakota	93	Weber State	89	
+2017-3-11	Duke	75	Notre Dame	69	
+2017-3-11	Arizona	83	Oregon	80	
+2017-3-11	Princeton	72	Penn	64	
+2017-3-11	Rhode Island	84	Davidson	60	
+2017-3-11	SMU	70	UCF	59	
+2017-3-11	Texas State	83	Texas-Arlington	62	
+2017-3-11	Texas Southern	53	Alcorn State	50	
+2017-3-11	Vermont	56	Albany (NY)	53	
+2017-3-11	Villanova	74	Creighton	60	
+2017-3-11	VCU	87	Richmond	77	
+2017-3-11	Iowa State	80	West Virginia	74	
+2017-3-11	Wisconsin	76	Northwestern	48	
+2017-3-12	Kentucky	82	Arkansas	65	
+2017-3-12	Princeton	71	Yale	59	
+2017-3-12	SMU	71	Cincinnati	56	
+2017-3-12	Troy	59	Texas State	53	
+2017-3-12	Rhode Island	70	VCU	63	
+2017-3-12	Michigan	71	Wisconsin	56	
+2017-3-2	Alabama-Birmingham	79	Florida Atlantic	59	
+2017-3-2	Bucknell	78	Army	62	
+2017-3-2	Bethune-Cookman	69	Florida A&M;	59	
+2017-3-2	Bradley	67	Drake	58	
+2017-3-2	Cal Poly	76	Cal State Northridge	70	
+2017-3-2	Cal State Fullerton	65	UCSB	54	
+2017-3-2	UC-Davis	68	Hawaii	59	
+2017-3-2	Campbell	81	North Carolina-Asheville	79	
+2017-3-2	Canisius	77	Marist	73	
+2017-3-2	Winthrop	92	Charleston Southern	78	
+2017-3-2	Cincinnati	65	Houston	47	
+2017-3-2	Colorado	91	Stanford	72	
+2017-3-2	Hampton	89	Coppin State	82	
+2017-3-2	Delaware State	66	Howard	56	
+2017-3-2	Evansville	83	Indiana State	72	
+2017-3-2	Florida Gulf Coast	74	Kennesaw State	62	
+2017-3-2	Gardner-Webb	91	High Point	55	
+2017-3-2	Grambling	82	Alabama State	69	
+2017-3-2	Montana State	79	Idaho State	68	
+2017-3-2	Jackson State	72	Alabama A&M;	64	
+2017-3-2	Jacksonville State	74	Southeast Missouri State	51	
+2017-3-2	Lamar	87	Nicholls State	75	
+2017-3-2	Lehigh	77	Colgate	72	
+2017-3-2	Radford	56	Liberty	52	
+2017-3-2	North Florida	91	Lipscomb	85	
+2017-3-2	Louisiana-Lafayette	94	Texas State	84	
+2017-3-2	Texas-Arlington	72	Louisiana-Monroe	57	
+2017-3-2	Boston University	64	Loyola (MD)	60	
+2017-3-2	Rice	89	Marshall	88	
+2017-3-2	Maryland-Eastern Shore	67	Morgan State	66	
+2017-3-2	Memphis	92	Tulane	70	
+2017-3-2	Middle Tennessee	70	Florida International	67	
+2017-3-2	Minnesota	88	Nebraska	73	
+2017-3-2	Murray State	75	Morehead State	69	
+2017-3-2	Navy	49	Holy Cross	42	
+2017-3-2	Southeastern Louisiana	63	New Orleans	58	
+2017-3-2	North Carolina A&T;	68	North Carolina Central	63	
+2017-3-2	Sacramento State	57	North Dakota	53	
+2017-3-2	Idaho	77	Northern Arizona	75	
+2017-3-2	Northern Colorado	87	Portland State	84	
+2017-3-2	Prairie View	70	Southern	64	
+2017-3-2	Niagara	88	Quinnipiac	69	
+2017-3-2	Rider	69	Manhattan	68	
+2017-3-2	Sam Houston State	79	McNeese State	74	
+2017-3-2	Savannah State	95	South Carolina State	88	
+2017-3-2	Arkansas-Little Rock	62	South Alabama	57	
+2017-3-2	UCF	59	South Florida	56	
+2017-3-2	SMU	93	Tulsa	70	
+2017-3-2	Eastern Washington	91	Southern Utah	75	
+2017-3-2	Northwestern State	72	Stephen F. Austin	67	
+2017-3-2	Old Dominion	62	UTEP	61	
+2017-3-2	Charlotte	76	UTSA	75	
+2017-3-2	Texas Southern	94	Alcorn State	88	
+2017-3-2	Troy	81	Arkansas State	72	
+2017-3-2	Utah	74	University of California	44	
+2017-3-2	Montana	78	Weber State	74	
+2017-3-2	Western Kentucky	74	North Texas	63	
+2017-3-2	Iowa	59	Wisconsin	57	
+2017-3-3	Ball State	87	Northern Illinois	82	
+2017-3-3	Jacksonville State	65	Belmont	59	
+2017-3-3	Brown	88	Columbia	68	
+2017-3-3	Buffalo	80	Bowling Green State	68	
+2017-3-3	Youngstown State	84	Cleveland State	69	
+2017-3-3	Milwaukee	85	Detroit	60	
+2017-3-3	Toledo	60	Eastern Michigan	56	
+2017-3-3	Delaware	81	Hofstra	76	
+2017-3-3	Illinois State	80	Evansville	69	
+2017-3-3	James Madison	80	Drexel	70	
+2017-3-3	Akron	66	Kent State	56	
+2017-3-3	Monmouth	84	Niagara	59	
+2017-3-3	Missouri State	70	Northern Iowa	64	
+2017-3-3	Ohio	69	Miami (OH)	55	
+2017-3-3	Dartmouth	76	Penn	74	
+2017-3-3	Pacific	89	Pepperdine	84	
+2017-3-3	Princeton	73	Harvard	69	
+2017-3-3	Campbell	66	Radford	50	
+2017-3-3	St. Peter's	61	Canisius	58	
+2017-3-3	Samford	79	Virginia Military Institute	61	
+2017-3-3	Portland	60	San Diego	55	
+2017-3-3	Southern Illinois	55	Loyola (IL)	50	
+2017-3-3	UT-Martin	73	Murray State	67	
+2017-3-3	West Virginia	87	Iowa State	76	
+2017-3-3	Citadel	78	Western Carolina	72	
+2017-3-3	Western Michigan	88	Central Michigan	80	
+2017-3-3	Wichita State	82	Bradley	56	
+2017-3-3	Winthrop	80	Gardner-Webb	77	
+2017-3-3	Yale	90	Cornell	63	
+2017-3-4	Boise State	98	Air Force	70	
+2017-3-4	Florida International	68	Alabama-Birmingham	56	
+2017-3-4	Appalachian State	77	Coastal Carolina	73	
+2017-3-4	Arizona	73	Arizona State	60	
+2017-3-4	Arkansas	85	Georgia	67	
+2017-3-4	Auburn	89	Missouri	78	
+2017-3-4	BYU	89	Loyola Marymount	81	
+2017-3-4	Cornell	92	Brown	78	
+2017-3-4	Seton Hall	70	Butler	64	
+2017-3-4	UCSB	57	Cal Poly	44	
+2017-3-4	Grand Canyon	58	Cal State Bakersfield	52	
+2017-3-4	Cal State Fullerton	86	Cal State Northridge	78	
+2017-3-4	UC-Irvine	79	UC-Davis	49	
+2017-3-4	Wofford	79	Chattanooga	67	
+2017-3-4	UMKC	87	Chicago State	82	
+2017-3-4	Clemson	82	Boston College	68	
+2017-3-4	College of Charleston	67	James Madison	62	
+2017-3-4	Colorado	54	University of California	46	
+2017-3-4	Xavier	79	DePaul	65	
+2017-3-4	St. Joseph's	63	Duquesne	60	
+2017-3-4	ETSU	73	Mercer	66	
+2017-3-4	Florida State	66	Miami (FL)	57	
+2017-3-4	Fresno State	72	UNLV	59	
+2017-3-4	Samford	67	Furman	63	
+2017-3-4	George Washington	87	Dayton	81	
+2017-3-4	Villanova	81	Georgetown	55	
+2017-3-4	Georgia State	72	Georgia Southern	67	
+2017-3-4	Gonzaga	82	Pacific	50	
+2017-3-4	Grambling	78	Alabama A&M;	57	
+2017-3-4	Houston Baptist	81	Abilene Christian	72	
+2017-3-4	Montana	95	Idaho State	76	
+2017-3-4	Illinois State	63	Southern Illinois	50	
+2017-3-4	Iona	88	Rider	70	
+2017-3-4	Jackson State	65	Alabama State	59	
+2017-3-4	Kansas State	61	Texas Tech	48	
+2017-3-4	La Salle	66	Fordham	54	
+2017-3-4	Long Beach State	84	Hawaii	75	
+2017-3-4	Louisiana-Lafayette	83	Texas-Arlington	81	
+2017-3-4	Texas State	70	Louisiana-Monroe	65	
+2017-3-4	Louisiana Tech	93	Southern Miss	65	
+2017-3-4	Louisville	71	Notre Dame	64	
+2017-3-4	Marquette	91	Creighton	83	
+2017-3-4	Marshall	106	North Texas	104	
+2017-3-4	Maryland	63	Michigan State	60	
+2017-3-4	Lamar	90	McNeese State	83	
+2017-3-4	Middle Tennessee	93	Florida Atlantic	59	
+2017-3-4	Ole Miss	75	South Carolina	70	
+2017-3-4	Mississippi State	88	LSU	76	
+2017-3-4	Mississippi Valley State	88	Arkansas-Pine Bluff	77	
+2017-3-4	Mount St. Mary's	75	Robert Morris	66	
+2017-3-4	Nevada	85	Colorado State	72	
+2017-3-4	New Mexico	64	San Diego State	59	
+2017-3-4	New Mexico State	107	Texas-Rio Grande Valley	81	
+2017-3-4	New Orleans	74	Nicholls State	64	
+2017-3-4	UNC	90	Duke	83	
+2017-3-4	North Carolina-Greensboro	76	Citadel	67	
+2017-3-4	North Carolina-Wilmington	91	Delaware	82	
+2017-3-4	North Dakota	82	Portland State	73	
+2017-3-4	IUPUI	76	North Dakota State	57	
+2017-3-4	Northern Arizona	76	Eastern Washington	61	
+2017-3-4	Northern Colorado	70	Sacramento State	67	
+2017-3-4	Northwestern State	97	Central Arkansas	83	
+2017-3-4	Youngstown State	81	Oakland	80	
+2017-3-4	Indiana	96	Ohio State	92	
+2017-3-4	Oklahoma	73	Texas Christian	68	
+2017-3-4	Kansas	90	Oklahoma State	85	
+2017-3-4	Oregon	80	Oregon State	59	
+2017-3-4	Penn	75	Harvard	72	
+2017-3-4	Prairie View	66	Alcorn State	60	
+2017-3-4	Princeton	85	Dartmouth	48	
+2017-3-4	Rhode Island	73	Davidson	70	
+2017-3-4	Richmond	72	Saint Louis	62	
+2017-3-4	Rutgers	62	Illinois	59	
+2017-3-4	Saint Mary's (CA)	81	Portland	58	
+2017-3-4	Santa Clara	76	San Francisco	69	
+2017-3-4	Siena	78	Fairfield	66	
+2017-3-4	South Alabama	73	Arkansas State	70	
+2017-3-4	South Dakota	78	Western Illinois	69	
+2017-3-4	USC	74	Washington	58	
+2017-3-4	SMU	103	Memphis	62	
+2017-3-4	Idaho	84	Southern Utah	75	
+2017-3-4	St. Bonaventure	60	UMass	56	
+2017-3-4	Providence	86	St. John's (NY)	75	
+2017-3-4	Stephen F. Austin	64	Sam Houston State	56	
+2017-3-4	Syracuse	90	Georgia Tech	61	
+2017-3-4	Tennessee	59	Alabama	54	
+2017-3-4	Jacksonville State	66	UT-Martin	55	
+2017-3-4	Baylor	75	Texas	64	
+2017-3-4	Kentucky	71	Texas A&M;	63	
+2017-3-4	Texas A&M-Corpus; Christi	81	Incarnate Word	64	
+2017-3-4	UTEP	74	Charlotte	67	
+2017-3-4	UTSA	73	Old Dominion	55	
+2017-3-4	Texas Southern	82	Southern	69	
+2017-3-4	Towson	82	Northeastern	54	
+2017-3-4	Troy	57	Arkansas-Little Rock	54	
+2017-3-4	UCLA	77	Washington State	68	
+2017-3-4	Utah	67	Stanford	59	
+2017-3-4	Utah Valley	61	Seattle	54	
+2017-3-4	Milwaukee	43	Valparaiso	41	
+2017-3-4	Vanderbilt	73	Florida	71	
+2017-3-4	Virginia	67	Pitt	42	
+2017-3-4	VCU	72	George Mason	60	
+2017-3-4	Wake Forest	89	Virginia Tech	84	
+2017-3-4	Saint Francis (PA)	71	Wagner	70	
+2017-3-4	Weber State	76	Montana State	67	
+2017-3-4	Western Kentucky	79	Rice	72	
+2017-3-4	Wichita State	78	Missouri State	63	
+2017-3-4	William & Mary	71	Elon	66	
+2017-3-4	Wyoming	74	San Jose State	62	
+2017-3-4	Yale	75	Columbia	71	
+2017-3-5	Lehigh	91	Boston University	88	
+2017-3-5	Bucknell	70	Navy	65	
+2017-3-5	College of Charleston	67	Towson	59	
+2017-3-5	Cincinnati	67	UConn	47	
+2017-3-5	ETSU	81	Samford	72	
+2017-3-5	Florida Gulf Coast	77	North Florida	61	
+2017-3-5	UIC	79	Green Bay	70	
+2017-3-5	Houston	73	East Carolina	51	
+2017-3-5	Wichita State	71	Illinois State	51	
+2017-3-5	Iowa	90	Penn State	79	
+2017-3-5	Siena	89	Monmouth	85	
+2017-3-5	Michigan	93	Nebraska	57	
+2017-3-5	Nebraska-Omaha	84	IPFW	80	
+2017-3-5	North Carolina-Greensboro	77	Wofford	73	
+2017-3-5	North Carolina-Wilmington	105	William & Mary	94	
+2017-3-5	Northern Kentucky	82	Wright State	77	
+2017-3-5	Purdue	69	Northwestern	65	
+2017-3-5	Iona	73	St. Peter's	65	
+2017-3-5	South Dakota State	83	Denver	73	
+2017-3-5	Temple	72	South Florida	60	
+2017-3-5	Tulane	81	Tulsa	69	
+2017-3-5	Winthrop	76	Campbell	59	
+2017-3-5	Wisconsin	66	Minnesota	49	
+2017-3-6	Howard	79	Coppin State	73	
+2017-3-6	Eastern Michigan	72	Northern Illinois	69	
+2017-3-6	Gonzaga	77	Santa Clara	68	
+2017-3-6	Milwaukee	74	UIC	68	
+2017-3-6	Iona	87	Siena	86	
+2017-3-6	Kent State	116	Central Michigan	106	
+2017-3-6	Maryland-Eastern Shore	74	North Carolina A&T;	67	
+2017-3-6	Nebraska-Omaha	90	IUPUI	62	
+2017-3-6	ETSU	79	North Carolina-Greensboro	74	
+2017-3-6	North Carolina-Wilmington	78	College of Charleston	69	
+2017-3-6	Northern Kentucky	84	Youngstown State	74	
+2017-3-6	Saint Mary's (CA)	81	BYU	50	
+2017-3-6	South Dakota State	74	South Dakota	71	
+2017-3-6	Albany (NY)	63	Stony Brook	56	
+2017-3-6	Toledo	77	Bowling Green State	62	
+2017-3-6	Vermont	74	New Hampshire	41	
+2017-3-6	Western Michigan	65	Miami (OH)	61	
+2017-3-7	Alcorn State	63	Mississippi Valley State	60	
+2017-3-7	Clemson	75	North Carolina State	61	
+2017-3-7	Bethune-Cookman	69	Delaware State	62	
+2017-3-7	Pitt	61	Georgia Tech	59	
+2017-3-7	Gonzaga	74	Saint Mary's (CA)	56	
+2017-3-7	Southern Utah	109	Montana State	105	
+2017-3-7	Mount St. Mary's	71	Saint Francis (PA)	61	
+2017-3-7	South Dakota State	79	Nebraska-Omaha	77	
+2017-3-7	Northern Kentucky	59	Milwaukee	53	
+2017-3-7	Portland State	80	Northern Arizona	67	
+2017-3-7	Grambling	81	Prairie View	77	
+2017-3-7	Sacramento State	91	Idaho State	76	
+2017-3-7	South Carolina State	82	Florida A&M;	78	
+2017-3-7	Southern	69	Jackson State	63	
+2017-3-7	Texas Southern	87	Alabama State	72	
+2017-3-7	Wake Forest	92	Boston College	78	
+2017-3-8	Alabama-Birmingham	74	Charlotte	73	
+2017-3-8	Arizona State	98	Stanford	88	
+2017-3-8	Louisiana-Monroe	73	Arkansas State	70	
+2017-3-8	Missouri	86	Auburn	83	
+2017-3-8	Bucknell	81	Lehigh	65	
+2017-3-8	University of California	67	Oregon State	62	
+2017-3-8	Coastal Carolina	80	South Alabama	67	
+2017-3-8	Colorado	73	Washington State	63	
+2017-3-8	Duke	79	Clemson	72	
+2017-3-8	Lamar	77	Southeastern Louisiana	65	
+2017-3-8	Louisiana-Lafayette	78	Arkansas-Little Rock	71	
+2017-3-8	Marshall	89	Florida Atlantic	74	
+2017-3-8	UMass	70	St. Joseph's	63	
+2017-3-8	Mississippi State	79	LSU	52	
+2017-3-8	Penn State	76	Nebraska	67	
+2017-3-8	Norfolk State	93	South Carolina State	88	
+2017-3-8	North Carolina Central	95	Bethune-Cookman	60	
+2017-3-8	Rutgers	66	Ohio State	57	
+2017-3-8	Rice	86	Southern Miss	75	
+2017-3-8	Saint Louis	72	Duquesne	71	
+2017-3-8	Sam Houston State	77	Central Arkansas	69	
+2017-3-8	San Diego State	62	UNLV	52	
+2017-3-8	USC	78	Washington	73	
+2017-3-8	St. John's (NY)	74	Georgetown	73	
+2017-3-8	Miami (FL)	62	Syracuse	57	
+2017-3-8	Texas Christian	82	Oklahoma	63	
+2017-3-8	Texas	61	Texas Tech	52	
+2017-3-8	Troy	84	Appalachian State	64	
+2017-3-8	Utah State	90	San Jose State	64	
+2017-3-8	Virginia	75	Pitt	63	
+2017-3-8	Virginia Tech	99	Wake Forest	90	
+2017-3-8	UTSA	56	Western Kentucky	52	
+2017-3-8	Air Force	83	Wyoming	68	
+2017-3-8	Xavier	75	DePaul	64	
+2017-3-9	Akron	79	Eastern Michigan	62	
+2017-3-9	Alabama	75	Mississippi State	55	
+2017-3-9	Arizona	92	Colorado	78	
+2017-3-9	Ball State	66	Western Michigan	63	
+2017-3-9	Kansas State	70	Baylor	64	
+2017-3-9	San Diego State	87	Boise State	68	
+2017-3-9	Kent State	68	Buffalo	65	
+2017-3-9	Xavier	62	Butler	57	
+2017-3-9	Cal State Fullerton	81	Cal State Northridge	68	
+2017-3-9	UC-Davis	66	Cal Poly	55	
+2017-3-9	UC-Irvine	76	UC-Riverside	67	
+2017-3-9	Colorado State	81	Air Force	55	
+2017-3-9	UConn	77	South Florida	66	
+2017-3-9	Eastern Washington	89	Sacramento State	70	
+2017-3-9	Florida State	74	Virginia Tech	68	
+2017-3-9	Fresno State	65	New Mexico	60	
+2017-3-9	George Mason	82	Fordham	71	
+2017-3-9	George Washington	53	Saint Louis	46	
+2017-3-9	Georgia	59	Tennessee	57	
+2017-3-9	Maryland-Eastern Shore	68	Hampton	66	
+2017-3-9	Sam Houston State	63	Houston Baptist	59	
+2017-3-9	Idaho	81	Montana	77	
+2017-3-9	Indiana	95	Iowa	73	
+2017-3-9	Iowa State	92	Oklahoma State	83	
+2017-3-9	Texas Christian	85	Kansas	82	
+2017-3-9	Davidson	82	La Salle	73	
+2017-3-9	Long Beach State	73	Hawaii	62	
+2017-3-9	Louisiana Tech	69	Alabama-Birmingham	57	
+2017-3-9	Duke	81	Louisville	77	
+2017-3-9	Seton Hall	82	Marquette	76	
+2017-3-9	Michigan	75	Illinois	55	
+2017-3-9	Michigan State	78	Penn State	51	
+2017-3-9	Middle Tennessee	86	UTSA	70	
+2017-3-9	Ole Miss	86	Missouri	74	
+2017-3-9	UMKC	82	Texas-Rio Grande Valley	78	
+2017-3-9	Howard	68	Morgan State	65	
+2017-3-9	Nevada	83	Utah State	69	
+2017-3-9	New Mexico State	67	Chicago State	53	
+2017-3-9	UNC	78	Miami (FL)	53	
+2017-3-9	North Dakota	95	Portland State	72	
+2017-3-9	Northwestern	83	Rutgers	61	
+2017-3-9	Notre Dame	71	Virginia	58	
+2017-3-9	Ohio	67	Toledo	66	
+2017-3-9	Marshall	64	Old Dominion	63	
+2017-3-9	Oregon	80	Arizona State	57	
+2017-3-9	Creighton	70	Providence	58	
+2017-3-9	St. Bonaventure	73	UMass	60	
+2017-3-9	Stephen F. Austin	75	Lamar	59	
+2017-3-9	East Carolina	80	Temple	69	
+2017-3-9	UTEP	86	Rice	76	
+2017-3-9	Tulsa	66	Tulane	60	
+2017-3-9	UCLA	76	USC	74	
+2017-3-9	University of California	78	Utah	75	
+2017-3-9	Utah Valley	65	Seattle	53	
+2017-3-9	Vanderbilt	66	Texas A&M;	41	
+2017-3-9	Villanova	108	St. John's (NY)	67	
+2017-3-9	Weber State	90	Southern Utah	70	
+2017-3-9	West Virginia	63	Texas	53	

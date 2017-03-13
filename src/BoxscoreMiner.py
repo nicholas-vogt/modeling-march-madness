@@ -82,10 +82,10 @@ class BoxscoreMiner(Miner):
         away_team, home_team = get_team_names(self.soup)
         tables = self.soup.find_all('tbody')
         
-        home_tbl = tables[-2]
+        home_tbl = tables[-1]
         home_players = [[date, home_team] + stats for stats in get_stats_from_table(home_tbl)]
         
-        away_tbl = tables[-1]
+        away_tbl = tables[-2]
         away_players = [[date, away_team] + stats for stats in get_stats_from_table(away_tbl)]
         
         self.game_data = home_players + away_players
@@ -139,7 +139,7 @@ def get_team_names(soup):
 
 
 if __name__ == '__main__':
-    miner = BoxscoreMiner("./../data/boxscores-2017.txt")
+    miner = BoxscoreMiner("./../data-raw/boxscores-2017.txt")
     boxscore_dir = "./../html/boxscores/"
     for root, dirs, files in os.walk(boxscore_dir):
         for f in files:
