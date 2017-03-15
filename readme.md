@@ -2,18 +2,18 @@
 ### A four-part series by Nick Vogt
 ###### Repo is updated through _Workshop 3: Model Selection_. The next workshop will be posted in early April.
 
-Join [me](http://nicholas-vogt.github.io/home) and [MSU Data Science](http://msudatascience.com/) in modeling march madness entirely in Python!
-
-If you have any feedback or run into any problems, you can [find me on twitter](twitter.com/vogt4nick).
+Join me and [MSU Data Science](http://msudatascience.com/) in modeling march madness entirely in Python!
 
 Learn how to scrape web pages to build your dataset and model the tournament in 4 parts:
 
 1. Web Scraping  
 2. Data Mining and Feature Engineering  
 3. Choosing a Model  
-4. Model Evaluation  
+4. Model Evaluation   
 
 At the end of this project, you will have a fully function model of the NCAA Basketball Tournament. Tweak it to your own needs and desires to beat up on your friends and co-workers in a tourney pool. 
+
+If you have any feedback or run into any problems, you can [find me on twitter](twitter.com/vogt4nick).
 
 ## Quick Start
 
@@ -23,23 +23,22 @@ To scrape all web pages, run the `scrape-sportsreference-cbb.py` file in the com
 
 To mine all htmls, run the `GamesheetMiner.py` and `BoxscoreMiner.py` files in the command line. These don't take as long to run, but will still take about an hour depending on how many seasons you're scraping. 
 
-Selection Sunday is almost here! The model selection and model evaluation files will be posted next. 
+Due to a family emergency in early March, I wasn't able to put as much time into the Model Selection portion of the repo as I would have liked. The `feature-engineering-and-model-selection.ipynb` file contains sample code for building a (rather poor) logit model. I understand it's not much use after the tournament has started, but I will continue to push updates on the model selection files through the month of March. 
+
+Model evaluation is next! Look out for the next update on April 10, 2017.
 
 ## Python Version and Libraries
 
 These workshops use Python 3.5. I'm pretty certain any Python 3 version will suffice, but update your version if you have doubts. 
 
-We'll make heavy use of the `requests` and `BeautifulSoup` libraries. The former is a Python default, but the latter will need to be installed. If you don't know how, [read the docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup). Others have explained this better than I could, so if the docs leave you confused, a google search should be sufficient to help you install it.
-
-Of course, we'll use other libraries, but I've specifically left these workshops to focus on Python built-ins. 
+We'll make heavy use of the `requests`, `BeautifulSoup`, `pandas`, and `statsmodels` libraries. The first is a Python default, but the others will need to be installed. If you don't know how to install packages, I encourage you to look online for tutorials. Others have explained this better than I could. 
 
 # Resources
 
-There are three main resources:
+There are two main resources:
 
 1. Jupyter Notebooks  
 2. Powerpoint Presentations
-3. Youtube Videos (forthcoming)
 
 ### Jupyter Notebooks and Powerpoint Presentations
 
@@ -56,25 +55,6 @@ Directory Map
 
 The `src` files wil create the remaining directories in the root directory when python are run. 
 
-### Youtube Videos
-
-The workshops will be posted on the MSU Data Science [youtube channel](https://www.youtube.com/channel/UC6QjLVucAiw_XelTrPnAu1g) and  delivered at Michigan State Univeristy throughout the Spring. 
-
-If you live near East Lansing, MI and want to attend the workshops, keep an eye on the MSU Data Science [website](http://msudatascience.com/) or [facebook page](https://www.facebook.com/MSUDataScience/) for event updates. Attendance is free for everyone.
-
-### Python Files
-
-All Python files can be found in the `src` subdirectory.
-
-```
-/src
-    Scripts:
-        Scraper.py -- Contains the main Scraper class.
-        scrape-sports-reference.py -- Scrapes all cbb gamesheets and boxscores from sports-reference.com
-
-    Notebooks:
-        web-scraping.ipynb -- Corresponding notebook to the `web-scraping.pptx` file.
-```
 ## Legal Disclaimer
 
 None of my communication should be understood as legal advice. I am not responsible for any liabilities incurred by users of this repo. It is your responsibility to ensure you are operating within your legal rights. As noted several times throughout the tutorials, scrape responsibly.
